@@ -4,7 +4,7 @@
 # If the answer finds too much or too little, look at data/raw/wikidata-seeds/holywells.json; compare with w.wiki/AM5G.
 # The verb seeds-from-sparql runs this query at query.wikidata.org; ?kind becomes the column "kind" of the seed list.
 SELECT DISTINCT ?item ?kind WHERE {
-  { ?item wdt:P31 wd:Q126443332 . }
+  { ?item p:P31/ps:P31 wd:Q126443332 . }
   UNION
   { ?item wdt:P361 wd:Q126443484 . }
   FILTER NOT EXISTS { ?item wdt:P31 wd:Q16695773 }

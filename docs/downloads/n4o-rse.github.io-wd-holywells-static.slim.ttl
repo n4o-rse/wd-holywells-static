@@ -1,5 +1,5 @@
 # RDF export of Holy Wells (static Wikibase), Wikibase data model; base URI https://n4o-rse.github.io/wd-holywells-static (without the DCAT description of each entity, for the query page; the complete file is n4o-rse.github.io-wd-holywells-static.ttl)
-# Generated with wikibase-static 0.28.1; data as of 2026-11-18T00:00:00Z
+# Generated with wikibase-static 0.28.2; data as of 2026-11-18T00:00:00Z
 # Licence: CC0 1.0
 # The prefixes hws:, hwst:, hwsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only hws:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
 
@@ -57109,7 +57109,9 @@ hwss:Q197-D83D59C0-6269-5782-8864-D59742DAE28F
     wikibase:rank wikibase:NormalRank ;
     hwspq:P102 "fons Beate Marie" ;
     hwspq:P116 "154" ;
+    hwspq:P124 "1311-01-01T00:00:00Z"^^xsd:dateTime ;
     hwspq:P165 "12" ;
+    hwspqv:P124 hwsv:c38d205763b72d10f484030bdf3a8b01 ;
     hwsps:P101 hws:Q730 .
 
 hwss:Q197-DF187664-A1B1-59CF-A8FE-428921D03FB6
@@ -91337,6 +91339,13 @@ hwsv:c29e195d14ef6d55a3210148449739db
     wikibase:timePrecision "11"^^xsd:integer ;
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "2025-03-09T00:00:00Z"^^xsd:dateTime .
+
+hwsv:c38d205763b72d10f484030bdf3a8b01
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1311-01-01T00:00:00Z"^^xsd:dateTime .
 
 hwsv:c61cfeab4e458e2ae65e1a07a7c26fb2
     a wikibase:TimeValue ;
