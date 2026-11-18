@@ -1,5 +1,5 @@
 # RDF export of Holy Wells (static Wikibase), Wikibase data model; base URI https://n4o-rse.github.io/wd-holywells-static
-# Generated with wikibase-static 0.28.2; data as of 2026-11-18T00:00:00Z
+# Generated with wikibase-static 0.32.0; data as of 2026-11-18T00:00:00Z
 # Licence: CC0 1.0
 # The prefixes hws:, hwst:, hwsp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only hws:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
 
@@ -111032,6 +111032,1128 @@ hwst:P3
 
 # CIDOC CRM anchoring (wikibase-static): the classes of this site tied to classes of the CIDOC CRM and its extensions (data/crm.csv) and the DCAT classes of this file (data/dcat-crm.csv),
 # with the superclasses of an extension class up to its first class of the CIDOC CRM, and subclass of / instance of spelled out as rdfs:subClassOf / rdf:type. Not part of the Wikibase data model.
+
+hws:Q100
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q101
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388,
+        hws:Q390 .
+
+hws:Q102
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q103
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q104
+    a hws:Q348,
+        hws:Q349,
+        hws:Q427,
+        hws:Q428 .
+
+hws:Q105
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q106
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q107
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q108
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388 .
+
+hws:Q109
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q110
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q111
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q112
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q113
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q114
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q115
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q116
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q117
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q118
+    a hws:Q348,
+        hws:Q349,
+        hws:Q390 .
+
+hws:Q119
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q120
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q121
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q122
+    a hws:Q348,
+        hws:Q349,
+        hws:Q390 .
+
+hws:Q123
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q124
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q125
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q126
+    a hws:Q348,
+        hws:Q349,
+        hws:Q533 .
+
+hws:Q127
+    a hws:Q348,
+        hws:Q349,
+        hws:Q533 .
+
+hws:Q128
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407,
+        hws:Q428 .
+
+hws:Q129
+    a hws:Q348,
+        hws:Q349,
+        hws:Q390,
+        hws:Q545 .
+
+hws:Q130
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388,
+        hws:Q390 .
+
+hws:Q131
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q132
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q133
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q134
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q135
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q136
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q137
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q138
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q139
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q140
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407,
+        hws:Q427 .
+
+hws:Q141
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q142
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q143
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q144
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q145
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q146
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q147
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q148
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q149
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q150
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q151
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388 .
+
+hws:Q152
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q153
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q154
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q155
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q156
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q157
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q158
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q159
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388,
+        hws:Q407 .
+
+hws:Q160
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q161
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q162
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q163
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q164
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q165
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388,
+        hws:Q634 .
+
+hws:Q166
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q167
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q168
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q169
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q170
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q171
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q172
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q173
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q174
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q175
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q176
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q177
+    a hws:Q348,
+        hws:Q349,
+        hws:Q667 .
+
+hws:Q178
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q179
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q180
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q181
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q182
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q183
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q184
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q185
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q186
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q187
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q188
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q189
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q190
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q191
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q192
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q193
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q194
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q195
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q196
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q197
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q198
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q199
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407,
+        hws:Q739 .
+
+hws:Q200
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388 .
+
+hws:Q201
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q202
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q203
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q204
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q205
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388 .
+
+hws:Q206
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q207
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q208
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407,
+        hws:Q768 .
+
+hws:Q209
+    a hws:Q348,
+        hws:Q349,
+        hws:Q390,
+        hws:Q427 .
+
+hws:Q210
+    a hws:Q348,
+        hws:Q349,
+        hws:Q545 .
+
+hws:Q211
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q212
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q213
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q214
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q215
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q216
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q217
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q218
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q219
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q220
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q221
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q222
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407,
+        hws:Q801 .
+
+hws:Q223
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q224
+    a hws:Q348,
+        hws:Q349,
+        hws:Q801 .
+
+hws:Q225
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q226
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q227
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q228
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q229
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q230
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407,
+        hws:Q428 .
+
+hws:Q231
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q232
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407,
+        hws:Q533 .
+
+hws:Q233
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q234
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q235
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q236
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q237
+    a hws:Q348,
+        hws:Q349,
+        hws:Q667,
+        hws:Q801 .
+
+hws:Q238
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q239
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q240
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q241
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q242
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q243
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q244
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q245
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q246
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q247
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q248
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428,
+        hws:Q545 .
+
+hws:Q249
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q250
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q251
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q252
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q253
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q254
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q255
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q256
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q257
+    a hws:Q348,
+        hws:Q349,
+        hws:Q533 .
+
+hws:Q258
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q259
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q260
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q261
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q262
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q263
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q264
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q265
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q266
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q267
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q268
+    a hws:Q348,
+        hws:Q349,
+        hws:Q533 .
+
+hws:Q269
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q270
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q271
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q272
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q273
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q274
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q275
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q276
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q277
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q278
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q279
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q280
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q281
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q282
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q283
+    a hws:Q348,
+        hws:Q349,
+        hws:Q388 .
+
+hws:Q284
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q285
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q286
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q287
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q288
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q289
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q290
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q291
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q292
+    a hws:Q348,
+        hws:Q349,
+        hws:Q428 .
+
+hws:Q293
+    a hws:Q348,
+        hws:Q349,
+        hws:Q545 .
+
+hws:Q294
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q295
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q296
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q297
+    a hws:Q348,
+        hws:Q349,
+        hws:Q917 .
+
+hws:Q298
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q299
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q300
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q301
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q302
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q303
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q304
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q305
+    a hws:Q348,
+        hws:Q349,
+        hws:Q931 .
+
+hws:Q306
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q307
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q308
+    a hws:Q348,
+        hws:Q349,
+        hws:Q931,
+        hws:Q939 .
+
+hws:Q309
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q310
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q311
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q312
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q313
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q314
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q315
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q316
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q317
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q318
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q319
+    a hws:Q348,
+        hws:Q349,
+        hws:Q407 .
+
+hws:Q320
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q321
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q322
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q323
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q324
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q325
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q326
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q327
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q328
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q329
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q330
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q331
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q332
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q333
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q334
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q335
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q336
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q337
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q338
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q339
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q340
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q341
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q342
+    a hws:Q348,
+        hws:Q349 .
+
+hws:Q348
+    rdfs:subClassOf crm:E26_Physical_Feature .
+
+hws:Q388
+    rdfs:subClassOf crm:E26_Physical_Feature .
+
+hws:Q390
+    rdfs:subClassOf crm:E27_Site .
+
+hws:Q407
+    rdfs:subClassOf crm:E26_Physical_Feature .
+
+hws:Q427
+    rdfs:subClassOf crm:E25_Human-Made_Feature .
+
+hws:Q428
+    rdfs:subClassOf crm:E25_Human-Made_Feature .
+
+hws:Q533
+    rdfs:subClassOf crm:E22_Human-Made_Object .
+
+hws:Q545
+    rdfs:subClassOf crm:E27_Site .
+
+hws:Q634
+    rdfs:subClassOf crm:E27_Site .
+
+hws:Q667
+    rdfs:subClassOf crm:E27_Site .
+
+hws:Q739
+    rdfs:subClassOf crm:E53_Place .
+
+hws:Q768
+    rdfs:subClassOf crm:E22_Human-Made_Object .
+
+hws:Q801
+    rdfs:subClassOf crm:E26_Physical_Feature .
+
+hws:Q917
+    rdfs:subClassOf crm:E19_Physical_Object .
+
+hws:Q931
+    rdfs:subClassOf crm:E26_Physical_Feature .
+
+hws:Q939
+    rdfs:subClassOf crm:E27_Site .
 
 crmdig:D1_Digital_Object
     rdfs:subClassOf crm:E73_Information_Object .
