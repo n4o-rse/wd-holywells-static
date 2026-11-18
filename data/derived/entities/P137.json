@@ -1,0 +1,161 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Länge"
+      },
+      {
+        "language": "de",
+        "value": "Spieldauer"
+      },
+      {
+        "language": "de",
+        "value": "Laufzeit"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "length"
+      },
+      {
+        "language": "en",
+        "value": "run time"
+      },
+      {
+        "language": "en",
+        "value": "runtime"
+      },
+      {
+        "language": "en",
+        "value": "running time"
+      },
+      {
+        "language": "en",
+        "value": "period"
+      },
+      {
+        "language": "en",
+        "value": "era"
+      },
+      {
+        "language": "en",
+        "value": "length of time"
+      },
+      {
+        "language": "en",
+        "value": "interval"
+      },
+      {
+        "language": "en",
+        "value": "timespan"
+      },
+      {
+        "language": "en",
+        "value": "time span"
+      },
+      {
+        "language": "en",
+        "value": "time interval"
+      },
+      {
+        "language": "en",
+        "value": "running length"
+      },
+      {
+        "language": "en",
+        "value": "cook time"
+      },
+      {
+        "language": "en",
+        "value": "time length"
+      },
+      {
+        "language": "en",
+        "value": "cooking time"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P137$4AC30663-A5A0-51F2-A3AB-012FFC886A29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P137$09C91D2D-7D2E-5185-BE99-F2F3E2966102",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P2047"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2047"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Dauer eines Vorgangs, Ereignisses, Films, Lieds, Albums, einer Serie etc."
+    },
+    "en": {
+      "language": "en",
+      "value": "length of time of an event or process"
+    }
+  },
+  "id": "P137",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Dauer"
+    },
+    "en": {
+      "language": "en",
+      "value": "duration"
+    }
+  },
+  "type": "property"
+}

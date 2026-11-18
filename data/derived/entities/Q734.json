@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St. John's Gardens"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q734$2BB2A282-766E-518A-8E74-36DC96B9E70B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104265497"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104265497"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in Kilkenny No.2 Urban, County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q734",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gardens"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

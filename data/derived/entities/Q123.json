@@ -1,0 +1,1334 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tobernasool"
+      },
+      {
+        "language": "en",
+        "value": "Tobar-na-Suil"
+      }
+    ]
+  },
+  "claims": {
+    "P100": [
+      {
+        "id": "Q123$D5935A4D-03C1-5196-8FA4-8968242C76B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q352",
+              "numeric-id": 352
+            }
+          },
+          "property": "P100",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$00605EEA-12DB-5EED-BCC1-D3330F98DB97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q524",
+              "numeric-id": 524
+            }
+          },
+          "property": "P100",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$5205E147-9355-5C9D-B915-823CF4D89806",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q525",
+              "numeric-id": 525
+            }
+          },
+          "property": "P100",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P101": [
+      {
+        "id": "Q123$944608C2-0642-5C0C-B0DE-76DBCD9F4351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q355",
+              "numeric-id": 355
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK008-133----"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q123$39E2E1B6-CC67-5C95-AFA7-FE6E9D7CD478",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q359",
+              "numeric-id": 359
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "62"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ],
+          "P127": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q394",
+                  "numeric-id": 394
+                }
+              },
+              "property": "P127",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116",
+          "P127"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$926856C3-03AA-5E24-A3D1-194586E8A804",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q357",
+              "numeric-id": 357
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P127": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q394",
+                  "numeric-id": 394
+                }
+              },
+              "property": "P127",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P127"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4742036/4729927/4957362"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          },
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4742039/4730128/5018664"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          },
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4770007/4766397/4957353"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          },
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4770017/4767004/4935166"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          },
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4770018/4767113/4935277"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          },
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4742035/4729865/5011317"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q123$3D90FE70-70CD-5D55-B6B4-EEFD833FA88A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q360",
+              "numeric-id": 360
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "334"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$5EBF3DD1-6A7F-567E-A6FE-D4F707A39970",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q362",
+              "numeric-id": 362
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "435"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$D219C448-7B28-5E84-8C76-359967F8AB2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q367",
+              "numeric-id": 367
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "251-252"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$B4A86F35-2D3E-556B-B37A-108116BCB9F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q396",
+              "numeric-id": 396
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P117": [
+                {
+                  "datatype": "string",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "vol. I, p. LXV"
+                  },
+                  "property": "P117",
+                  "snaktype": "value"
+                },
+                {
+                  "datatype": "string",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "vol. I, par. 156"
+                  },
+                  "property": "P117",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P117"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q123$BF579E55-F5D1-52E4-AC98-B094E3A14710",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q425",
+              "numeric-id": 425
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "106"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$415B83BF-B50A-5004-AFD7-C9D595EF1BF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q526",
+              "numeric-id": 526
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "25"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$062456DC-2296-52B7-BE5D-CD5A6D8B57AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q378",
+              "numeric-id": 378
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P102": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Tobernasuil"
+              },
+              "property": "P102",
+              "snaktype": "value"
+            }
+          ],
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "22"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116",
+          "P102"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$D59DD11E-85CB-59A3-8B12-5D7C5A44904E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q527",
+              "numeric-id": 527
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P102": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Tobar-na-Suil"
+              },
+              "property": "P102",
+              "snaktype": "value"
+            }
+          ],
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "280"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P116",
+          "P102"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$2D1E1D58-8A42-5944-A629-3CAF3D686ED8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q382",
+              "numeric-id": 382
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P102": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Tobar na Súil"
+              },
+              "property": "P102",
+              "snaktype": "value"
+            }
+          ],
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "166-167"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P102",
+          "P116"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$FD997E25-021B-55C5-A144-757EE8145C79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q382",
+              "numeric-id": 382
+            }
+          },
+          "property": "P101",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P102": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KHW095"
+              },
+              "property": "P102",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Tobar na Súil"
+              },
+              "property": "P102",
+              "snaktype": "value"
+            }
+          ],
+          "P116": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "308"
+              },
+              "property": "P116",
+              "snaktype": "value"
+            }
+          ],
+          "P118": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "image"
+              },
+              "property": "P118",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P102",
+          "P116",
+          "P118"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P103": [
+      {
+        "id": "Q123$BEFFA0C0-05C7-5A0B-A743-9B9C555AA4B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q347",
+              "numeric-id": 347
+            }
+          },
+          "property": "P103",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P104": [
+      {
+        "id": "Q123$9C1DBE7B-23D5-53C3-99F2-2889FA8CDC39",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tobar na súl.jpg"
+          },
+          "property": "P104",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P111": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "Tobar na súl"
+                }
+              },
+              "property": "P111",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P111"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$D7C17DB4-C984-503F-B993-9C561988B0AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Access point into Tobar na súl.jpg"
+          },
+          "property": "P104",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P111": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "Access point into Tobar na súl"
+                }
+              },
+              "property": "P111",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P111"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$F56C37E3-6F84-5104-A2B5-5C366585F8BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rag tree at Tobar na súl.jpg"
+          },
+          "property": "P104",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P111": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "Rag tree at Tobar na súl"
+                }
+              },
+              "property": "P111",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P111"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P105": [
+      {
+        "id": "Q123$3C1A8D28-BB65-5027-944E-25F81258C209",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "IE-KK-0327"
+          },
+          "property": "P105",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P106": [
+      {
+        "id": "Q123$36E60501-9C00-5EBC-9442-6FA97B23F247",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Tobar na súl, Rathlogan"
+          },
+          "property": "P106",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P107": [
+      {
+        "id": "Q123$15C591D5-D2F6-5C6E-BDE5-CD40137FDFBB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "KK008-132----"
+          },
+          "property": "P107",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK008-132----"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P108": [
+      {
+        "id": "Q123$B9AD11C2-3543-5B7A-A4EC-EE1D45341B16",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.77438,
+              "longitude": -7.5009061,
+              "precision": 1e-07
+            }
+          },
+          "property": "P108",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P8": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q392",
+                      "numeric-id": 392
+                    }
+                  },
+                  "property": "P8",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P8"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P110": [
+      {
+        "id": "Q123$32E7DCEB-99D8-517E-B032-B54F370F274C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rathlogan Tobar na Súl.webm"
+          },
+          "property": "P110",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P113": [
+      {
+        "id": "Q123$6DE910EF-23FB-5D6F-9A96-ED0EE9EBF2CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8530298594"
+          },
+          "property": "P113",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P120": [
+      {
+        "id": "Q123$0003BEBC-426B-5F30-A40C-D8534FDB11AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q528",
+              "numeric-id": 528
+            }
+          },
+          "property": "P120",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P121": [
+      {
+        "id": "Q123$7F84F9DD-2723-5C48-A91E-39FF1D3979DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q362",
+              "numeric-id": 362
+            }
+          },
+          "property": "P121",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$8EAF5D87-4029-5A1B-A480-0B45AC482D73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q382",
+              "numeric-id": 382
+            }
+          },
+          "property": "P121",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P122": [
+      {
+        "id": "Q123$1DAD15B5-31D9-58CA-89C0-F347D20DBED8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "84"
+          },
+          "property": "P122",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P121": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q362",
+                  "numeric-id": 362
+                }
+              },
+              "property": "P121",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P121"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123$C37928A7-D3F3-5D6A-940C-9679E2752715",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "KHW096"
+          },
+          "property": "P122",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P121": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q382",
+                  "numeric-id": 382
+                }
+              },
+              "property": "P121",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P121"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P125": [
+      {
+        "id": "Q123$B56D238F-AB0A-5921-9BD5-5DFB451DAFCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q393",
+              "numeric-id": 393
+            }
+          },
+          "property": "P125",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P145": [
+      {
+        "id": "Q123$1D520679-1157-5F42-B692-DE52815C7343",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "\"a quarter of a mile east of the Church\""
+            }
+          },
+          "property": "P145",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P8": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q396",
+                      "numeric-id": 396
+                    }
+                  },
+                  "property": "P8",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P8"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q123$EEB1A6AF-6E1D-5B93-8D1B-100AEDFEDBE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q348",
+              "numeric-id": 348
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK008-133----"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q123$1D196ACD-14D3-56D4-94D5-F9E00B581A7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q349",
+              "numeric-id": 349
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q123$BD954897-4DFE-56EA-85D5-5AC9F01A82D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q122307310"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q122307310"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ],
+              "P7": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2026-09-10T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "property": "P7",
+                  "snaktype": "value"
+                }
+              ],
+              "P8": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q343",
+                      "numeric-id": 343
+                    }
+                  },
+                  "property": "P8",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6",
+              "P7",
+              "P8"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "holy well with rag tree in Rathlogan, Glashare, Co. Kilkenny"
+    }
+  },
+  "id": "Q123",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tobar na súl"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

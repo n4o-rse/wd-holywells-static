@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Hasenfest"
+      },
+      {
+        "language": "de",
+        "value": "Osterfest"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Feast of the Resurrection"
+      },
+      {
+        "language": "en",
+        "value": "Eastre"
+      },
+      {
+        "language": "en",
+        "value": "Easter Day"
+      },
+      {
+        "language": "en",
+        "value": "Pascha"
+      },
+      {
+        "language": "en",
+        "value": "Resurrection Sunday"
+      },
+      {
+        "language": "en",
+        "value": "Pasch"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q653$8766915F-E962-54B0-AB3E-3D313939B39E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21196"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q21196"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Fest der Auferstehung Christi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian commemoration of the resurrection of Jesus"
+    }
+  },
+  "id": "Q653",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ostern"
+    },
+    "en": {
+      "language": "en",
+      "value": "Easter"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

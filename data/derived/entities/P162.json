@@ -1,0 +1,121 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "vermisst seit"
+      },
+      {
+        "language": "de",
+        "value": "Zeitpunkt des Verschwindens"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "last known alive before disappearance"
+      },
+      {
+        "language": "en",
+        "value": "time of disappearance"
+      },
+      {
+        "language": "en",
+        "value": "missing since"
+      },
+      {
+        "language": "en",
+        "value": "last seen"
+      },
+      {
+        "language": "en",
+        "value": "disappeared"
+      },
+      {
+        "language": "en",
+        "value": "date of missing"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P162$5F31EAC2-9BD6-55C2-BDBD-DC9FDBC7722C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P162$ECE45E49-9C6C-5DB1-A38C-ED58DBA2ECA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P746"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P746"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "time",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum, zu dem eine vermisste Person zum letzten Mal nachweislich am Leben war"
+    },
+    "en": {
+      "language": "en",
+      "value": "date or point of time a missing person was seen or otherwise known to be alive for the last time"
+    }
+  },
+  "id": "P162",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "verschollen seit"
+    },
+    "en": {
+      "language": "en",
+      "value": "date of disappearance"
+    }
+  },
+  "type": "property"
+}

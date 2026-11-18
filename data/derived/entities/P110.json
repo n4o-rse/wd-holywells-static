@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Multimedia-Datei"
+      },
+      {
+        "language": "de",
+        "value": "Videodatei auf Commons"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "media"
+      },
+      {
+        "language": "en",
+        "value": "animation"
+      },
+      {
+        "language": "en",
+        "value": "trailer"
+      },
+      {
+        "language": "en",
+        "value": "vid"
+      },
+      {
+        "language": "en",
+        "value": "visual media"
+      },
+      {
+        "language": "en",
+        "value": "audiovisual media"
+      },
+      {
+        "language": "en",
+        "value": "video file"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P110$FA7A796C-F53D-54AF-8BFC-D90F1E1605C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P110$87761DB5-1D81-5F93-B07E-AC25EB923929",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P10"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P10"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "commonsMedia",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "relevantes Video; für Bilder Eigenschaft P18 verwenden; für Filmtrailer mit „Objekt hat Rolle“ (P3831) = Q622550 qualifizieren; für Filme mit „Objekt hat Rolle“ (P3831) = Q89347362 qualifizieren"
+    },
+    "en": {
+      "language": "en",
+      "value": "relevant video; use property P18 for images; for film trailers, qualify with \"object has role\" (P3831)=\"trailer\" (Q622550); for films, qualify with \"object has role\" (P3831)=\"full video available on Wikimedia Commons\" (Q89347362)"
+    }
+  },
+  "id": "P110",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Video"
+    },
+    "en": {
+      "language": "en",
+      "value": "video"
+    }
+  },
+  "type": "property"
+}

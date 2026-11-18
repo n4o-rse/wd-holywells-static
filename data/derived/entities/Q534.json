@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sarnait"
+      },
+      {
+        "language": "en",
+        "value": "Sairnait"
+      },
+      {
+        "language": "en",
+        "value": "St. Sourney"
+      },
+      {
+        "language": "en",
+        "value": "Saint Sourney"
+      },
+      {
+        "language": "en",
+        "value": "Saint Sairnait"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q534$FFA0639D-5E0F-57B3-B8D5-0B87A8D7A752",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7665324"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q7665324"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Sixth-century Irish saint"
+    }
+  },
+  "id": "Q534",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sárnait"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

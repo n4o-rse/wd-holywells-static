@@ -1,0 +1,708 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ballavarra Spout"
+      },
+      {
+        "language": "en",
+        "value": "Ballinvarry Holy Well"
+      },
+      {
+        "language": "en",
+        "value": "The Spout"
+      }
+    ]
+  },
+  "claims": {
+    "P10": [
+      {
+        "id": "Q126489046$12e06b76-4056-bf82-09ba-6fb67adbc907",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "The Spout Ballinvarry.webm"
+          },
+          "hash": "8697300e796bceaa97cff4b05832ba0fc2a91749",
+          "property": "P10",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11693": [
+      {
+        "id": "Q126489046$331d0588-4cce-91af-ecb3-d37aba966004",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12083506839"
+          },
+          "hash": "898ca4099246eb1179e8f7d3016990619ecb5255",
+          "property": "P11693",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q126489046$96851556-4911-9c18-388d-b7676f8ae582",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q180231",
+              "numeric-id": 180231
+            }
+          },
+          "hash": "a39489d010d0aade2bfc1a651156d2c4c7f38db8",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126489046$fed7be6f-41c4-b8db-2f2d-c308e443bedc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60557099",
+              "numeric-id": 60557099
+            }
+          },
+          "hash": "f90448024235979bb78533d0df317a03238b3d13",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q126489046$079e329e-4fa3-97f6-6129-8c6197cbd10c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393245",
+              "numeric-id": 126393245
+            }
+          },
+          "hash": "afc487e05cd68f3b3afa3e98ef57ca86f66a53d4",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b4de642e74f9d540ec62d9a4e87f525fa5ec95d9",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758506/4749792/4952532"
+                  },
+                  "hash": "2f8b128d90e04205d323171349af199060a21f33",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "69f003f03e11209e647d99b6f85d5149e114ce34",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758506/4749824/4953071"
+                  },
+                  "hash": "38773de92131b2b1c96859da77af0be5250262d0",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q126489046$b477fcd0-4cec-b4b8-c4dd-497dc1bd1176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126528008",
+              "numeric-id": 126528008
+            }
+          },
+          "hash": "bfa77e5bbe62aee85e02e0b9537d15c4ca4ffa47",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126489046$1691f6e3-40b6-8cfa-d56d-4d7fef8a0110",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "The Spout"
+              },
+              "hash": "0d7f4b81a457e317a5841c789e8a87bbaa40d2f7",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "21"
+              },
+              "hash": "26fc09289522fb4d0720942564c921c35a0d4db9",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q126489046$221ccc7e-4d2f-0385-ebf8-0e637eb12c1b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4300418",
+              "numeric-id": 4300418
+            }
+          },
+          "hash": "dae15ecb243cbdf93cc8efdd40ff941523558970",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126489046$f2815d28-4693-3a2f-9033-1c7d60f92cb3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q107194475",
+              "numeric-id": 107194475
+            }
+          },
+          "hash": "368d27b1343101c45fbc9be49a798d990054342a",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1651": [
+      {
+        "id": "Q126489046$7fa291dc-46e7-f5d7-f2ad-f266d3bd154c",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "DiRjs8tRopg"
+          },
+          "hash": "32ddd79a6bc4cec3d8a06368ce24d30813e64863",
+          "property": "P1651",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Ballinvarry Spout aka The Spout in Ballinvarry"
+              },
+              "hash": "d5044f8a032371a8e5548b2419fdd6aa2f4272e9",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2047": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+479.0",
+                  "unit": "http://www.wikidata.org/entity/Q11574"
+                }
+              },
+              "hash": "168b891c33b4176fe8a57c56a308935baa27caf6",
+              "property": "P2047",
+              "snaktype": "value"
+            }
+          ],
+          "P2397": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "UCBdGNv-5nSm7--9WCaQStdw"
+              },
+              "hash": "b5a7558c412bf89a27782ad8fe97813a1f2c2c73",
+              "property": "P2397",
+              "snaktype": "value"
+            }
+          ],
+          "P577": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-07-30T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "ead35d83a955364218e07997baf3bd42a86bab4c",
+              "property": "P577",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-07-31T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "a9d91d0219d57e1430134c14bae2d05c6ec58e45",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P577",
+          "P2047",
+          "P2397",
+          "P585"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q126489046$bac79f6d-41a1-a231-9fc8-8a985144fe45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q126489046$bbfc569c-4f08-e6e8-cf82-1008bf9baf80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "The Spout.jpg"
+          },
+          "hash": "ed42ee2c88fd8f68adfa3e44423c0b0522c85e0d",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P195": [
+      {
+        "id": "Q126489046$7694c1d5-4376-48fe-0b3d-8d90951bdca3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P217": [
+      {
+        "id": "Q126489046$014a81c6-4e13-43b8-4684-f36e15da00a7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "KHW2-10"
+          },
+          "hash": "c6f99ae4b798710fe09d2999ffaf22acb400946c",
+          "property": "P217",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P195": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q132817615",
+                  "numeric-id": 132817615
+                }
+              },
+              "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+              "property": "P195",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P195"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q126489046$9cca4a5e-4e2f-9318-29f4-2b4988365d74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126489046$cba66a83-4c74-a492-d256-8f86332a2452",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a635c77d620b9371d622bb4bad67d3d33d63ac41",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126393245",
+                      "numeric-id": 126393245
+                    }
+                  },
+                  "hash": "4f4f6837622493aef5e04a9137ba19dde21fa955",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q126489046$787bd422-4f36-4cc9-47f4-b75ee39ba315",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "The Spout, Ballinvarry"
+          },
+          "hash": "73a4c933229086ef1ff7e166966449763e59a860",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q126489046$65e0d86b-4b69-65f5-7677-4a53ec3d4f9a",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.4894269,
+              "longitude": -6.9438284,
+              "precision": 1e-07
+            }
+          },
+          "hash": "75326580dee66535a002d9f5402983fd597247f4",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8ece5ca44e176c0cd32cb8dc238d7eedd6286bbc",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P6375": [
+      {
+        "id": "Q126489046$4588c45d-440e-338a-810d-c02c03f69348",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "beside the main road to Graignamanagh"
+            }
+          },
+          "hash": "f5ff556889a5b8b05f8f9f6c87334b69c95622a4",
+          "property": "P6375",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126489046$080bd094-4ccc-9a65-205b-84b6d98089e1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "opposite the view point"
+            }
+          },
+          "hash": "8c3defeba02ba6a8f809c7203e85e765401e9a0f",
+          "property": "P6375",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5e996536439d66adca0197631c4f888bf9b436e5",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q25469578",
+                      "numeric-id": 25469578
+                    }
+                  },
+                  "hash": "580891e40f9b839ff8a5c36971b9765550cbf210",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P708": [
+      {
+        "id": "Q126489046$7294fac9-4341-9cda-2b3a-ba7bfd1521a2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q873607",
+              "numeric-id": 873607
+            }
+          },
+          "hash": "efeff9f87d449cb40dff681967cdf5d27387c166",
+          "property": "P708",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "holy well in Ballinvarry, Co. Kilkenny"
+    }
+  },
+  "id": "Q126489046",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Saint Moling's Well"
+    }
+  },
+  "lastrevid": 2319344619,
+  "modified": "2025-03-03T11:29:49Z",
+  "ns": 0,
+  "pageid": 120510930,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:The Spout, Ballinvarry"
+    }
+  },
+  "title": "Q126489046",
+  "type": "item"
+}

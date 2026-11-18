@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "29.6."
+      },
+      {
+        "language": "de",
+        "value": "29.06."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "June 29th"
+      },
+      {
+        "language": "en",
+        "value": "29th of June"
+      },
+      {
+        "language": "en",
+        "value": "29 June"
+      },
+      {
+        "language": "en",
+        "value": "Jun 29"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q834$531A7D45-BC2E-587A-9375-C1A05645A3BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2659"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2659"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q834",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "29. Juni"
+    },
+    "en": {
+      "language": "en",
+      "value": "June 29"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

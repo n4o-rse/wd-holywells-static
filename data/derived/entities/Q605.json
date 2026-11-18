@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pilgrim of Tibberaghney"
+      },
+      {
+        "language": "en",
+        "value": "Mogue"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q605$6318372F-1604-5342-8473-109D6E3A6DEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130531057"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130531057"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish saint"
+    }
+  },
+  "id": "Q605",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Modhomhnóg Oilthir"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

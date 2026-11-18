@@ -1,0 +1,1216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Mogue's Well"
+      },
+      {
+        "language": "en",
+        "value": "Site of St Mogue's Well"
+      },
+      {
+        "language": "en",
+        "value": "Site of Tober Mogue"
+      }
+    ],
+    "ga": [
+      {
+        "language": "ga",
+        "value": "Tobar Mo Aodhóg"
+      }
+    ]
+  },
+  "claims": {
+    "P11693": [
+      {
+        "id": "Q126454603$57046ab0-40b4-ded3-51d0-a4711367000d",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "7995685476"
+          },
+          "hash": "0a5e2b57b78c3c5659f61b09ca308ff6f66928a7",
+          "property": "P11693",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q126454603$aa13f6cf-4399-33ad-eaeb-c2bd9f226df9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q180231",
+              "numeric-id": 180231
+            }
+          },
+          "hash": "a39489d010d0aade2bfc1a651156d2c4c7f38db8",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$258e06aa-439b-2a9e-7864-1e2127f948af",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60554236",
+              "numeric-id": 60554236
+            }
+          },
+          "hash": "016e3b4c91d17f850d0e50bab79a11a25f0a895b",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q126454603$9028b665-4e85-41fd-3f1d-221e975488b3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120966194",
+              "numeric-id": 120966194
+            }
+          },
+          "hash": "726fc103b071acc3cddebd2ebc6679bb23575e3e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b7bc94b1f8dea0c8d41dc0df71304164ffb5453e",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK027-019----"
+                  },
+                  "hash": "531cd414ccfc1bad2e63983a4ecd7ca45f735ce1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$40d0f0ec-4fca-5a63-03a7-58f6c27ab87a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126374601",
+              "numeric-id": 126374601
+            }
+          },
+          "hash": "de0bcf19983577a8343ad74d950e4c9e62dafc55",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "182"
+              },
+              "hash": "1463906fac94b01daee7e1035637feb33aac63b7",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$e9bd29c6-44c9-b52a-6702-9ae3324194ad",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126454465",
+              "numeric-id": 126454465
+            }
+          },
+          "hash": "5c76231ab21c05b521c135d9d24b5638a7182272",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Tobermogue"
+              },
+              "hash": "0af2462fa65c1bc2b61b52ee59099e0b1c6d7fab",
+              "property": "P1810",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St. Mogue's well"
+              },
+              "hash": "6cb5943ff81eea7bd5f04378e03c1ff5e9167627",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "374"
+              },
+              "hash": "acf5d7164962393a05844546f2f0d068bad067c3",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$2a1776df-4a48-545b-fde1-0e6ffc627964",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126540348",
+              "numeric-id": 126540348
+            }
+          },
+          "hash": "7f928f614f107987c78367022ba2f4f6e0c7c679",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$4bd0b063-4d3b-904a-160f-17e7b0e9aec8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126528008",
+              "numeric-id": 126528008
+            }
+          },
+          "hash": "bfa77e5bbe62aee85e02e0b9537d15c4ca4ffa47",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$75821f98-4eae-56cc-8d7b-2964ef7cef23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126555558",
+              "numeric-id": 126555558
+            }
+          },
+          "hash": "17c1caf66ceb6c7b0f640df5561e022a141d0dea",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$47131a11-40a3-6be6-cd28-59c0c3ba559e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126875543",
+              "numeric-id": 126875543
+            }
+          },
+          "hash": "d1b588c0ce143935888fc7eca1e5eac5c1ecefe1",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "409-410"
+              },
+              "hash": "fce1be14f53c815d43b1e336b6e8f65347382ffc",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$dcd2d354-45fe-f4fd-bb82-c1e0cb266fcb",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130223691",
+              "numeric-id": 130223691
+            }
+          },
+          "hash": "6d146074359283e16ed1d06c9e64bd9a4a4d4074",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "56"
+              },
+              "hash": "0d4a02a60f21978a8573c302ba478c282ac736d8",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$2ca4e137-404e-ae39-926c-a518f2ae7dec",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130284129",
+              "numeric-id": 130284129
+            }
+          },
+          "hash": "4ceb67a0d86b06759ca9b554ee4d90b0e93d7d6c",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Tobermogue"
+              },
+              "hash": "0af2462fa65c1bc2b61b52ee59099e0b1c6d7fab",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2739": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q213686",
+                  "numeric-id": 213686
+                }
+              },
+              "hash": "520dfc2c34cd75cc56f323e49a0ec9bd3804b4fd",
+              "property": "P2739",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2739",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$a7f609da-4b9b-6c47-7f1b-b659ef92a290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130308814",
+              "numeric-id": 130308814
+            }
+          },
+          "hash": "47d3b36b459202392cf8f38e8abc0c15214cf62a",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St. Mogue['s Well]"
+              },
+              "hash": "b47a4c2c2f9ce2c3ba7e7eec4543e269a22a4934",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "21"
+              },
+              "hash": "26fc09289522fb4d0720942564c921c35a0d4db9",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$ce01482e-4ccd-011f-b125-aec94bc3eec8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St Mogue’s Well"
+              },
+              "hash": "f078e0fcc67863b1451d831106bf8b33d10389c3",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "69-70"
+              },
+              "hash": "ce81f8543372fc84ccd1f87eda2eb835716951a7",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$a001cae9-472c-095c-6688-163737334355",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1163": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "image"
+              },
+              "hash": "2cd4d36684e1d039954311fd1cd84b976db2bc33",
+              "property": "P1163",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KHW029"
+              },
+              "hash": "d74771ddf8853a1082ff24eecfbd05c7b10d1458",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "275"
+              },
+              "hash": "a903b50e21a9f9b5d03521bac56318371881f1f1",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304",
+          "P1163"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q126454603$7249b6fe-44d2-ca38-d613-6361b9f1fd96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q404099",
+              "numeric-id": 404099
+            }
+          },
+          "hash": "40b7fdb506e3cdc21baf06bedae966302ddfb07e",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$b65b80d8-4bd6-5889-49dd-a4d72fc74d63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130531057",
+              "numeric-id": 130531057
+            }
+          },
+          "hash": "ca3cc998de084f814bd625e2c8a0153f8c20095e",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6f9ccafbc2d7d2a50694daee08faf6d460d5425b",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q130486611",
+                      "numeric-id": 130486611
+                    }
+                  },
+                  "hash": "48708b4b309f5cbc2961c655628208e3bf1b25f5",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q126454603$9f20d978-46c0-acce-862b-0a16f4c1cb95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q126454603$3a3ddb36-4389-4297-5693-609cff67d414",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "St Mogue's well site frontal.jpg"
+          },
+          "hash": "c3ed0e90062094554531da14cc2d451b878d3341",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1801": [
+      {
+        "id": "Q126454603$8fbb8698-474d-04ff-1114-6a581e17fe71",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Plaque for site of Tober Mogue.jpg"
+          },
+          "hash": "2147b29c2931795729376549febb095e2b15e328",
+          "property": "P1801",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P195": [
+      {
+        "id": "Q126454603$bbaf3bad-4be4-4e85-95a1-f9c48e37e770",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126875543",
+              "numeric-id": 126875543
+            }
+          },
+          "hash": "cf56c30bedde69b2389d13a8c93b75ad89b24e87",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$40a02711-45b6-308c-e236-4aff7d299dc5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P217": [
+      {
+        "id": "Q126454603$41298d0b-4154-7445-d565-cdf7f838f640",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "66"
+          },
+          "hash": "6599c3558b41fa350f0d576ec126cb05a2ea7a66",
+          "property": "P217",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P195": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q126875543",
+                  "numeric-id": 126875543
+                }
+              },
+              "hash": "cf56c30bedde69b2389d13a8c93b75ad89b24e87",
+              "property": "P195",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P195"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$482e7612-48c3-f08b-d958-16d001dc600e",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "KHW029"
+          },
+          "hash": "c0e6acb1713fc796fedc30d4222bd1ad3fd3d7f0",
+          "property": "P217",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P195": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q132817615",
+                  "numeric-id": 132817615
+                }
+              },
+              "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+              "property": "P195",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P195"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2186": [
+      {
+        "id": "Q126454603$82c2d556-4a3c-02de-dc9d-12a0433b0af1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "IE-KK-0347"
+          },
+          "hash": "48a79f1873e71143ac8cc4918fb64b49d15618bb",
+          "property": "P2186",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q126454603$4b0446e3-4286-bc29-95ce-7084ae60e5d3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5817": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q63065035",
+                  "numeric-id": 63065035
+                }
+              },
+              "hash": "efff6bb239cf8d2cd37638b4c7cb082668800185",
+              "property": "P5817",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5817"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b7bc94b1f8dea0c8d41dc0df71304164ffb5453e",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK027-019----"
+                  },
+                  "hash": "531cd414ccfc1bad2e63983a4ecd7ca45f735ce1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "77b5fabcef81f56bb7ecd5ca1978c86ebfac76a9",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126540348",
+                      "numeric-id": 126540348
+                    }
+                  },
+                  "hash": "cc4a9dfd1cd3ba38d3ae433ecab4aa56d82b5a25",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "68500bc9b54aa32f6ba9d48c5a65194847be9600",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126528008",
+                      "numeric-id": 126528008
+                    }
+                  },
+                  "hash": "c1972342a51971bd2f928f1b467d51cf96142ece",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$973a2037-4c7c-5bb0-193f-80fc2837c3ef",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126454603$44b5dd32-4529-435b-6e19-98b1e37cf10b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43483",
+              "numeric-id": 43483
+            }
+          },
+          "hash": "155f283522afd79c8cad6bf63fe97c449461d383",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P571": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1948-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "3c66e2cd8ec91b98b1fcbf87363539b4cd0eaf3a",
+              "property": "P571",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P571"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0633d942fa2c7a3ffd6172a59203db1c0bbdc202",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126555558",
+                      "numeric-id": 126555558
+                    }
+                  },
+                  "hash": "2b2874efff9455475b94c2c8c935906c0c247d2a",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "d2b6eca0c5ef59670f50bbf90d72ea739a9d1bba",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q130223691",
+                      "numeric-id": 130223691
+                    }
+                  },
+                  "hash": "47196ddb1c835a8ff75acbd3b5f2659e179d5edc",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q126454603$818c20fd-4c01-16e4-d92b-d6ea004bed19",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Site of Saint Mogue's Well, Ennisnag"
+          },
+          "hash": "c013102bf482ba4e9a4f627c1a8f395f2f92e1d8",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q126454603$c4b6a9f7-4261-2473-d093-566f556064db",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "KK027-019----"
+          },
+          "hash": "f9068c41a87272544fc36e2ee96b43d4b4cabcd2",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "b7bc94b1f8dea0c8d41dc0df71304164ffb5453e",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK027-019----"
+                  },
+                  "hash": "531cd414ccfc1bad2e63983a4ecd7ca45f735ce1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5817": [
+      {
+        "id": "Q126454603$fac484ac-4536-2931-bef5-ea296589b222",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63065035",
+              "numeric-id": 63065035
+            }
+          },
+          "hash": "efff6bb239cf8d2cd37638b4c7cb082668800185",
+          "property": "P5817",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q126454603$850b04e2-40b6-d029-93d2-8c01a89887ce",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.5462408,
+              "longitude": -7.230081,
+              "precision": 1e-07
+            }
+          },
+          "hash": "c5e34d2a2d4e10bde2671393cbdcab0d34280a66",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8ece5ca44e176c0cd32cb8dc238d7eedd6286bbc",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P708": [
+      {
+        "id": "Q126454603$28e6c59b-4556-91ea-9a5b-c50683cc2699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q873607",
+              "numeric-id": 873607
+            }
+          },
+          "hash": "efeff9f87d449cb40dff681967cdf5d27387c166",
+          "property": "P708",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "holy well in Ennisnag"
+    }
+  },
+  "id": "Q126454603",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Mogue's Well"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tobar Mogue"
+    }
+  },
+  "lastrevid": 2326700598,
+  "modified": "2025-03-18T11:46:48Z",
+  "ns": 0,
+  "pageid": 120479696,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:Site of Saint Mogue's Well, Ennisnag"
+    }
+  },
+  "title": "Q126454603",
+  "type": "item"
+}

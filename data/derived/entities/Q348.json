@@ -1,0 +1,107 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "sacred spring"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q348$5255AD50-3B2E-58AE-8804-E58CF7B441E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q348$EC22C78C-62E4-5BE4-87BC-9B268788AC77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q348$9F6196E5-6E3F-5BDF-93AB-D51896B215CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1371047"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1371047"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "spring or other small body of water revered either in a Pagan or Christian context, often both"
+    }
+  },
+  "id": "Q348",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Heilige Quelle"
+    },
+    "en": {
+      "language": "en",
+      "value": "holy well"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

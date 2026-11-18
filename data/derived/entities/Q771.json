@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "David"
+      },
+      {
+        "language": "de",
+        "value": "Dewi Sant"
+      },
+      {
+        "language": "de",
+        "value": "Sankt David"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "David"
+      },
+      {
+        "language": "en",
+        "value": "St. David"
+      },
+      {
+        "language": "en",
+        "value": "Dewi"
+      },
+      {
+        "language": "en",
+        "value": "David of Wales"
+      },
+      {
+        "language": "en",
+        "value": "St David"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q771$82184FA3-4C2B-54E6-81DA-321BAC51BC0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q331697"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q331697"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Schutzpatron von Wales"
+    },
+    "en": {
+      "language": "en",
+      "value": "patron saint of Wales"
+    }
+  },
+  "id": "Q771",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "David von Menevia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint David"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Colmán"
+      },
+      {
+        "language": "en",
+        "value": "Mochoime"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q809$9065D648-6053-5F0E-AC95-B6E4216E4351",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130549605"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130549605"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish saint associated with sites in Co. Kilkenny"
+    }
+  },
+  "id": "Q809",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Colmán of Connahy"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

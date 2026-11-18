@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Joyce: Graiguenamanagh: A Varied Heritage"
+      },
+      {
+        "language": "en",
+        "value": "Graiguenamanagh: A Varied Heritage"
+      },
+      {
+        "language": "en",
+        "value": "Graiguenamanagh - A Varied Heritage"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q621$5F2EE7BB-47A6-54DE-8990-7496E8F3E339",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130634563"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130634563"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "book about several aspects of the history of Graiguenamanagh, Co. Kilkenny and Tinnahinch, Co. Carlow"
+    }
+  },
+  "id": "Q621",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Joyce, Graiguenamanagh: A Varied Heritage, Graiguenamanagh 2009"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,137 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Tiefbrunnen"
+      },
+      {
+        "language": "de",
+        "value": "Ziehbrunnen"
+      },
+      {
+        "language": "de",
+        "value": "Born"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "borewell"
+      },
+      {
+        "language": "en",
+        "value": "village pump"
+      },
+      {
+        "language": "en",
+        "value": "well"
+      },
+      {
+        "language": "en",
+        "value": "water wells"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q428$01FE3809-47C6-52B5-99AC-57DFA2CC705B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q428$09638659-CD5A-5CC4-9B07-82A1D602292E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q428$7D7EAEA7-85FC-5DBC-B3AF-D867AA9880ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q43483"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q43483"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bauwerk zur Wassergewinnung"
+    },
+    "en": {
+      "language": "en",
+      "value": "excavation or structure created in the ground to access groundwater"
+    }
+  },
+  "id": "Q428",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Brunnen"
+    },
+    "en": {
+      "language": "en",
+      "value": "water well"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

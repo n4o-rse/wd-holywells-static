@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Ordensbruder"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Frater"
+      },
+      {
+        "language": "en",
+        "value": "mendicant friar"
+      },
+      {
+        "language": "en",
+        "value": "Frate"
+      },
+      {
+        "language": "en",
+        "value": "Roman Catholic friar"
+      },
+      {
+        "language": "en",
+        "value": "Brother"
+      },
+      {
+        "language": "en",
+        "value": "mendicant"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q904$B7265CD4-09EE-587B-901B-1C1611892729",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q548320"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q548320"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "männliches Mitglied einer christlichen Ordensgemeinschaft"
+    },
+    "en": {
+      "language": "en",
+      "value": "member of a mendicant male religious order in the Roman Catholic Church"
+    }
+  },
+  "id": "Q904",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bruder"
+    },
+    "en": {
+      "language": "en",
+      "value": "friar"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

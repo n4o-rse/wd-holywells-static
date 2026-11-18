@@ -1,0 +1,109 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Vortäuschung"
+      },
+      {
+        "language": "de",
+        "value": "Irreführung"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "beguilement"
+      },
+      {
+        "language": "en",
+        "value": "subterfuge"
+      },
+      {
+        "language": "en",
+        "value": "deceit"
+      },
+      {
+        "language": "en",
+        "value": "mystification"
+      },
+      {
+        "language": "en",
+        "value": "ruse"
+      },
+      {
+        "language": "en",
+        "value": "dishonesty"
+      },
+      {
+        "language": "en",
+        "value": "outright deception"
+      },
+      {
+        "language": "en",
+        "value": "trickery"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q899$53C40847-C88B-5EFF-BBA7-739B75EA93D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q170028"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q170028"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Verbreitung von Unwahrheiten oder Halbwahrheiten"
+    },
+    "en": {
+      "language": "en",
+      "value": "act of intentionally propagating beliefs of things that are not true, or not the whole truth"
+    }
+  },
+  "id": "Q899",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Täuschung"
+    },
+    "en": {
+      "language": "en",
+      "value": "deception"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

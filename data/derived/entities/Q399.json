@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q399$E56D9968-9430-590F-BF96-D5C95F94149C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129571698"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129571698"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "book about the history of Freshford, Co. Kilkenny, Ireland"
+    }
+  },
+  "id": "Q399",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Historical, Social and Pictoral Sketches of Freshford"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

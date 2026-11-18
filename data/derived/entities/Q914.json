@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "27.10."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "October 27th"
+      },
+      {
+        "language": "en",
+        "value": "27th of October"
+      },
+      {
+        "language": "en",
+        "value": "27 October"
+      },
+      {
+        "language": "en",
+        "value": "Oct 27"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q914$5FDAB9B3-AB21-5376-9D15-C8C81280260E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2956"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2956"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q914",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "27. Oktober"
+    },
+    "en": {
+      "language": "en",
+      "value": "October 27"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "15.8."
+      },
+      {
+        "language": "de",
+        "value": "15.08."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "August 15th"
+      },
+      {
+        "language": "en",
+        "value": "15th of August"
+      },
+      {
+        "language": "en",
+        "value": "15 August"
+      },
+      {
+        "language": "en",
+        "value": "Aug 15"
+      },
+      {
+        "language": "en",
+        "value": "Assumption of Mary"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q475$127DBCEB-793D-5D3D-8A93-9BBFF568474A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2774"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2774"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "date"
+    }
+  },
+  "id": "Q475",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "15. August"
+    },
+    "en": {
+      "language": "en",
+      "value": "August 15"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

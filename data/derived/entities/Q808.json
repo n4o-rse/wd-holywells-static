@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Colman"
+      },
+      {
+        "language": "de",
+        "value": "Colmán"
+      },
+      {
+        "language": "de",
+        "value": "St. Colman"
+      },
+      {
+        "language": "de",
+        "value": "Colmann"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Colman of Lindisfarne"
+      },
+      {
+        "language": "en",
+        "value": "Colman"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q808$0FB5BA99-94DC-5C3B-82C8-8825D7AE34DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1110134"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1110134"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Geistlicher und Mönch, Bischof von Lindisfarne"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Lindisfarne; Saint"
+    }
+  },
+  "id": "Q808",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Colman von Lindisfarne"
+    },
+    "en": {
+      "language": "en",
+      "value": "Colmán of Lindisfarne"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

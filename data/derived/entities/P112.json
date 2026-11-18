@@ -1,0 +1,149 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Illustratorin"
+      },
+      {
+        "language": "de",
+        "value": "Illustratorinnen"
+      },
+      {
+        "language": "de",
+        "value": "Zeichner"
+      },
+      {
+        "language": "de",
+        "value": "Zeichnerin"
+      },
+      {
+        "language": "de",
+        "value": "Illustrationen von"
+      },
+      {
+        "language": "de",
+        "value": "Zeichnungen von"
+      },
+      {
+        "language": "de",
+        "value": "illustriert von"
+      },
+      {
+        "language": "de",
+        "value": "gezeichnet von"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "illustration by"
+      },
+      {
+        "language": "en",
+        "value": "illustrated by"
+      },
+      {
+        "language": "en",
+        "value": "drawing by"
+      },
+      {
+        "language": "en",
+        "value": "drawings by"
+      },
+      {
+        "language": "en",
+        "value": "drawn by"
+      },
+      {
+        "language": "en",
+        "value": "draftsperson"
+      },
+      {
+        "language": "en",
+        "value": "artist"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P112$F20A9C4B-2AC9-5DCA-825E-7278EFD51911",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P112$77E0AC9C-D195-5E4D-9B8A-C6813969F736",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P110"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P110"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Illustrator eines Buches"
+    },
+    "en": {
+      "language": "en",
+      "value": "person drawing the pictures or taking the photographs in a book or similar work"
+    }
+  },
+  "id": "P112",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Illustrator"
+    },
+    "en": {
+      "language": "en",
+      "value": "illustrator"
+    }
+  },
+  "type": "property"
+}

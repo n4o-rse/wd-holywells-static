@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "OBJ"
+      },
+      {
+        "language": "en",
+        "value": ".obj"
+      },
+      {
+        "language": "en",
+        "value": "Wavefront OBJ"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q638$5AB3F8F0-956B-5F04-9E82-70C6EF5495A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2119595"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2119595"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Dateiformat der Geometriedefinition"
+    },
+    "en": {
+      "language": "en",
+      "value": "geometry definition file format"
+    }
+  },
+  "id": "Q638",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wavefront OBJ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wavefront .obj file"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

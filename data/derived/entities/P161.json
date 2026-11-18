@@ -1,0 +1,109 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Wort-für-Wort-Übersetzung"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "direct translation"
+      },
+      {
+        "language": "en",
+        "value": "word-for-word translation"
+      },
+      {
+        "language": "en",
+        "value": "translation (literal)"
+      },
+      {
+        "language": "en",
+        "value": "lit."
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P161$D9C18519-D302-59F5-870D-2F297FB60791",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P161$3DFC32C6-7863-5575-BCBA-E89DD76D3B94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P2441"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2441"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "monolingualtext",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "direkte Wort-für-Wort-Übersetzung eines Namens oder einer Phrase (als Qualifier für Namens-, Titel-, Beschriftungs- und Zitat-Eigenschaften)"
+    },
+    "en": {
+      "language": "en",
+      "value": "direct or word-for-word translation of a name or phrase (qualifier for name, title, inscription, and quotation properties)"
+    }
+  },
+  "id": "P161",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "wörtliche Übersetzung"
+    },
+    "en": {
+      "language": "en",
+      "value": "literal translation"
+    }
+  },
+  "type": "property"
+}

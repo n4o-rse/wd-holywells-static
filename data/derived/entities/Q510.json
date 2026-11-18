@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Moling"
+      },
+      {
+        "language": "en",
+        "value": "Moling Luachra"
+      },
+      {
+        "language": "en",
+        "value": "Moling of Luachair"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q510$1736890A-8858-5C66-81BE-133030F9D4C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4300418"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q4300418"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Bishop of Ferns"
+    }
+  },
+  "id": "Q510",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Mo Ling"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mo Ling"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Rittergutsschmiede"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "forge"
+      },
+      {
+        "language": "en",
+        "value": "smithies"
+      },
+      {
+        "language": "en",
+        "value": "forge shop"
+      },
+      {
+        "language": "en",
+        "value": "blacksmith shop"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q840$15C19417-89AB-5C25-B800-5EC95FEE800A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q40558"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q40558"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Werkstatt in der metallene Gegenstände hergestellt oder bearbeitet werden"
+    },
+    "en": {
+      "language": "en",
+      "value": "workshop of a blacksmith, who is an ironsmith who makes iron into tools or other objects"
+    }
+  },
+  "id": "Q840",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schmiede"
+    },
+    "en": {
+      "language": "en",
+      "value": "smithy"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

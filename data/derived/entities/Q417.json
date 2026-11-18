@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Patrick Francis Moran: St. Fiacre"
+      },
+      {
+        "language": "en",
+        "value": "St. Fiacre"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q417$A068B2F9-D588-5F1C-9523-E266BB94D678",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130377925"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130377925"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the life of St Fiachra and the sites associated with him"
+    }
+  },
+  "id": "Q417",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Patrick Francis Moran: St. Fiacre, in: Transactions of the Ossory Archaeological Society, Volume the First, 1874-9, pp 89-100"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

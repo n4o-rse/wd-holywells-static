@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fintan of Clonenagh"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q743$812C3B0B-9D98-5463-988C-7C0FC2340BD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3072671"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q3072671"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish saint of Leinster"
+    }
+  },
+  "id": "Q743",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fintan"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

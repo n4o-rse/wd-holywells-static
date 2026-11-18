@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "6 Inch last edition OS map"
+      },
+      {
+        "language": "en",
+        "value": "last edition OS map (6 inch)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q358$9D950A77-08CD-5A1D-9EB8-FD0582E2546F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126555558"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126555558"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "historic map of Ireland"
+    }
+  },
+  "id": "Q358",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "6 Inch Last Edition Ordnance Survey map of Ireland"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

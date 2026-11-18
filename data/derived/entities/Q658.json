@@ -1,0 +1,129 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Kranio"
+      },
+      {
+        "language": "de",
+        "value": "Kranios"
+      },
+      {
+        "language": "de",
+        "value": "Hirnschädel"
+      },
+      {
+        "language": "de",
+        "value": "Schaedel"
+      },
+      {
+        "language": "de",
+        "value": "Kraniofacial"
+      },
+      {
+        "language": "de",
+        "value": "Intrakraniell"
+      },
+      {
+        "language": "de",
+        "value": "Schädelknochen"
+      },
+      {
+        "language": "de",
+        "value": "Viscerocranium"
+      },
+      {
+        "language": "de",
+        "value": "Neurocranium"
+      },
+      {
+        "language": "de",
+        "value": "Cranium"
+      },
+      {
+        "language": "de",
+        "value": "Schädelskelett"
+      },
+      {
+        "language": "de",
+        "value": "Tierschädel"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "cranium"
+      },
+      {
+        "language": "en",
+        "value": "💀"
+      },
+      {
+        "language": "en",
+        "value": "subdivision of skull"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q658$07B5E402-D0F5-51DE-8898-DAF4048DBCD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q13147"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q13147"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Knochen des Kopfes"
+    },
+    "en": {
+      "language": "en",
+      "value": "bony or cartilaginous structure that forms the skeleton of head in vertebrates"
+    }
+  },
+  "id": "Q658",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schädel"
+    },
+    "en": {
+      "language": "en",
+      "value": "skull"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

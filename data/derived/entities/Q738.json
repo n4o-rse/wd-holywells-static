@@ -1,0 +1,117 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Franziskus"
+      },
+      {
+        "language": "de",
+        "value": "Heiliger Franziskus"
+      },
+      {
+        "language": "de",
+        "value": "Saint Franziskus von Assisi"
+      },
+      {
+        "language": "de",
+        "value": "St. Franziskus"
+      },
+      {
+        "language": "de",
+        "value": "Saint Franz von Assisi"
+      },
+      {
+        "language": "de",
+        "value": "Franziskus von Assisi"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "St. Francis of Assisi"
+      },
+      {
+        "language": "en",
+        "value": "Francesco di Pietro di Bernardone"
+      },
+      {
+        "language": "en",
+        "value": "Saint Francis of Assisi"
+      },
+      {
+        "language": "en",
+        "value": "Saint Francis"
+      },
+      {
+        "language": "en",
+        "value": "San Francisco de Asís"
+      },
+      {
+        "language": "en",
+        "value": "San Francesco d'Assisi"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q738$BDF0A8CB-7594-5555-9F83-E10AEF56A025",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q676555"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q676555"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ordensgründer und Heiliger der römisch-katholischen Kirche"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italian Catholic saint, friar, deacon and preacher and founder of the Franciscan Order (1181/2–1226)"
+    }
+  },
+  "id": "Q738",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Franz von Assisi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Francis of Assisi"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

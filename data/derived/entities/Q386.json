@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Canice"
+      },
+      {
+        "language": "de",
+        "value": "Kenneth"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Cainnech moccu Dálann"
+      },
+      {
+        "language": "en",
+        "value": "Cannicus"
+      },
+      {
+        "language": "en",
+        "value": "Cainnech moccu Dalann"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q386$37B6AB39-46DA-5C52-A2FF-B4203BCC2E67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1133742"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1133742"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Geistlicher"
+    },
+    "en": {
+      "language": "en",
+      "value": "saint, priest and abbot who preached across Ireland and Scotland."
+    }
+  },
+  "id": "Q386",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Cainnech von Aghaboe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cainnech of Aghaboe"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

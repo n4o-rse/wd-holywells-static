@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q745$AFAD13A7-9945-5EF3-AE0C-A9B99F05E5DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104264699"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104264699"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in Lisdowney, County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q745",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Clontubbrid"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

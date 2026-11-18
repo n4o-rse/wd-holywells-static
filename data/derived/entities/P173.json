@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Grund für Ende"
+      },
+      {
+        "language": "de",
+        "value": "Ursache für Ende"
+      },
+      {
+        "language": "de",
+        "value": "Beendigungsgrund"
+      },
+      {
+        "language": "de",
+        "value": "Grund der Beendigung"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "cause of ending"
+      },
+      {
+        "language": "en",
+        "value": "ended by"
+      },
+      {
+        "language": "en",
+        "value": "end reason"
+      },
+      {
+        "language": "en",
+        "value": "reason for end"
+      },
+      {
+        "language": "en",
+        "value": "end has cause"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P173$EF0AE53F-26A9-56FA-971E-AF63F9641A5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P173$C85C7305-C402-5FB0-A10E-8524EC2CF4D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1534"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1534"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Qualifizierer, der zusammen mit dem Enddatum-Qualifier (P582) verwendet wird, um die Ursache für das Ende anzugeben"
+    },
+    "en": {
+      "language": "en",
+      "value": "qualifier used together with the end date qualifier (P582) to specify the reason for the end"
+    }
+  },
+  "id": "P173",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ursache der Beendigung"
+    },
+    "en": {
+      "language": "en",
+      "value": "end cause"
+    }
+  },
+  "type": "property"
+}

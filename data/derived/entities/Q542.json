@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q542$70E68E47-4791-582E-B5B6-5FB129614307",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126507417"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126507417"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "unpublished academic paper about an archaeological and historical survey of County Kilkenny"
+    }
+  },
+  "id": "Q542",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Urban Archaeological Survey - County Kilkenny"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

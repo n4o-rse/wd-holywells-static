@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "22. Jänner"
+      },
+      {
+        "language": "de",
+        "value": "22.1."
+      },
+      {
+        "language": "de",
+        "value": "22.01."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "22 January"
+      },
+      {
+        "language": "en",
+        "value": "January 22nd"
+      },
+      {
+        "language": "en",
+        "value": "22nd of January"
+      },
+      {
+        "language": "en",
+        "value": "Jan 22"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q875$F9A2C7BD-7988-5E37-B484-5A65625C4157",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2275"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2275"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q875",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "22. Januar"
+    },
+    "en": {
+      "language": "en",
+      "value": "January 22"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

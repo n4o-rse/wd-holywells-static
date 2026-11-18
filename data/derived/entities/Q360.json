@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Carrigan II"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q360$AFB675A2-5BE5-58DE-BB56-97394F47CE86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116166792"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q116166792"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "second volume of a history book"
+    }
+  },
+  "id": "Q360",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The History and Antiquities of the Diocese of Ossory II"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

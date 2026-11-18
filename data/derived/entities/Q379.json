@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Hogan: Notes on the Reputed Holy Wells of the City of Kilkenny"
+      },
+      {
+        "language": "en",
+        "value": "Notes on the Reputed Holy Wells of the City of Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q379$058AB482-85C5-5198-8DCB-0E699B14F9DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130362725"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130362725"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the holy wells of Kilkenny"
+    }
+  },
+  "id": "Q379",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Hogan: Notes on the Reputed Holy Wells of the City of Kilkenny, in: Transactions of the Ossory Archaeological Society, Volume III, 1883"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

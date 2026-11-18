@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cuán"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q663$C921D818-C15B-595D-85AE-08AA4D1A8F7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130535583"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130535583"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish saint"
+    }
+  },
+  "id": "Q663",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cuán of Kilcoan"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

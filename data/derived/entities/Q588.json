@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Heiliger Leonhard"
+      },
+      {
+        "language": "de",
+        "value": "Hl. Leonhard"
+      },
+      {
+        "language": "de",
+        "value": "Leonhard von Noblat"
+      },
+      {
+        "language": "de",
+        "value": "Leonhard von Noblac"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Leonard"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q588$D97E3CA3-9C04-5FC7-A979-A607CBEBE747",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q558148"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q558148"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Klostergründer, Heiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frankish saint"
+    }
+  },
+  "id": "Q588",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Leonhard von Limoges"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leonard of Noblac"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

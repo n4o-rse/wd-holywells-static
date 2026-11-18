@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael Delaney: Holy Wells"
+      },
+      {
+        "language": "en",
+        "value": "Holy Wells"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q941$D08B911F-D361-5C91-893E-D1892DB7B28F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130266394"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130266394"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "short article about the visit to three holy wells"
+    }
+  },
+  "id": "Q941",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Michael Delaney: Holy Wells, in: Deenside, April 1967, p. 5"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

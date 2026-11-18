@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "D. Brennan: Antiquities of the Parish of Kilmacow"
+      },
+      {
+        "language": "en",
+        "value": "Antiquities of the Parish of Kilmacow"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q665$35E83E89-E5E9-5B5D-B2C9-8F0B6C380AF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130362406"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130362406"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the monuments, churches and otherwise in Kilmacow"
+    }
+  },
+  "id": "Q665",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "D. Brennan: Antiquities of the Parish of Kilmacow, in: Transaction of the Ossory Archaeological Society, Volume the First 1874-1879, pp. 57-73"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

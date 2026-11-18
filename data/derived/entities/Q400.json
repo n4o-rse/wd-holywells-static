@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liber Rubrum Ossoriensis"
+      },
+      {
+        "language": "en",
+        "value": "RCB Library, MS D11/2/1"
+      },
+      {
+        "language": "en",
+        "value": "Liber Ruber of the Diocese of Ossory"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q400$76A9FCFD-0371-5F98-A385-6D0CED1434A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48998249"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q48998249"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "mittelalterliches Manuskript aus Kilkenny, Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "medieval manuscript from Ireland"
+    }
+  },
+  "id": "Q400",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Red Book of Ossory"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

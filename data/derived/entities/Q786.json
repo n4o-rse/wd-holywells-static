@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q786$7C8F1F9E-4DB3-5FDA-932F-55A1234EA6B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126485966"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126485966"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "scholarly article"
+    }
+  },
+  "id": "Q786",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "J. Hogan: Topographical and historical illustrations of the suburbs of Kilkenny, in: Journal of the Royal Society of Antiquarians of Ireland 6"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

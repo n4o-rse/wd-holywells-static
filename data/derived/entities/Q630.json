@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "J.J. Hughes: Inistioge"
+      },
+      {
+        "language": "en",
+        "value": "Inistioge"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q630$E2878A24-FF5D-5F4D-834A-7B6DFDBDC26F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129916785"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129916785"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the history and architecture of Inistioge, Co. Kilkenny"
+    }
+  },
+  "id": "Q630",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "J.J. Hughes: Inistioge, in: Old Kilkenny Review 1948, pp. 42-50"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

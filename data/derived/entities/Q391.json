@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "aufgelassen"
+      },
+      {
+        "language": "de",
+        "value": "stillgelegt"
+      },
+      {
+        "language": "de",
+        "value": "still gelegt"
+      },
+      {
+        "language": "de",
+        "value": "aufgegeben"
+      },
+      {
+        "language": "de",
+        "value": "nicht erhalten"
+      },
+      {
+        "language": "de",
+        "value": "aufgelöst"
+      },
+      {
+        "language": "de",
+        "value": "verlassen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "disused"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q391$62F481F8-EBDB-5619-B6F9-A9379B937CDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q63065035"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q63065035"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Erhaltungszustand von Objekten"
+    },
+    "en": {
+      "language": "en",
+      "value": "not in use nor planned to be used"
+    }
+  },
+  "id": "Q391",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "eingestellt"
+    },
+    "en": {
+      "language": "en",
+      "value": "abandoned"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

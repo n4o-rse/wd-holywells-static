@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Hogan: Kilkenny - The Ancient City of Ossory"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q367$C33275E1-2B1C-51A6-AB48-B83CDA804504",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q127619817"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q127619817"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "History book about Kilkenny city and county"
+    }
+  },
+  "id": "Q367",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kilkenny: The Ancient City of Ossory, The Seat of Its Kings, The See of Its Bishops and the Site of Its Cathedral by John Hogan, Mayor of Kilkenny, 1883"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

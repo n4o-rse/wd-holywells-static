@@ -1,0 +1,115 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "aka"
+      },
+      {
+        "language": "en",
+        "value": "also known as"
+      },
+      {
+        "language": "en",
+        "value": "known as"
+      },
+      {
+        "language": "en",
+        "value": "label"
+      },
+      {
+        "language": "en",
+        "value": "be known as"
+      },
+      {
+        "language": "en",
+        "value": "be referred as"
+      },
+      {
+        "language": "en",
+        "value": "referred to as"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P134$8726E4EE-F8CB-5CFC-B24A-501B9F676C5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P134$05115C35-1203-5F10-976F-910A414F4ED1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P2561"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2561"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "monolingualtext",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Name, unter dem das Objekt bekannt ist. Ggf. sollte eine speziellere Eigenschaft verwendet werden"
+    },
+    "en": {
+      "language": "en",
+      "value": "name the subject is known by; preferably use a more specific subproperty if available"
+    }
+  },
+  "id": "P134",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Name"
+    },
+    "en": {
+      "language": "en",
+      "value": "name"
+    }
+  },
+  "type": "property"
+}

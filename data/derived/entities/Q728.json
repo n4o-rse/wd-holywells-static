@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The First Book of Kilkenny"
+      },
+      {
+        "language": "en",
+        "value": "Liber Primus"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q728$A6BD66B4-A28D-5572-8F06-4DAA740F5E0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126903104"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126903104"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "mittelalterliches Manuskript und wichtige Quelle für die mittelalterliche Geschichte von Kilkenny"
+    },
+    "en": {
+      "language": "en",
+      "value": "medieval manuscript and important source for Kilkenny's medieval history"
+    }
+  },
+  "id": "Q728",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Liber primus Kilkenniensis"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liber primus Kilkenniensis"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

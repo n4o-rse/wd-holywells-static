@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Reizhusten"
+      },
+      {
+        "language": "de",
+        "value": "Tussis"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "coughing"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q686$EF2AEB38-EA60-509B-805C-176D5461CCF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q35805"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q35805"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "über den Hustenreflex ausgelöstes, explosionsartiges Ausstoßen von Luft"
+    },
+    "en": {
+      "language": "en",
+      "value": "medical symptom, reflex to clear large breathing passages"
+    }
+  },
+  "id": "Q686",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Husten"
+    },
+    "en": {
+      "language": "en",
+      "value": "cough"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

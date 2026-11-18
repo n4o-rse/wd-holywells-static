@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ladywell"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q378$EB546834-C1B7-5020-B82A-4FA944F31395",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130308814"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130308814"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet about the holy well in Castlemarket, Co. Kilkenny"
+    }
+  },
+  "id": "Q378",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dermot & Julie Dorgan: Ladywell, Kilkenny 2008"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

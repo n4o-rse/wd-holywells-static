@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Newtown-Jerpoint"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q932$6DE3C439-7042-5D1B-B78E-C3A620FA90D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q60554519"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q60554519"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "civil parish in County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q932",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jerpointchurch"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

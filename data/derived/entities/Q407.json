@@ -1,0 +1,145 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Quell"
+      },
+      {
+        "language": "de",
+        "value": "Wasserquelle"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "water spring"
+      },
+      {
+        "language": "en",
+        "value": "waterspring"
+      },
+      {
+        "language": "en",
+        "value": "freshwater spring"
+      },
+      {
+        "language": "en",
+        "value": "natural spring"
+      },
+      {
+        "language": "en",
+        "value": "natural springs"
+      },
+      {
+        "language": "en",
+        "value": "spring (water source)"
+      },
+      {
+        "language": "en",
+        "value": "spring (hydrology)"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q407$80A7878A-45FB-5FD1-A2B8-6D2E89B5873E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q407$1F623F71-5F3D-53E9-A17B-14AC67C274F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q407$8B399D39-87B6-5D89-8EBB-351237E9CEF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q124714"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q124714"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ort, wo dauerhaft oder zeitweise aus Niederschlägen gespeistes Grundwasser auf natürliche Weise austritt"
+    },
+    "en": {
+      "language": "en",
+      "value": "terrestrial water source"
+    }
+  },
+  "id": "Q407",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Quelle"
+    },
+    "en": {
+      "language": "en",
+      "value": "spring"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

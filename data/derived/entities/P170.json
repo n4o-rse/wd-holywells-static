@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Aggregatszustand"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "phase or state of matter"
+      },
+      {
+        "language": "en",
+        "value": "state or phase of matter"
+      },
+      {
+        "language": "en",
+        "value": "phase of matter"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P170$6F0EAF06-1CD8-5EBE-B52E-888024ABAB5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P170$1D659CED-7C5F-5B7E-8AC3-0426208CB1D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P515"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P515"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Q11432 = Gas, Q11435 = Flüssigkeit, Q11438 = Festkörper, Q10251 = Plasma"
+    },
+    "en": {
+      "language": "en",
+      "value": "state or phase of the matter at which the measure was made"
+    }
+  },
+  "id": "P170",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aggregatzustand"
+    },
+    "en": {
+      "language": "en",
+      "value": "state of matter"
+    }
+  },
+  "type": "property"
+}

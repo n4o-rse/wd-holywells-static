@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Freynestown - County Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q481$C78C83CD-1917-5AEB-AD8C-F1B57ED27912",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16891442"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q16891442"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Siedlung in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "townland in Tiscoffin, County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q481",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Freneystown"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

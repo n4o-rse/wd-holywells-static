@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "1815 Kilmagar map"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q909$19CE0008-C473-5C57-8D23-6CEBAE5D2A10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129423431"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129423431"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "map of the townland of Kilmagar as part of the estate of John Coghill, Co. Kilkenny"
+    }
+  },
+  "id": "Q909",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "1815 John Coghill Estate map"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

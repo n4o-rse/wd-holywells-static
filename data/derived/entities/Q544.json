@@ -1,0 +1,117 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Hl. Kreuz"
+      },
+      {
+        "language": "de",
+        "value": "Heiliges Kreuz"
+      },
+      {
+        "language": "de",
+        "value": "Kreuzpartikel"
+      },
+      {
+        "language": "de",
+        "value": "Kreuzreliquie"
+      },
+      {
+        "language": "de",
+        "value": "Kreuz Christi"
+      },
+      {
+        "language": "de",
+        "value": "Wahres Kreuz Christi"
+      },
+      {
+        "language": "de",
+        "value": "Kreuz"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Holy Cross"
+      },
+      {
+        "language": "en",
+        "value": "Saint Cross"
+      },
+      {
+        "language": "en",
+        "value": "St. Cross"
+      },
+      {
+        "language": "en",
+        "value": "St Cross"
+      },
+      {
+        "language": "en",
+        "value": "The True Cross"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q544$A43AA228-DFF0-5E4F-B7C5-1A20CF34E6B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q380356"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q380356"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Holzkreuz, an dem Jesus Christus gemäß der biblischen Überlieferung den Opfertod starb"
+    },
+    "en": {
+      "language": "en",
+      "value": "concept of the cross upon which Jesus was crucified"
+    }
+  },
+  "id": "Q544",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wahres Kreuz"
+    },
+    "en": {
+      "language": "en",
+      "value": "True Cross"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

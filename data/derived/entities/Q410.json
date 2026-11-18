@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "On the Banks of the Nore - St. Fiachre's Land"
+      },
+      {
+        "language": "en",
+        "value": "On the Banks of the Nore"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q410$1CF3ED68-A413-593B-AA2A-F052BB0E2EBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q127815620"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q127815620"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet dealing with the history of the townlands of Warrington, Kilfera, Archersgrove, Kilree and Wallslough"
+    }
+  },
+  "id": "Q410",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mary Tallent: On the Banks of the Nore"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

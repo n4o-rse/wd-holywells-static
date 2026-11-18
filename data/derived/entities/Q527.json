@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Hogan: Patron Days and Holy Wells in Ossory"
+      },
+      {
+        "language": "en",
+        "value": "Patron Days and Holy Wells in Ossor"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q527$F19DC52A-CA12-5596-AA08-E5478CB96C11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130378388"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130378388"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about patron days in general, druidic and Christian wells in general and in Ossory"
+    }
+  },
+  "id": "Q527",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Hogan: Patron Days and Holy Wells in Ossory, in: Journal of the Royal Society of Antiquaries of Ireland 12, 1873, pp. 261-281"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

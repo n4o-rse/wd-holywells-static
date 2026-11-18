@@ -1,0 +1,986 @@
+{
+  "aliases": {},
+  "claims": {
+    "P11693": [
+      {
+        "id": "Q126685062$a8577a87-490a-18bd-c535-0a5b9e3aeb53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5343898432"
+          },
+          "hash": "31235f2e6427f2b8a01ac298481eff748cf75a6b",
+          "property": "P11693",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q126685062$2af91e51-4003-2c4b-8e2c-4062c5f7ce4a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q180231",
+              "numeric-id": 180231
+            }
+          },
+          "hash": "a39489d010d0aade2bfc1a651156d2c4c7f38db8",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$c31d46fe-434d-0afc-d2eb-49051cb810e2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109092",
+              "numeric-id": 109092
+            }
+          },
+          "hash": "3b708e5b7ef43735bf4df2d5eb84130f5a24eb1d",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q126685062$2dbe2b04-4084-0a5d-9616-c234a061a3a0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393245",
+              "numeric-id": 126393245
+            }
+          },
+          "hash": "afc487e05cd68f3b3afa3e98ef57ca86f66a53d4",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "900e62876cc8d2ee97ef72452c10f0db038ffff4",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758542/4753127/5015099"
+                  },
+                  "hash": "9fb6d6d04409a6e9634963b2a559b9cda24be790",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$721b451c-424d-6d58-f2ff-41546bf53b64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127524368",
+              "numeric-id": 127524368
+            }
+          },
+          "hash": "5f5c8477ff57cc31f4dcb860bee32d2b8d31958e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P958": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "sheet XIX.48"
+              },
+              "hash": "5db2c517ca29b6861c4683e0fa562faf66da0210",
+              "property": "P958",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P958"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$507b0612-44c8-1591-430c-dc5e22751b9e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126540348",
+              "numeric-id": 126540348
+            }
+          },
+          "hash": "7f928f614f107987c78367022ba2f4f6e0c7c679",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$802cf171-47c9-0770-3142-f33fb2a4663b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128033900",
+              "numeric-id": 128033900
+            }
+          },
+          "hash": "5bacf219102ed1e3eafee840ef46e18d6aa277e5",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "55"
+              },
+              "hash": "43688b84d4c2d1c1b545fd45fb25c56ac93bb340",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$fed53a7a-475b-be3f-1a52-973fe1f4927d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129421697",
+              "numeric-id": 129421697
+            }
+          },
+          "hash": "b74176dffe9416951285c6d3fe080dbd56e324d3",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$ec3c3844-4aa0-4906-8ed1-b52b855f4e5f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "9"
+              },
+              "hash": "eef7ce6e11ff3fa218092ffbc84124a625f0b8d9",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$9b550173-4256-4126-c912-e3f37b8c8485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Lacken Well"
+              },
+              "hash": "495593ed29385b0e112db860e9f970d42800fa76",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "196-197"
+              },
+              "hash": "6c7cea427803e83c10a594f6c6eedbc1e22c275f",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$bd1176d9-46f2-a8ba-979a-81aa0288df2b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1163": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "image"
+              },
+              "hash": "2cd4d36684e1d039954311fd1cd84b976db2bc33",
+              "property": "P1163",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KHW115"
+              },
+              "hash": "e0fdf1b086ac902c984a0688f26b57c0816ace88",
+              "property": "P1810",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Lacken Well"
+              },
+              "hash": "495593ed29385b0e112db860e9f970d42800fa76",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "318"
+              },
+              "hash": "95762c211258e11401a1a28b042487fbb40df456",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304",
+          "P1163"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$794544ac-44b7-9989-5cbb-58d76a29d5e9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133575033",
+              "numeric-id": 133575033
+            }
+          },
+          "hash": "f149ac2970bbf2d55a41a1cf7a5c2475a122cb0e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Lacken Well"
+              },
+              "hash": "495593ed29385b0e112db860e9f970d42800fa76",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "01d6571a887f891f9782c5750284597edcdfbb98",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://planning.kilkennycoco.ie/historicmaps/borough/1963%20to%201983/19-7.pdf"
+                  },
+                  "hash": "86e3f500b09a27fbc3fa504444a8b40abd38d0ae",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q126685062$1b5622e3-4d1c-d8d4-d69d-cf1ac2286ecd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q944588",
+              "numeric-id": 944588
+            }
+          },
+          "hash": "fd5ddf8d82690f92cfb75e19554dc5e026ee2a3c",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1651": [
+      {
+        "id": "Q126685062$4ce03b6a-4660-306d-a977-b2c8c53ef249",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4JPYRMSQ0lM"
+          },
+          "hash": "14042862c0274f8352eb2ce67d07d5e5995c3eb4",
+          "property": "P1651",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Kilkenny: Lacken Well"
+              },
+              "hash": "84c03ced43477185a4827f99174955cf0ca24389",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2047": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+108.0",
+                  "unit": "http://www.wikidata.org/entity/Q11574"
+                }
+              },
+              "hash": "228d82efbacf51f73544b5bb049543c84aebf326",
+              "property": "P2047",
+              "snaktype": "value"
+            }
+          ],
+          "P2397": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "UCBdGNv-5nSm7--9WCaQStdw"
+              },
+              "hash": "b5a7558c412bf89a27782ad8fe97813a1f2c2c73",
+              "property": "P2397",
+              "snaktype": "value"
+            }
+          ],
+          "P577": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-07-04T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "c983c94a320971818860be79a6b8cdd4e1ed84c6",
+              "property": "P577",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-07-10T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "53ff89d194b5f35684d0c7b95931067f64e50b74",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P577",
+          "P2047",
+          "P2397",
+          "P585"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q126685062$2a32e9dd-4f11-5924-170d-b4e8afed139c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q126685062$6b0a6897-4f1a-d0ad-67c6-82cffec8cae9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lacken Well Kilkenny.jpg"
+          },
+          "hash": "422e5de8955cd47c5cf86a05448542300bead1c3",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P195": [
+      {
+        "id": "Q126685062$95115232-46b2-b2a2-6c26-5ab1bce33bac",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P217": [
+      {
+        "id": "Q126685062$7a4c7550-4d65-d2d0-9d2c-8f853e7a38e2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "KHW115"
+          },
+          "hash": "f9e345b824ce948452e46461417fa4f65d0da7c4",
+          "property": "P217",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P195": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q132817615",
+                  "numeric-id": 132817615
+                }
+              },
+              "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+              "property": "P195",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P195"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q126685062$70745c15-468a-f2e4-53ed-b60aa3d34982",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$d22db920-4bee-9631-9e80-5759e0844158",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "a635c77d620b9371d622bb4bad67d3d33d63ac41",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126393245",
+                      "numeric-id": 126393245
+                    }
+                  },
+                  "hash": "4f4f6837622493aef5e04a9137ba19dde21fa955",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q126685062$cde80e0d-4522-6561-1238-9360c7355267",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lacken Well, Kilkenny"
+          },
+          "hash": "224b33150f1439caed8ef3b1fa7155af5cb7176f",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q126685062$c20d1db9-4942-1d3a-87b7-7ac40b7e2e5a",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.65153,
+              "longitude": -7.23905,
+              "precision": 1e-05
+            }
+          },
+          "hash": "973a1ebc3b3f1bcd1f8a202621e5c8e36b6fbcf0",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8ece5ca44e176c0cd32cb8dc238d7eedd6286bbc",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P708": [
+      {
+        "id": "Q126685062$5466752c-4939-b42b-ef90-976529e4ddbe",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q873607",
+              "numeric-id": 873607
+            }
+          },
+          "hash": "efeff9f87d449cb40dff681967cdf5d27387c166",
+          "property": "P708",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q126685062$25be76dd-42e8-4bf7-9aa2-64ca7b185fc4",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://new.keepkilkennybeautiful.com/?tag=lacken"
+          },
+          "hash": "e46c6f3d20a967bfd8f0a744b187bbb812b304ef",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Lacken well"
+              },
+              "hash": "cc894c94d01c67dfad34acef2155c341064eb9ab",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ],
+          "P577": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2018-07-11T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "96f1756e7c3b26adf048b491c82ec71d4914aa71",
+              "property": "P577",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P1810",
+          "P577"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126685062$5b5f7b2a-4c19-54f6-17bf-2ffc57cd7951",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.kilkennypeople.ie/news/local-news/727710/mayor-calls-for-review-of-kilkenny-citys-wells.html"
+          },
+          "hash": "5640311ac4da0b957e675e5af2b1d8c3ab8ee63d",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1476": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "Mayor calls for review of Kilkenny City’s wells"
+                }
+              },
+              "hash": "b05ffa84b639771da529ff85af56143f102f2791",
+              "property": "P1476",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Lacken Well"
+              },
+              "hash": "495593ed29385b0e112db860e9f970d42800fa76",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ],
+          "P577": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2022-01-25T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "9592456318f230186c62a8501da434163f572906",
+              "property": "P577",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P1810",
+          "P577",
+          "P1476"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "disused holy well in Kilkenny, Co. Kilkenny"
+    }
+  },
+  "id": "Q126685062",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lacken Well"
+    }
+  },
+  "lastrevid": 2331480950,
+  "modified": "2025-03-28T10:06:56Z",
+  "ns": 0,
+  "pageid": 120701922,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:Lacken Well, Kilkenny"
+    }
+  },
+  "title": "Q126685062",
+  "type": "item"
+}

@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ríoghnach"
+      },
+      {
+        "language": "en",
+        "value": "Ríoghnach daughter of Fearadhach"
+      },
+      {
+        "language": "en",
+        "value": "Rignach"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q589$687B9415-4853-5443-92C9-1AE9684AB5B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130535426"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130535426"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish saint"
+    }
+  },
+  "id": "Q589",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ríoghnach of Kilrainy"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

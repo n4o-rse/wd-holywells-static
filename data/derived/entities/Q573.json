@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Lumpenbaum"
+      },
+      {
+        "language": "de",
+        "value": "Wunschbaum"
+      },
+      {
+        "language": "de",
+        "value": "Votivbaum"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Rag tree"
+      },
+      {
+        "language": "en",
+        "value": "cloughtie tree"
+      },
+      {
+        "language": "en",
+        "value": "cloutie tree"
+      },
+      {
+        "language": "en",
+        "value": "rag tree"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q573$52A6B366-6D5B-5E61-9DB8-469E09BF33F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q107257053"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q107257053"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "mit Stofffetzen behängter Baum"
+    },
+    "en": {
+      "language": "en",
+      "value": "a tree (often hawthorn) into whose branches pieces of cloth or other votive offerings have been tied"
+    }
+  },
+  "id": "Q573",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Lappenbaum"
+    },
+    "en": {
+      "language": "en",
+      "value": "clootie tree"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

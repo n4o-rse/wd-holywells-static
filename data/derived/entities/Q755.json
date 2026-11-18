@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fachtna"
+      },
+      {
+        "language": "en",
+        "value": "Fachanan"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q755$43743E7D-C7E4-5783-91AB-DA5B526BA2B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7401223"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q7401223"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish saint"
+    }
+  },
+  "id": "Q755",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Saint Fachanan"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

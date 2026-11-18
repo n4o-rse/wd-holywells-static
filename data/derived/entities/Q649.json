@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "eremit"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "hermit"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q649$24AC12C1-4F3C-56F4-B274-1A3AB3FBEC37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1146843"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1146843"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Mensch, der sich aus persönlichen Gründen aus der Gemeinschaft zurückzog"
+    },
+    "en": {
+      "language": "en",
+      "value": "someone who, for religious reasons, withdraws from secular society"
+    }
+  },
+  "id": "Q649",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Anachoret"
+    },
+    "en": {
+      "language": "en",
+      "value": "anchorite"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "two"
+      },
+      {
+        "language": "en",
+        "value": "number 2"
+      },
+      {
+        "language": "en",
+        "value": "number two"
+      },
+      {
+        "language": "en",
+        "value": "the number 2"
+      },
+      {
+        "language": "en",
+        "value": "2 (number)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q805$5CDB4FE2-D509-5054-A24B-C00F37BBB247",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q200"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q200"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "natürliche Zahl"
+    },
+    "en": {
+      "language": "en",
+      "value": "natural number"
+    }
+  },
+  "id": "Q805",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Zwei"
+    },
+    "en": {
+      "language": "en",
+      "value": "2"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

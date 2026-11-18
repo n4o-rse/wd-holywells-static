@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Ryan: Kilmanahan, An Early Monastic Site"
+      },
+      {
+        "language": "en",
+        "value": "Kilmanahan, An Early Monastic Site"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q612$4FD3FCE5-CA93-5461-AF76-9F06A2624683",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130235257"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130235257"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the church site at Kilmanahan, Co. Kilkenny and its bullaun stone"
+    }
+  },
+  "id": "Q612",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Ryan: Kilmanahan, An Early Monastic Site, in: Old Kilkenny Review 1986, pp. 302-304"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

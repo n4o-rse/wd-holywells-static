@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Grange"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q792$0C9CDBD1-666C-560E-A67D-24B660ADBE48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129176807"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129176807"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet about the history of Grange, Co. Kilkenny"
+    }
+  },
+  "id": "Q792",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Grange Gráinseach"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Questionnaire"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "questionnaires"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q856$7EB86701-4A1B-5509-A6DE-A7F5654EFE9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q747810"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q747810"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Instrument der Datenerhebung"
+    },
+    "en": {
+      "language": "en",
+      "value": "research instrument consisting of a series of questions and other prompts for the purpose of gathering information from respondents"
+    }
+  },
+  "id": "Q856",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Fragebogen"
+    },
+    "en": {
+      "language": "en",
+      "value": "questionnaire"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

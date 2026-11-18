@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Fintan's Well"
+      },
+      {
+        "language": "en",
+        "value": "St. Fintan's Well"
+      }
+    ]
+  },
+  "claims": {
+    "P131": [
+      {
+        "id": "Q130266414$58044e88-4b6d-6df0-1937-7d6a5610c5c5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55299",
+              "numeric-id": 55299
+            }
+          },
+          "hash": "b457fa63a47fe97699b5497644c8d8dd5dadea9c",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q130266414$bc9b2bb3-452d-becf-66f6-46e32a84fd0d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120966194",
+              "numeric-id": 120966194
+            }
+          },
+          "hash": "726fc103b071acc3cddebd2ebc6679bb23575e3e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "de42b14ae4c9438de9274fa3f8f5b4efb3b3037f",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CLA017-003003-"
+                  },
+                  "hash": "4da557f5536ad84f37e6c4f83862f875ea5ac109",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130266414$c9b5789a-4c40-0639-76b3-190680142f98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130266394",
+              "numeric-id": 130266394
+            }
+          },
+          "hash": "2ad6656dbc09e7126ccfa9ef54b312072594ec4c",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q130266414$31ce7814-4bc3-9843-7c00-8566865e2b10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3072671",
+              "numeric-id": 3072671
+            }
+          },
+          "hash": "8becf1dd252e2379ea21cd729737ee47e1f63f32",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q130266414$81a28436-404b-98e6-d410-efe9348f2f0b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q130266414$0a7e3d56-42de-1229-4231-ceadeae67cb5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130266414$2d540252-4ad1-117f-10ee-98fde042e630",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q130266414$2577b0e5-4557-2525-923a-490265fd5269",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LA017-003003-"
+          },
+          "hash": "0ab0cdb205c01d5693697e8e112bf4eb928262f0",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "de42b14ae4c9438de9274fa3f8f5b4efb3b3037f",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CLA017-003003-"
+                  },
+                  "hash": "4da557f5536ad84f37e6c4f83862f875ea5ac109",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q130266414$a4d43ffc-4565-bcbb-75ea-6ca992005e22",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 53.011028,
+              "longitude": -7.419903,
+              "precision": 1e-06
+            }
+          },
+          "hash": "be97a260e2a807983e03d4d6e2c76d2149a6ddbc",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "de42b14ae4c9438de9274fa3f8f5b4efb3b3037f",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CLA017-003003-"
+                  },
+                  "hash": "4da557f5536ad84f37e6c4f83862f875ea5ac109",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "former holy well in Clonenagh with an associated holy tree nearby, Co. Laois"
+    }
+  },
+  "id": "Q130266414",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St Fintan's Well"
+    }
+  },
+  "lastrevid": 2479910563,
+  "modified": "2026-04-09T23:57:24Z",
+  "ns": 0,
+  "pageid": 124231332,
+  "sitelinks": {},
+  "title": "Q130266414",
+  "type": "item"
+}

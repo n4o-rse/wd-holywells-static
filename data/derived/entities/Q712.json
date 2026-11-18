@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "hydrotherapy center"
+      },
+      {
+        "language": "en",
+        "value": "spa center"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q712$5EB4F049-2C27-5338-BECA-13574A6F76E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1341387"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1341387"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Oberbegriff für Gesundheits-, Bade- und Wellnesseinrichtungen"
+    },
+    "en": {
+      "language": "en",
+      "value": "location where mineral-rich spring water is used to give medicinal baths"
+    }
+  },
+  "id": "Q712",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Spa"
+    },
+    "en": {
+      "language": "en",
+      "value": "spa"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

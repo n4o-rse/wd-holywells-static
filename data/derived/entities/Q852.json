@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Herdentier"
+      },
+      {
+        "language": "de",
+        "value": "Tierherde"
+      },
+      {
+        "language": "de",
+        "value": "Schule"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "flock"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q852$0A352C02-2A28-5919-BF43-667300AD408F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q209542"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q209542"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ansammlung großer, in der Regel gleichartiger ebenerdig-laufend lebender, meist pflanzenfressender Amnioten, vor allem großer Säugetiere und großer Laufvögel."
+    },
+    "en": {
+      "language": "en",
+      "value": "group of animals"
+    }
+  },
+  "id": "Q852",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Herde"
+    },
+    "en": {
+      "language": "en",
+      "value": "herd"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

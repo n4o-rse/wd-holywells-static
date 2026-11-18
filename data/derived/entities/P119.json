@@ -1,0 +1,123 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "font"
+      },
+      {
+        "language": "en",
+        "value": "typeface"
+      },
+      {
+        "language": "en",
+        "value": "is sample of"
+      },
+      {
+        "language": "en",
+        "value": "lettering"
+      },
+      {
+        "language": "en",
+        "value": "font used"
+      },
+      {
+        "language": "en",
+        "value": "typeface used"
+      },
+      {
+        "language": "en",
+        "value": "font/typeface used"
+      },
+      {
+        "language": "en",
+        "value": "typeface or font used"
+      },
+      {
+        "language": "en",
+        "value": "font or typeface used"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P119$764A764F-E79B-52D2-870B-CB98616863BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P119$50173258-ADEF-5E77-9611-B42F96D97162",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P2739"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2739"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "verwendete Schriftart in einem Werk"
+    },
+    "en": {
+      "language": "en",
+      "value": "style of type used in a work"
+    }
+  },
+  "id": "P119",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schriftart"
+    },
+    "en": {
+      "language": "en",
+      "value": "typeface/font used"
+    }
+  },
+  "type": "property"
+}

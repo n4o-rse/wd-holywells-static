@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Énda mac Conaill"
+      },
+      {
+        "language": "en",
+        "value": "Endeus"
+      },
+      {
+        "language": "en",
+        "value": "Enda mac Conaill"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q693$8AE0A06C-11E6-5CAF-9474-65644D0ED581",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3053971"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q3053971"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish monastic"
+    }
+  },
+  "id": "Q693",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Enda von Aran"
+    },
+    "en": {
+      "language": "en",
+      "value": "Enda of Aran"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

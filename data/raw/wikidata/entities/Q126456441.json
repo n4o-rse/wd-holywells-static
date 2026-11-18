@@ -1,0 +1,1989 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Columbkille's Well"
+      },
+      {
+        "language": "en",
+        "value": "St Columbkill's Well"
+      },
+      {
+        "language": "en",
+        "value": "St Colombkille's Well"
+      }
+    ]
+  },
+  "claims": {
+    "P10": [
+      {
+        "id": "Q126456441$49db8f21-4a65-464b-4540-fbedc2139008",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "St Colombkille's Well.webm"
+          },
+          "hash": "f4b93975fe46e9152f2ecdd6bf3c09873b3574ea",
+          "property": "P10",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11693": [
+      {
+        "id": "Q126456441$d9767fa6-4a43-a793-02f0-f2295c5af313",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8513597500"
+          },
+          "hash": "8e45a20c299adb6b826fa44cc8e54b2ec6ae0c1d",
+          "property": "P11693",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q126456441$d5788b97-49b4-5712-e792-b5d19833afa2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q180231",
+              "numeric-id": 180231
+            }
+          },
+          "hash": "a39489d010d0aade2bfc1a651156d2c4c7f38db8",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$01df50fe-41a8-9b3b-c1dd-836af1201f58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60554507",
+              "numeric-id": 60554507
+            }
+          },
+          "hash": "3a3fcf4e9ab2c819c88bddc80bb660a2fae1abc2",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$e2a65f09-4dde-1703-6b2a-0175d630b7de",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104266220",
+              "numeric-id": 104266220
+            }
+          },
+          "hash": "e62bd40156c79285325f88f0d80aeba6437ae495",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1325": [
+      {
+        "id": "Q126456441$9668e917-468b-5a80-d181-637e961b8ce9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/inistioge-st-columbkills-well-low-poly-b0845424e49d40cfa4f04376c98ac7f5"
+          },
+          "hash": "3f2504d9f9ae609eff247dc560abfc974ad9062a",
+          "property": "P1325",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P275": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q6905323",
+                  "numeric-id": 6905323
+                }
+              },
+              "hash": "9c5a9f3cdd950f69c1434b8c5b228642e2a3ca71",
+              "property": "P275",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P275"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q126456441$a7d021e1-4100-de57-1399-c45df9732a81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120966194",
+              "numeric-id": 120966194
+            }
+          },
+          "hash": "726fc103b071acc3cddebd2ebc6679bb23575e3e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2f8ba903a9567880f314561ea307b6e77ba4aa89",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK032-017011-"
+                  },
+                  "hash": "983dbcac5b463ee3ac7e2ce95deb265fbffc8df7",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$bf9c38e5-4ee3-c0a4-de39-7af80d029a79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126374601",
+              "numeric-id": 126374601
+            }
+          },
+          "hash": "de0bcf19983577a8343ad74d950e4c9e62dafc55",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "80"
+              },
+              "hash": "e2d8660b97b7373f87c028b1e3e31d7eda142025",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$4328d836-4e2c-cab8-69d5-0ccbf84a2081",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393245",
+              "numeric-id": 126393245
+            }
+          },
+          "hash": "afc487e05cd68f3b3afa3e98ef57ca86f66a53d4",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "aba42db176e508a073ea0d0ece6f8f9734736fed",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758551/4754110/4929178"
+                  },
+                  "hash": "4d3f584496847fdad991e2cfcab36947fee214b8",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "d3c23b6be1a790b7ab30d0b12179d8834ced18ba",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758551/4754111/4929182"
+                  },
+                  "hash": "ca745abead540304d67462fcfd419c536152677f",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "c606157637d5b87f5066e599480e0ec0fe877293",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758552/4754177/4929899"
+                  },
+                  "hash": "20b4eb9fee00a1e4b5499562a67078725f8e2691",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "03d8830a4dc0cbe03b78d0f146444026442edc6d",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758552/4754161/4929783"
+                  },
+                  "hash": "a4775c0a81b5a124d663ad264bf636a4cbfe236a",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "6db48fbb9be5ae99f257575dca79ae4c40087439",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758551/4754112/4929191"
+                  },
+                  "hash": "1545bacba0fa06eb09856cb90173ce91a873a1fc",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "9e85261487c25d92f453b48b05f3f34a851635da",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758552/4754172/4929879"
+                  },
+                  "hash": "11d4b75909bcfc19d21767e136e7e72259a1bc48",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$c5f95aa5-4bb3-58a7-4d7e-872c9c013acf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126555558",
+              "numeric-id": 126555558
+            }
+          },
+          "hash": "17c1caf66ceb6c7b0f640df5561e022a141d0dea",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Columbkille's Well"
+              },
+              "hash": "3bba0107f3dbc18a2200898aad270f4e97d272c3",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2739": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q213686",
+                  "numeric-id": 213686
+                }
+              },
+              "hash": "520dfc2c34cd75cc56f323e49a0ec9bd3804b4fd",
+              "property": "P2739",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2739",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$d476929d-4a50-d453-bf11-08025254c90f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126540348",
+              "numeric-id": 126540348
+            }
+          },
+          "hash": "7f928f614f107987c78367022ba2f4f6e0c7c679",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Columbkille's Well"
+              },
+              "hash": "3bba0107f3dbc18a2200898aad270f4e97d272c3",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2739": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q213686",
+                  "numeric-id": 213686
+                }
+              },
+              "hash": "520dfc2c34cd75cc56f323e49a0ec9bd3804b4fd",
+              "property": "P2739",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2739",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$1c2d4fb7-4be1-faf0-35d4-f290ecf2228e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126528008",
+              "numeric-id": 126528008
+            }
+          },
+          "hash": "bfa77e5bbe62aee85e02e0b9537d15c4ca4ffa47",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Columbkille's Well"
+              },
+              "hash": "3bba0107f3dbc18a2200898aad270f4e97d272c3",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$14c9231d-4387-35b9-54b4-c14528bc1ede",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126875543",
+              "numeric-id": 126875543
+            }
+          },
+          "hash": "d1b588c0ce143935888fc7eca1e5eac5c1ecefe1",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "447-448"
+              },
+              "hash": "41fc1ffd9bc4e45e563fbcab89a9e39cb34891b9",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$19e3552a-4c6d-2274-4716-7877acae00c5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127278549",
+              "numeric-id": 127278549
+            }
+          },
+          "hash": "b4a07369e0c72d8e617fedeb2490d3994a6b4241",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "134"
+              },
+              "hash": "9dd58a0a886342cd897218cdd1048dbbac4e946b",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$7f091167-474b-07e0-ebe0-c50f773bfd57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129903535",
+              "numeric-id": 129903535
+            }
+          },
+          "hash": "e576d157cb561935263621db9b594e4f6ede5890",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "41-42"
+              },
+              "hash": "23b09c68e20560092bef3ad183700abaeb0b4bcd",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$7d0c73c2-4819-c49c-b3a8-1a28d84281d8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129916785",
+              "numeric-id": 129916785
+            }
+          },
+          "hash": "772e248f3d88ccf09038708d867eef1168236c59",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "46"
+              },
+              "hash": "dd1977567f22f4cf510adfaadf5e3574813b3521",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$5f486cd9-4eed-2750-e0d0-c7dd219b0d53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130265580",
+              "numeric-id": 130265580
+            }
+          },
+          "hash": "0a974da86cedcdd78358722e4bd72ee86f7d3a96",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1163": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "image"
+              },
+              "hash": "2cd4d36684e1d039954311fd1cd84b976db2bc33",
+              "property": "P1163",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "80"
+              },
+              "hash": "e2d8660b97b7373f87c028b1e3e31d7eda142025",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304",
+          "P1163"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$cc100155-4ada-6ebf-e0bf-585984133ec5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130284129",
+              "numeric-id": 130284129
+            }
+          },
+          "hash": "4ceb67a0d86b06759ca9b554ee4d90b0e93d7d6c",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2561": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "Columbkille's Well"
+                }
+              },
+              "hash": "6ab1e5e404701f5fc60f3d8134b145ab38d347ee",
+              "property": "P2561",
+              "snaktype": "value"
+            }
+          ],
+          "P2739": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q213686",
+                  "numeric-id": 213686
+                }
+              },
+              "hash": "520dfc2c34cd75cc56f323e49a0ec9bd3804b4fd",
+              "property": "P2739",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2561",
+          "P2739"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$134e6772-4c69-1179-2066-9db5a8f4285d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St. Columcille"
+              },
+              "hash": "6ce66dadd2a5a4c9cf0fd962777491961b7daed5",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "108-110"
+              },
+              "hash": "272b102b4b21603b006b419bae3b1d79d17ddede",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$fa885040-42e6-2d26-20ba-94e829ec3de5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1163": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "image"
+              },
+              "hash": "2cd4d36684e1d039954311fd1cd84b976db2bc33",
+              "property": "P1163",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "KHW056"
+              },
+              "hash": "481524d1e72b4d1e306882438bfd228509309d59",
+              "property": "P1810",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St Colmcille’s Well"
+              },
+              "hash": "72d527c549b5a8f65c7e35d42a378ef167a97200",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "288"
+              },
+              "hash": "33cd913f4a1c0e15ef1412c5a5f2fd148815430e",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304",
+          "P1163"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$c12458c3-453d-13ea-c4ab-02a9babd9120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133809285",
+              "numeric-id": 133809285
+            }
+          },
+          "hash": "db79441f65ecc8b59acac7f5a923e7437dad08a5",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St. Columbkille's Well"
+              },
+              "hash": "abeec4cd0092217cbb033cb22594b0670cb75512",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "93"
+              },
+              "hash": "67b1893d927ee1a41a8392293a829a7c609cd896",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$d860fdf8-41df-776b-f533-951f18d03223",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133861888",
+              "numeric-id": 133861888
+            }
+          },
+          "hash": "5f3854b4239bb04291960407c9d7a94401b6cd99",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St Columbkille['s Well]"
+              },
+              "hash": "4413795dbcfb897c6c92993740f7e35a356f965b",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "141"
+              },
+              "hash": "6a5fefedb9bd08b7e52b524ce2ddfb6bbfb043ce",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$db79872f-447c-cbca-3ad8-187511983553",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126507417",
+              "numeric-id": 126507417
+            }
+          },
+          "hash": "761779472085e0f7d56f5ef8584d78b2496f8679",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Columbkille’s Well"
+              },
+              "hash": "80f4cf00e1d8b2a684fbfeba6466f905748fd7a6",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "166-167"
+              },
+              "hash": "08bfb963cda80866031712467cf9c4ab67b4c8d3",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q126456441$ac0738d3-4c43-9733-2879-05218557902c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q236326",
+              "numeric-id": 236326
+            }
+          },
+          "hash": "7e337411d49ae02812aff7f29ba74a3dcbea2bf0",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1651": [
+      {
+        "id": "Q126456441$aee111c9-40ba-fb5f-f846-eb46cb1b6f56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "kxRnXwX0HAM"
+          },
+          "hash": "86e29200a8844484e42d4485fd3741f285850936",
+          "property": "P1651",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Inistioge St Colombkill's Well (360°)"
+              },
+              "hash": "88f1256193c007724f80f1830a3cadd3c482027c",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2047": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+131.0",
+                  "unit": "http://www.wikidata.org/entity/Q11574"
+                }
+              },
+              "hash": "7bcad2f7b6ca23ba04f3ff94fedff17ca9032374",
+              "property": "P2047",
+              "snaktype": "value"
+            }
+          ],
+          "P2397": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "UCBdGNv-5nSm7--9WCaQStdw"
+              },
+              "hash": "b5a7558c412bf89a27782ad8fe97813a1f2c2c73",
+              "property": "P2397",
+              "snaktype": "value"
+            }
+          ],
+          "P5436": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+59",
+                  "unit": "1"
+                }
+              },
+              "hash": "ec6943b778478d827f5c5f21ca6c45e17f72d0e7",
+              "property": "P5436",
+              "snaktype": "value"
+            }
+          ],
+          "P577": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-05-19T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "8e1cf5e8b6c26b69ce5a332368b69b73b8bddb42",
+              "property": "P577",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-06-19T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "517587a336b28e30bfbbc705996884a46fec414f",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5436",
+          "P577",
+          "P2047",
+          "P2397",
+          "P585"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q126456441$6ff4278d-402a-c038-87b4-fec57a1a06e1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q126456441$F4F5A1B4-7E7A-4965-A4F3-D72D9F13B9C1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Inistioge Saint Columbkille's Well.png"
+          },
+          "hash": "79803c6302cab54a6764573aef623912532a55aa",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$f8fea5b1-a566-4253-94dc-df436dd83c53",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Water source at Columbkille's Well.jpg"
+          },
+          "hash": "a97c7b153e8bd36e0557d1d54056e3e476bdb48b",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2096": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "water source at Columbkille's Well"
+                }
+              },
+              "hash": "89fe4c6fc4c3b28d6c0211befae32b2d87eb5ad0",
+              "property": "P2096",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2096"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$0d87a826-d39b-4fc2-89da-d7346b72a704",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Water tap from Columbkille's Well.jpg"
+          },
+          "hash": "4479bbcdd3cce1a92a83024eed5659f1ce67d391",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2096": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "water tap from Columbkille's Well"
+                }
+              },
+              "hash": "dc2c1ab1796d9b48fe16ebbf22ac1a7ef2e6acc2",
+              "property": "P2096",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2096"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P195": [
+      {
+        "id": "Q126456441$c8064ac7-47f9-5ffe-0747-86bd618215ae",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126875543",
+              "numeric-id": 126875543
+            }
+          },
+          "hash": "cf56c30bedde69b2389d13a8c93b75ad89b24e87",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$07a5bcbc-4ef7-d532-6dd1-00ddba979ad2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P217": [
+      {
+        "id": "Q126456441$27e13e57-4072-fd0f-0076-b2d9d12596e1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "91"
+          },
+          "hash": "809afe7574a42d41797a4a45164ae9380ae18d4e",
+          "property": "P217",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P195": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q126875543",
+                  "numeric-id": 126875543
+                }
+              },
+              "hash": "cf56c30bedde69b2389d13a8c93b75ad89b24e87",
+              "property": "P195",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P195"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$011d4a55-471b-8643-5581-101c915954b4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "KHW056"
+          },
+          "hash": "c65886259ccdbd74e66ea4dba182afeebc92fc49",
+          "property": "P217",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P195": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q132817615",
+                  "numeric-id": 132817615
+                }
+              },
+              "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+              "property": "P195",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P195"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2186": [
+      {
+        "id": "Q126456441$0947D924-A5FC-43BE-B37F-1DCC9C8C81FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "IE-KK-0316"
+          },
+          "hash": "798c8ea39b85794f0a027cf6203b8b45b0403783",
+          "property": "P2186",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P276": [
+      {
+        "id": "Q126456441$39B604CF-FAC2-4646-9BCF-37037F07BAD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1861954",
+              "numeric-id": 1861954
+            }
+          },
+          "hash": "080ab2a6b88fd747aafd8fd4dceeb087a8b87c06",
+          "property": "P276",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q126456441$21aeb07f-425a-37d8-1639-e945d9b50d1e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2f8ba903a9567880f314561ea307b6e77ba4aa89",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK032-017011-"
+                  },
+                  "hash": "983dbcac5b463ee3ac7e2ce95deb265fbffc8df7",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "0633d942fa2c7a3ffd6172a59203db1c0bbdc202",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126555558",
+                      "numeric-id": 126555558
+                    }
+                  },
+                  "hash": "2b2874efff9455475b94c2c8c935906c0c247d2a",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "77b5fabcef81f56bb7ecd5ca1978c86ebfac76a9",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126540348",
+                      "numeric-id": 126540348
+                    }
+                  },
+                  "hash": "cc4a9dfd1cd3ba38d3ae433ecab4aa56d82b5a25",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "68500bc9b54aa32f6ba9d48c5a65194847be9600",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126528008",
+                      "numeric-id": 126528008
+                    }
+                  },
+                  "hash": "c1972342a51971bd2f928f1b467d51cf96142ece",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$cc6a7542-44ae-5c73-8a77-c43e7c676c72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$38503af9-4a03-19bb-4849-63479cfc2770",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q839954",
+              "numeric-id": 839954
+            }
+          },
+          "hash": "4441c653c09b7127b7d39c2f526a738ab5fbd6a9",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126456441$5fd4b5ce-41a8-7159-7c57-c7ecf7deee66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10713454",
+              "numeric-id": 10713454
+            }
+          },
+          "hash": "c1bec866977b5ba376ce50230f8244e2d31b487a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1156e5b0a106a4e8ca0329c7132779710ed5e87c",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q129916785",
+                      "numeric-id": 129916785
+                    }
+                  },
+                  "hash": "7c1d543172da6dd4c99a41eca1dcad5372b38870",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q126456441$cea1dd12-4c84-f3a4-144a-50e5563560b2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "St Columbkill's Well, Inistioge"
+          },
+          "hash": "299e5762327d42be822ad5776145e611611fcc1b",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P403": [
+      {
+        "id": "Q126456441$906b26cb-414d-1cbd-6a50-dbda2af044a2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134511675",
+              "numeric-id": 134511675
+            }
+          },
+          "hash": "3937b542aad55b52aa47f1a1b517c3e2e3c2ad86",
+          "property": "P403",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q126456441$44bd34c3-4fd6-7459-67ba-edbd5869d9e3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "KK032-017011-"
+          },
+          "hash": "d85ef5fa4007c8648f6f8a8239189a2683dbc211",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2f8ba903a9567880f314561ea307b6e77ba4aa89",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK032-017011-"
+                  },
+                  "hash": "983dbcac5b463ee3ac7e2ce95deb265fbffc8df7",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q126456441$79b7e3c0-4fa3-386f-aeb8-ab1f1dbd854f",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.4892388,
+              "longitude": -7.0681791,
+              "precision": 1e-07
+            }
+          },
+          "hash": "91cb1d0fbbc33204bcfbc20a821dd48ef4dd0ca5",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8ece5ca44e176c0cd32cb8dc238d7eedd6286bbc",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P708": [
+      {
+        "id": "Q126456441$0520d558-4aa5-2057-7996-cf0e8047dd1a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q873607",
+              "numeric-id": 873607
+            }
+          },
+          "hash": "efeff9f87d449cb40dff681967cdf5d27387c166",
+          "property": "P708",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P841": [
+      {
+        "id": "Q126456441$fcfeaca8-44fc-58a9-e33d-39c498d1bd92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2618",
+              "numeric-id": 2618
+            }
+          },
+          "hash": "f99ffa74ec2d05933922ce32a9c82ec02885e9c0",
+          "property": "P841",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9e85261487c25d92f453b48b05f3f34a851635da",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://duchas.ie/en/cbes/4758552/4754172/4929879"
+                  },
+                  "hash": "11d4b75909bcfc19d21767e136e7e72259a1bc48",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "5e996536439d66adca0197631c4f888bf9b436e5",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q25469578",
+                      "numeric-id": 25469578
+                    }
+                  },
+                  "hash": "580891e40f9b839ff8a5c36971b9765550cbf210",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "fb3375decba7af9861dfe3c3c730cd4ba2f28a8f",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q76419950",
+                      "numeric-id": 76419950
+                    }
+                  },
+                  "hash": "f8fd3b517b470060f7a86e8e53c347b560fdc50e",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "1156e5b0a106a4e8ca0329c7132779710ed5e87c",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q129916785",
+                      "numeric-id": 129916785
+                    }
+                  },
+                  "hash": "7c1d543172da6dd4c99a41eca1dcad5372b38870",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q126456441$97713c7a-49a7-8593-b8f8-d6f512d1c78c",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "http://www.megalithicireland.com/St%20Columcille's%20Holy%20Well,%20Inistioge,%20Kilkenny.html"
+          },
+          "hash": "2cb2f390c2dd01bd4d855872717db356e0a5f9cd",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8029e1b0cbd200d63ecdbfad19302af06bfb81c1",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q132817615",
+                      "numeric-id": 132817615
+                    }
+                  },
+                  "hash": "ff23f75cab1e58ef7c12080af00eb94fe2e7ec60",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "موقع أثري في مقاطعة كيلكيني، جمهورية أيرلندا"
+    },
+    "en": {
+      "language": "en",
+      "value": "holy well in Inistioge"
+    }
+  },
+  "id": "Q126456441",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Columbkille's Well"
+    }
+  },
+  "lastrevid": 2350230769,
+  "modified": "2025-05-19T13:57:04Z",
+  "ns": 0,
+  "pageid": 120481512,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:St Columbkill's Well, Inistioge"
+    },
+    "enwiki": {
+      "badges": [],
+      "site": "enwiki",
+      "title": "Saint Columbkill's Well, Inistioge"
+    }
+  },
+  "title": "Q126456441",
+  "type": "item"
+}

@@ -1,0 +1,155 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "YouTube video identifier"
+      },
+      {
+        "language": "en",
+        "value": "streaming url"
+      },
+      {
+        "language": "en",
+        "value": "YouTube video link"
+      },
+      {
+        "language": "en",
+        "value": "Youtube video website"
+      },
+      {
+        "language": "en",
+        "value": "yt video"
+      },
+      {
+        "language": "en",
+        "value": "trailer (Youtube)"
+      },
+      {
+        "language": "en",
+        "value": "YT video ID"
+      },
+      {
+        "language": "en",
+        "value": "YouTube Music ID"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P136$8EDEFE76-7DA6-51BB-AF18-90C6DE58A671",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P136$C7062AA8-5EA4-5594-B46C-D7D9ACA55CCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1651"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1651"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "P136$24FD271A-9AF1-54B5-8730-2E7677E42B0B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.youtube.com/watch?v=$1"
+          },
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1651"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kennung eines Videos auf YouTube"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier of a video on YouTube; qualify trailers with \"object has role\" (P3831)=\"trailer\" (Q622550). For channels, use P2397; for playlists, use P4300"
+    }
+  },
+  "id": "P136",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "YouTube-Video-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "YouTube video ID"
+    }
+  },
+  "type": "property"
+}

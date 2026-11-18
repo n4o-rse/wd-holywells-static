@@ -1,0 +1,149 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Grund für die Miss­bil­li­gung"
+      },
+      {
+        "language": "de",
+        "value": "Grund für die Ablehnung"
+      },
+      {
+        "language": "de",
+        "value": "Grund für die Herabstufung"
+      },
+      {
+        "language": "de",
+        "value": "Grund der Miss­bil­li­gung"
+      },
+      {
+        "language": "de",
+        "value": "Grund der Ablehnung"
+      },
+      {
+        "language": "de",
+        "value": "Grund der Herabstufung"
+      },
+      {
+        "language": "de",
+        "value": "Grund der Zurückweisung"
+      },
+      {
+        "language": "de",
+        "value": "Zurückweisungsgrund"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "deprecated because"
+      },
+      {
+        "language": "en",
+        "value": "cause of deprecation"
+      },
+      {
+        "language": "en",
+        "value": "Wikidata reason for deprecation"
+      },
+      {
+        "language": "en",
+        "value": "deprecation reason"
+      },
+      {
+        "language": "en",
+        "value": "reason for deprecation"
+      },
+      {
+        "language": "en",
+        "value": "reason for rank (deprecated)"
+      },
+      {
+        "language": "en",
+        "value": "rfdr"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P168$5C73DBBC-63A7-5CD8-B08C-25A0353A5F3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P168$0FA6F75B-E635-5555-A099-52ED6B274DC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P2241"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P2241"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Qualifikator zur Anzeige des Grundes, aus dem eine Aussage im Rang herabgesetzt wurde"
+    },
+    "en": {
+      "language": "en",
+      "value": "qualifier to indicate why a particular statement should have deprecated rank"
+    }
+  },
+  "id": "P168",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Grund für die Zurückweisung"
+    },
+    "en": {
+      "language": "en",
+      "value": "reason for deprecated rank"
+    }
+  },
+  "type": "property"
+}

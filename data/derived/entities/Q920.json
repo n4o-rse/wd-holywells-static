@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Philomena"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Philomena"
+      },
+      {
+        "language": "en",
+        "value": "Philomena of Rome"
+      },
+      {
+        "language": "en",
+        "value": "Philomena, Virgin and Martyr"
+      },
+      {
+        "language": "en",
+        "value": "Filomena de Roma"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q920$53E32096-342D-5B54-99C6-DF88F81FD0D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q466428"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q466428"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "christliche Jungfrau und Märtyrin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian saint, martyr and wonderworker"
+    }
+  },
+  "id": "Q920",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Philomena von Rom"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philomena"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "IE-SO"
+      },
+      {
+        "language": "de",
+        "value": "Grafschaft Sligo"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Sligo"
+      },
+      {
+        "language": "en",
+        "value": "Sligeach"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q968$0A3E2F45-24C8-54FA-ACAE-7D2AC164D1A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q179325"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q179325"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Grafschaft in der Provinz Connacht im Nordwesten Irlands"
+    },
+    "en": {
+      "language": "en",
+      "value": "county in Ireland"
+    }
+  },
+  "id": "Q968",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "County Sligo"
+    },
+    "en": {
+      "language": "en",
+      "value": "County Sligo"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

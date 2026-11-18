@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The illustrated guide to the city and county of Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q369$1D7EC427-ECCA-5826-B6F6-7A8EE581CE3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q120968926"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q120968926"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1880s guidebook"
+    }
+  },
+  "id": "Q369",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Patrick M. Egan: The illustrated guide to the city and county of Kilkenny"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

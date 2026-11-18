@@ -1,0 +1,91 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "False"
+      },
+      {
+        "language": "en",
+        "value": "untrue"
+      },
+      {
+        "language": "en",
+        "value": "FALSE"
+      },
+      {
+        "language": "en",
+        "value": "F"
+      },
+      {
+        "language": "en",
+        "value": "⊥"
+      },
+      {
+        "language": "en",
+        "value": "0"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q866$442C5D2B-1E51-5E70-9C2E-4161F9200ED6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5432619"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q5432619"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Wahrheitswert"
+    },
+    "en": {
+      "language": "en",
+      "value": "truth value"
+    }
+  },
+  "id": "Q866",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "falsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "false"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

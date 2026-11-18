@@ -1,0 +1,60 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q696$9B533D78-0042-550B-9FBD-2BEF532C3B6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126473440"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126473440"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about Powerstown Church written by Bettina Grattan-Bellew"
+    }
+  },
+  "id": "Q696",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Powerstown Church"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

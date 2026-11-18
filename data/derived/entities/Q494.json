@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Raumübergreifendes Großgrün"
+      },
+      {
+        "language": "de",
+        "value": "Großgrün"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "arbor"
+      },
+      {
+        "language": "en",
+        "value": "trees"
+      },
+      {
+        "language": "en",
+        "value": "q10884"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q494$685EE3BE-5411-5C93-9BA5-4C706B9E12B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10884"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q10884"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "verholzte Pflanze, die aus einer Wurzel, einem Stamm und einer Krone besteht"
+    },
+    "en": {
+      "language": "en",
+      "value": "perennial woody plant"
+    }
+  },
+  "id": "Q494",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Baum"
+    },
+    "en": {
+      "language": "en",
+      "value": "tree"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

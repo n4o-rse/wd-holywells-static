@@ -1,0 +1,83 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Goldener Sonntag"
+      },
+      {
+        "language": "de",
+        "value": "Dreifaltigkeitsfest"
+      },
+      {
+        "language": "de",
+        "value": "Dreifaltigkeitssonntag"
+      },
+      {
+        "language": "de",
+        "value": "Trinitatisfest"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q539$C968869D-BFDC-50DA-AB01-2F674807F482",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q541946"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q541946"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Fest im Kirchenjahr, das in der Westkirche am ersten Sonntag nach Pfingsten begangen wird"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian holiday in the Western Church on the Sunday following Pentecost"
+    }
+  },
+  "id": "Q539",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Trinitatis"
+    },
+    "en": {
+      "language": "en",
+      "value": "Trinity Sunday"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

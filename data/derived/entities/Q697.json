@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "P. O'Leary: Ullard Illustrated"
+      },
+      {
+        "language": "en",
+        "value": "Ullard Illustrated"
+      },
+      {
+        "language": "en",
+        "value": "P. O'Leary: Ullard"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q697$013649D3-D77F-5A34-9423-E2854AB5B262",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130393656"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130393656"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet about the history and antiquities of Ullard"
+    }
+  },
+  "id": "Q697",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "P. O'Leary: Ullard Illustrated (Read at Meeting of Antiquaries, May 3rd, 1911)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

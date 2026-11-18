@@ -1,0 +1,111 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "rock"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q917$C4B2C23C-23CE-5C76-9886-A20EC63197FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q917$288792D3-6A64-52DA-A779-F682443A9AF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q917$FE3B0109-691E-5C63-91C7-B3401E220D4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22731"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q22731"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kompaktes Objekt aus einem Mineral oder Gestein"
+    },
+    "en": {
+      "language": "en",
+      "value": "rock; building material"
+    }
+  },
+  "id": "Q917",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Stein"
+    },
+    "en": {
+      "language": "en",
+      "value": "stone"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

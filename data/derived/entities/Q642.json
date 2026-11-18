@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "lausa"
+      },
+      {
+        "language": "en",
+        "value": "lauze"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q642$20A94359-7B60-51BE-ABB8-7168A6ADBAA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1188398"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1188398"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Glimmer-Sandsteinfliesen zur Dachdeckung"
+    },
+    "en": {
+      "language": "en",
+      "value": "refers to large flat sections of slate used for paving and also bluestone cut for this purpose"
+    }
+  },
+  "id": "Q642",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "flagstone"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q572$B926351A-D0D2-5E44-BFBE-CD60B37241C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2697141"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2697141"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "iro-schottischer Wandermönch und Diakonischer Begleiter des Bischofs Kilian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irish Christian missionary"
+    }
+  },
+  "id": "Q572",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kolonat"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Colman"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

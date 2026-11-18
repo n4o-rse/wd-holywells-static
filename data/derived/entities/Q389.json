@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "local wisdom"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q389$61D9962E-FA80-5688-A240-3AED4E765658",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q25469578"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q25469578"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "body of general knowledge specific to a locale; conferred to individuals familiar with a place"
+    }
+  },
+  "id": "Q389",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "local knowledge"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

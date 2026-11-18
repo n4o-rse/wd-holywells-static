@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q681$03BF74F4-D820-52CF-94EC-09976FC2DA5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126701362"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126701362"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "edition of Humphrey O'Sullivan's diary in English by Tomás De Bhaldraithe"
+    }
+  },
+  "id": "Q681",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The diary of an Irish countryman, 1827-1835"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

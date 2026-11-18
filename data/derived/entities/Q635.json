@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The Coum"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q635$EF526D87-8E0A-5AB8-A06A-9F4958B7E0B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q134511675"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q134511675"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "stream running through Inistioge and feeding into the River Nore"
+    }
+  },
+  "id": "Q635",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Coum"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

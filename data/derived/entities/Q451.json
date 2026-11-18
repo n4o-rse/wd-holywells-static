@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "1. Feber"
+      },
+      {
+        "language": "de",
+        "value": "1.2."
+      },
+      {
+        "language": "de",
+        "value": "01.02."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "1 February"
+      },
+      {
+        "language": "en",
+        "value": "February 1st"
+      },
+      {
+        "language": "en",
+        "value": "1st of February"
+      },
+      {
+        "language": "en",
+        "value": "Feb 1"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q451$295B97D8-0C2C-5BDD-860A-6FD462C159EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2312"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2312"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q451",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "1. Februar"
+    },
+    "en": {
+      "language": "en",
+      "value": "February 1"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

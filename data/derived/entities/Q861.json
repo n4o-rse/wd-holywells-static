@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Brendan (first name)"
+      },
+      {
+        "language": "en",
+        "value": "Brendan (given name)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q861$404D0617-C9F3-596B-A387-11357AC21B40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8471184"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q8471184"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "männlicher Vorname"
+    },
+    "en": {
+      "language": "en",
+      "value": "male given name"
+    }
+  },
+  "id": "Q861",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Brendan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Brendan"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

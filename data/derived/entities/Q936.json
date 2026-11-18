@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Newtown Jerpoint County Kilkenny"
+      },
+      {
+        "language": "en",
+        "value": "Newtown Jerpoint County Kilkenny - Heritage Conservation Plan"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q936$E466634D-1820-55EA-B7CE-DD8529B4683D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130323783"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130323783"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "publication by the Heritage Council of Ireland about excavations at Newtown Jerpoint (Jerpoint Park)"
+    }
+  },
+  "id": "Q936",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oxford Archaeology: Newtown Jerpoint County Kilkenny, Heritage Conservation Plan 11, 2007"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

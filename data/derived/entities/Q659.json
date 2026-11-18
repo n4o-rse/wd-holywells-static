@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Babbeln"
+      },
+      {
+        "language": "de",
+        "value": "Lallphase"
+      },
+      {
+        "language": "de",
+        "value": "Brabbeln"
+      },
+      {
+        "language": "de",
+        "value": "Plappern"
+      },
+      {
+        "language": "de",
+        "value": "Lallperiode"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "baby talk"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q659$90A2BD4A-C000-5956-B8FC-3F7709AE0F86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1723890"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1723890"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Begriff"
+    },
+    "en": {
+      "language": "en",
+      "value": "stage of language acquisition in infancy"
+    }
+  },
+  "id": "Q659",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "kanonisches Lallen"
+    },
+    "en": {
+      "language": "en",
+      "value": "babbling"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

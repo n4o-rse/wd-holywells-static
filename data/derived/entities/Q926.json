@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rosbercon Parish"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q926$01BF2BDF-EC80-5D38-B010-0781DD0CA337",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128694385"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q128694385"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "history book about Rosbercon parish"
+    }
+  },
+  "id": "Q926",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "James Murphy: Rosbercon Parish - a history in song & story"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

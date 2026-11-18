@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q736$6BEA429D-4094-5220-B7E2-927D83E116DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129834133"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129834133"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article in the 1962 Old Kilkenny Review about Saint Francis' Abbey in Kilkenny"
+    }
+  },
+  "id": "Q736",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Francis' Abbey"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

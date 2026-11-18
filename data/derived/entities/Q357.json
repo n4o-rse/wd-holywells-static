@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Schools' Collection"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q357$B9141183-BB31-5CA8-AB13-01BBBAB9D870",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126393245"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126393245"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "collection of folklore conducted in the 1930s in Ireland"
+    }
+  },
+  "id": "Q357",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The Schools' Collection"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glory River"
+      },
+      {
+        "language": "en",
+        "value": "River Glory"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q803$3727DB10-BD5A-56C8-B071-3AD9A00045AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126486548"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126486548"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "river in County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q803",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Glory"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

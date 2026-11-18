@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "22.8."
+      },
+      {
+        "language": "de",
+        "value": "22.08."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "August 22nd"
+      },
+      {
+        "language": "en",
+        "value": "22nd of August"
+      },
+      {
+        "language": "en",
+        "value": "22 August"
+      },
+      {
+        "language": "en",
+        "value": "Aug 22"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q668$0D01F40E-A4BF-51F0-AC08-56CCB7D89A33",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2828"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2828"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q668",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "22. August"
+    },
+    "en": {
+      "language": "en",
+      "value": "August 22"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

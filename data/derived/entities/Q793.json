@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q793$53E6947B-D4B0-58B1-8691-DC7D07A2CEEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7242"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q7242"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ästhetische Wertvorstellung"
+    },
+    "en": {
+      "language": "en",
+      "value": "aesthetic concept"
+    }
+  },
+  "id": "Q793",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schönheit"
+    },
+    "en": {
+      "language": "en",
+      "value": "beauty"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

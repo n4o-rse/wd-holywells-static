@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Clara, County Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q907$FFECC7B6-07FD-5A1B-9BEE-A52E8151C846",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4222952"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q4222952"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Siedlung in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Catholic parish in County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q907",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Clara"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

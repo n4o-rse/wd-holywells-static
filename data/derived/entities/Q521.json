@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mrs. J. P. Healy: Tullaroan"
+      },
+      {
+        "language": "en",
+        "value": "Tullaroan"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q521$D73D974D-32B7-5418-9E76-B3CDB863E1EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q133258128"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q133258128"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the historical sites in and around Tullaroan, Co. Kilkenny"
+    }
+  },
+  "id": "Q521",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mrs. J. P. Healy: Tullaroan, in: Old Kilkenny Review (1951), pp. 11-19"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

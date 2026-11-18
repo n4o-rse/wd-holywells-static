@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Informationstafel"
+      },
+      {
+        "language": "de",
+        "value": "Informationsaushang"
+      },
+      {
+        "language": "de",
+        "value": "Ankündigungstafel"
+      },
+      {
+        "language": "de",
+        "value": "Aushang"
+      },
+      {
+        "language": "de",
+        "value": "Infoschild"
+      },
+      {
+        "language": "de",
+        "value": "Informationsschild"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "info board"
+      },
+      {
+        "language": "en",
+        "value": "information panel"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q636$53BF1E55-4243-53E8-8166-C69AA7495028",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76419950"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q76419950"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Dokument, das gut sichtbar Informationen darstellt"
+    },
+    "en": {
+      "language": "en",
+      "value": "information display"
+    }
+  },
+  "id": "Q636",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Infotafel"
+    },
+    "en": {
+      "language": "en",
+      "value": "information board"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Testresultat zweifelhaft"
+      },
+      {
+        "language": "de",
+        "value": "unsicher"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "test result dubious"
+      },
+      {
+        "language": "en",
+        "value": "unsure"
+      },
+      {
+        "language": "en",
+        "value": "doubtful"
+      },
+      {
+        "language": "en",
+        "value": "suspicious"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q598$256DCA4A-6772-5743-AC56-D567422DDE0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104378399"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104378399"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "zu verwenden mit P5102, wenn eine Aussage zweifelhaft ist. Insbesondere angewendet im Rahmen des Wikiprojekts Media Representation"
+    },
+    "en": {
+      "language": "en",
+      "value": "for use with \"nature of statement\" (P5102) if the statement is dubious; especially used for media representation tests"
+    }
+  },
+  "id": "Q598",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "zweifelhaft"
+    },
+    "en": {
+      "language": "en",
+      "value": "dubious"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

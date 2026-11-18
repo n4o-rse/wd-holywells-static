@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "active state"
+      },
+      {
+        "language": "en",
+        "value": "in use"
+      },
+      {
+        "language": "en",
+        "value": "running"
+      },
+      {
+        "language": "en",
+        "value": "on"
+      },
+      {
+        "language": "en",
+        "value": "on state"
+      },
+      {
+        "language": "en",
+        "value": "enabled"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q548$1BE4CE76-D3BA-5B55-B20F-8902018BE80E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29415466"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q29415466"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "quality of having present activity; opposite of inactive"
+    }
+  },
+  "id": "Q548",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "aktiv"
+    },
+    "en": {
+      "language": "en",
+      "value": "active"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

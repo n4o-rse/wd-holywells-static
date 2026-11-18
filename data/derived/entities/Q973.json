@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "16.3."
+      },
+      {
+        "language": "de",
+        "value": "16.03."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "16 March"
+      },
+      {
+        "language": "en",
+        "value": "March 16th"
+      },
+      {
+        "language": "en",
+        "value": "16th of March"
+      },
+      {
+        "language": "en",
+        "value": "Mar 16"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q973$FCDD5034-EEE3-5C5C-B385-86E71E743D44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2417"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2417"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q973",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "16. März"
+    },
+    "en": {
+      "language": "en",
+      "value": "March 16"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

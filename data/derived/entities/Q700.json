@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "waterway"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q700$50074478-A65B-5253-B290-6FF85A55664B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47521"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q47521"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "natürliches Gewässer mit nicht stehendem Wasser"
+    },
+    "en": {
+      "language": "en",
+      "value": "natural body of water with current within bed and stream banks"
+    }
+  },
+  "id": "Q700",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Natürliches Fließgewässer"
+    },
+    "en": {
+      "language": "en",
+      "value": "stream"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

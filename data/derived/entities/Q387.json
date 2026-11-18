@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "in Betrieb"
+      },
+      {
+        "language": "de",
+        "value": "betriebsfähig"
+      },
+      {
+        "language": "de",
+        "value": "einsatzfähig"
+      },
+      {
+        "language": "de",
+        "value": "aktiv"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "in service"
+      },
+      {
+        "language": "en",
+        "value": "functioning"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q387$5A85DFF1-D54A-576E-A68E-8318672A2036",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55654238"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q55654238"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zustand des normalen Betriebs eines Gebäudes, einer Anlage, eines Parks usw. Nicht mit dem Zeitbegriff verwechseln. Da es sich auf in der Regel um den Normalzustand handelt, sollte er nur verwendet werden, wenn dies nicht der Normalzustand ist."
+    },
+    "en": {
+      "language": "en",
+      "value": "state of normal operation of a building, installation, park, etc. Do not confuse with the time concept. Because it refers to a state of \"normality\", avoid using it as the default value"
+    }
+  },
+  "id": "Q387",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "in Benutzung"
+    },
+    "en": {
+      "language": "en",
+      "value": "in use"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

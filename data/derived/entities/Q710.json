@@ -1,0 +1,60 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q710$FFEC6A25-9A53-52F5-B67B-9E7195698D1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4160459"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q4160459"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Siedlung in der Grafschaft Kilkenny in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "village in Co. Kilkenny, Leinster, Ireland"
+    }
+  },
+  "id": "Q710",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Johnswell"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

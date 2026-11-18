@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "s"
+      },
+      {
+        "language": "de",
+        "value": "sec"
+      },
+      {
+        "language": "de",
+        "value": "sek"
+      },
+      {
+        "language": "de",
+        "value": "Sek."
+      },
+      {
+        "language": "de",
+        "value": "Sek"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "s"
+      },
+      {
+        "language": "en",
+        "value": "seconds"
+      },
+      {
+        "language": "en",
+        "value": "sec."
+      },
+      {
+        "language": "en",
+        "value": "sec"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q440$AD5C0104-A74B-5E44-8892-FE561B8F34F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11574"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q11574"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "SI-Basiseinheit der Zeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "SI unit of time, defined as 9 192 631 770 periods of the ground-state hyperfine transitions of caesium-133"
+    }
+  },
+  "id": "Q440",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sekunde"
+    },
+    "en": {
+      "language": "en",
+      "value": "second"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

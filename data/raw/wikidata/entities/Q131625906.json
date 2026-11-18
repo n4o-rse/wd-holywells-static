@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St Loora's Well"
+      },
+      {
+        "language": "en",
+        "value": "St Lurach's Well"
+      },
+      {
+        "language": "en",
+        "value": "St Canice's Well"
+      }
+    ]
+  },
+  "claims": {
+    "P11693": [
+      {
+        "id": "Q131625906$0562363a-4013-0728-e46e-19f794b16dec",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "3489026773"
+          },
+          "hash": "0107967a543204a87a88c8088742b047f17c91a8",
+          "property": "P11693",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q131625906$a6efe5db-4dfe-1f84-93a4-49bb4d2cdc97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q192208",
+              "numeric-id": 192208
+            }
+          },
+          "hash": "86b4b87061a7912c4e48873720d18db21147ea93",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q131625906$3e55898c-41b5-6bf0-60bd-db55b9775ff0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131625819",
+              "numeric-id": 131625819
+            }
+          },
+          "hash": "842ca00b26a3ef6dfbcea4414965191494c00e4f",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q131625906$54dd524a-43ca-d6ca-a2ba-30a6c1a069cf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1133742",
+              "numeric-id": 1133742
+            }
+          },
+          "hash": "49dccfe3a8170ce4c785e176fbdae0249c8b9e49",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q131625906$a5017657-4413-59b8-edf7-502d1fe20c23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26",
+              "numeric-id": 26
+            }
+          },
+          "hash": "fabe8a5e1a7e60e6ecef2d4a5efa0f6ce0abdd94",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q131625906$09d6be1d-4151-00f4-9f7a-6a30b38f45bc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131625906$7f87b975-47d6-f754-87ba-bb895cf7500a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131625906$7c143524-4bc2-d255-0aba-ceb61c33ac3b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124714",
+              "numeric-id": 124714
+            }
+          },
+          "hash": "b6b0b5892113803fa2b29960da0ddfbeaf5ebe1a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q131625906$852b60c7-46bb-c7b4-b7be-cde568ed46d6",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 55.0429992,
+              "longitude": -6.8406725,
+              "precision": 1e-07
+            }
+          },
+          "hash": "3f418612f6c24d2f92fec09135be4406d54d24bc",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7959": [
+      {
+        "id": "Q131625906$c82b8591-d346-45c7-b8bd-14eed94d8b2d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q192208",
+              "numeric-id": 192208
+            }
+          },
+          "hash": "c3a2ef4d199e3e63165f616cb393e04cad7cbb8b",
+          "property": "P7959",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ينبوع في مقاطعة لندنديري، أيرلندا الشمالية"
+    },
+    "en": {
+      "language": "en",
+      "value": "holy well in the townland of Ballycrum, Derry, Northern Ireland where St Canice was allegedly baptised by St Lurach of Maghera"
+    }
+  },
+  "id": "Q131625906",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St Lowry's Well"
+    }
+  },
+  "lastrevid": 2480061190,
+  "modified": "2026-04-10T12:40:54Z",
+  "ns": 0,
+  "pageid": 125533145,
+  "sitelinks": {},
+  "title": "Q131625906",
+  "type": "item"
+}

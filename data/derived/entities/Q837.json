@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip (given name)"
+      },
+      {
+        "language": "en",
+        "value": "Philip (first name)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q837$F3C31175-C7CC-5226-8C96-753A878B1E86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q827311"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q827311"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "männlicher Vorname"
+    },
+    "en": {
+      "language": "en",
+      "value": "male given name"
+    }
+  },
+  "id": "Q837",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Philip"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Pilgerstätte"
+      },
+      {
+        "language": "de",
+        "value": "Pilgerort"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "place of pilgrimage"
+      },
+      {
+        "language": "en",
+        "value": "pilgrimage centre"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q545$9B22F5E9-399A-5F04-8DA6-CB5AF62E243B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q545$51067DE7-8180-5049-870F-AB7B7420A34B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q545$4B5ACBEC-94DF-5849-8616-7081AB1CB676",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15135589"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q15135589"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ziel einer Wallfahrt"
+    },
+    "en": {
+      "language": "en",
+      "value": "location to which pilgrims venture"
+    }
+  },
+  "id": "Q545",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wallfahrtsort"
+    },
+    "en": {
+      "language": "en",
+      "value": "pilgrimage site"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

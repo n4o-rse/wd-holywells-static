@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "1927 OS map of Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q373$1BE125AF-4DF5-56EA-8F6F-9756F8890C32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129421697"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129421697"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "map of Kilkenny city created by the Ordnance Survey Office, Phoenix Park, Dublin"
+    }
+  },
+  "id": "Q373",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "1927 Ordnance Survey map of Kilkenny"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

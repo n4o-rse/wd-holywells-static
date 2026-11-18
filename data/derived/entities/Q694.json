@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Náile"
+      },
+      {
+        "language": "en",
+        "value": "Nadál"
+      },
+      {
+        "language": "en",
+        "value": "Natalis"
+      },
+      {
+        "language": "en",
+        "value": "Nadán"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q694$66713C78-2FA1-5925-948E-B469C18C3382",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130535826"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130535826"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "early Irish saint"
+    }
+  },
+  "id": "Q694",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Náile of Kinawley"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

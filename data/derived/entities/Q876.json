@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lawrence (given name)"
+      },
+      {
+        "language": "en",
+        "value": "Lawrence (first name)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q876$F8AF71DF-B91F-56FC-B219-2506C7DA5C3F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15635788"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q15635788"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "männlicher Vorname"
+    },
+    "en": {
+      "language": "en",
+      "value": "male given name"
+    }
+  },
+  "id": "Q876",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Lawrence"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lawrence"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

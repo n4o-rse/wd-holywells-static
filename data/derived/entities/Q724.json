@@ -1,0 +1,60 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q724$8507805E-A64F-50F2-97F9-8161E9466434",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20830799"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q20830799"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "first occurrence of Sunday in August"
+    }
+  },
+  "id": "Q724",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "erster Sonntag im August"
+    },
+    "en": {
+      "language": "en",
+      "value": "first Sunday in August"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

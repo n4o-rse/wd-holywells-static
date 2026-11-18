@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "23.6."
+      },
+      {
+        "language": "de",
+        "value": "23.06."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "June 23rd"
+      },
+      {
+        "language": "en",
+        "value": "23rd of June"
+      },
+      {
+        "language": "en",
+        "value": "23 June"
+      },
+      {
+        "language": "en",
+        "value": "Jun 23"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q711$07864D6A-B517-591B-802D-D0092F6BD02D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2668"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2668"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q711",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "23. Juni"
+    },
+    "en": {
+      "language": "en",
+      "value": "June 23"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

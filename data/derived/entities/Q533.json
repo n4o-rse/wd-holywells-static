@@ -1,0 +1,117 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Bullaunstein"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "bullaun stone"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q533$9154670E-F6CC-5654-B29B-17E7A44AAA0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q533$86E7EF9E-DCF5-5847-91F6-29622575C20E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q533$4407C603-46BC-53DE-9C86-67D6D106A4D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1004210"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1004210"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Name für eine Aushöhlung in einem Felsblock oder Stein"
+    },
+    "en": {
+      "language": "en",
+      "value": "depression in a stone which is often water filled and sometimes considered a holy well"
+    }
+  },
+  "id": "Q533",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bullaun"
+    },
+    "en": {
+      "language": "en",
+      "value": "bullaun"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

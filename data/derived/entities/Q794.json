@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Himmelfahrt"
+      },
+      {
+        "language": "de",
+        "value": "Christi Himmelfahrtstag"
+      },
+      {
+        "language": "de",
+        "value": "Christi-Himmelfahrtstag"
+      },
+      {
+        "language": "de",
+        "value": "Christi-Himmelfahrts-Tag"
+      },
+      {
+        "language": "de",
+        "value": "Himmelfahrtstag"
+      },
+      {
+        "language": "de",
+        "value": "Auffahrt"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ascension Day"
+      },
+      {
+        "language": "en",
+        "value": "Ascension Thursday"
+      },
+      {
+        "language": "en",
+        "value": "Holy Thursday"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q794$1A4A35A4-5AD5-5496-B07F-88A87A049BA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q51638"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q51638"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "christliches Fest; Feiertag"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian religious holiday"
+    }
+  },
+  "id": "Q794",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Christi Himmelfahrt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feast of the Ascension"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

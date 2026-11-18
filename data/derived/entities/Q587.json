@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Monuments of Christianity"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q587$BC2601AC-CB5A-527A-9081-BA9E932E7141",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130479296"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130479296"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about monuments such as buildings in the context of Irish Christianity with several illustrations"
+    }
+  },
+  "id": "Q587",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Monuments of Christianity, in: Art and Architecture of Ireland, Volume 1, Medieval c.400-c.1600, Royal Irish Academy 2015, pp. 121-223"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

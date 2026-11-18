@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Map of the City of Kilkenny, Constructed from Rocque's Survey, 1757, the Ordnance Survey, 1841, and from Personal Inspection of the Respective Localities"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q737$1D3BF47C-EBFF-5C9C-BC15-9670CEFCD234",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131105676"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q131105676"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the layout of Kilkenny and some of its historic sites"
+    }
+  },
+  "id": "Q737",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Hogan: Map of the City of Kilkenny, Constructed from Rocque's Survey, [...] and from Personal Inspection of the Respective Localities, in: The Journal of the Kilkenny and South-East of Ireland Archaeological Society, pp. 350-355"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

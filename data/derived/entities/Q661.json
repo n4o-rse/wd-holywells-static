@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "ITA Photographic Collection"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q661$E0E940C0-FAC2-5E07-B5C5-3B5D8679DBE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q127605637"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q127605637"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "photographic collection of sites in Ireland"
+    }
+  },
+  "id": "Q661",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Irish Tourist Association Photographic Collection"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "29. Jänner"
+      },
+      {
+        "language": "de",
+        "value": "29.1."
+      },
+      {
+        "language": "de",
+        "value": "29.01."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "29 January"
+      },
+      {
+        "language": "en",
+        "value": "January 29th"
+      },
+      {
+        "language": "en",
+        "value": "29th of January"
+      },
+      {
+        "language": "en",
+        "value": "Jan 29"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q565$4B90B727-BA63-56C9-BEB0-70F644BF54E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2286"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2286"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q565",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "29. Januar"
+    },
+    "en": {
+      "language": "en",
+      "value": "January 29"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

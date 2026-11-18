@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "1871 OS map"
+      },
+      {
+        "language": "en",
+        "value": "1872 OS map of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "1871 OS map of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "1872 OS map"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q365$1192F728-6813-590F-89B6-83120D80E796",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q127524368"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q127524368"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "OS map of Ireland, Five feet to one statute mile, created in 1871, issued 1872"
+    }
+  },
+  "id": "Q365",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "1871 Ordnance Survey map of Ireland"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

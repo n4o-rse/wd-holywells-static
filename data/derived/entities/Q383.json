@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peter Smithwick: Saint Canice's Well"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q383$8885919A-2255-592F-86B8-6509D7B120BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q133260886"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q133260886"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "short article about Kenny's Well in Kilkenny, Ireland"
+    }
+  },
+  "id": "Q383",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Peter Smithwick: Saint Canice's Well, in: Old Kilkenny Review (1988), pp. 526-527"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

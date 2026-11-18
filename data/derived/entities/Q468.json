@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "8. Feber"
+      },
+      {
+        "language": "de",
+        "value": "8.2."
+      },
+      {
+        "language": "de",
+        "value": "08.02."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "8 February"
+      },
+      {
+        "language": "en",
+        "value": "February 8th"
+      },
+      {
+        "language": "en",
+        "value": "8th of February"
+      },
+      {
+        "language": "en",
+        "value": "Feb 8"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q468$ACBEBD03-E582-54E2-BCCC-A91EBC306249",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2323"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2323"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q468",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "8. Februar"
+    },
+    "en": {
+      "language": "en",
+      "value": "February 8"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

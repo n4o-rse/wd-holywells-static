@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The History of Kilmacow - A South Kilkenny Parish"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q664$2083B4A2-D02F-5500-B1CD-F723326A1CAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129086805"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129086805"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "history book about the parish of Kilmacow, Co. Kilkenny"
+    }
+  },
+  "id": "Q664",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kathleen Laffan: The History of Kilmacow"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "IE-WD"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Waterford"
+      },
+      {
+        "language": "en",
+        "value": "Co Waterford"
+      },
+      {
+        "language": "en",
+        "value": "Co. Waterford"
+      },
+      {
+        "language": "en",
+        "value": "Port Láirge"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q948$130294D1-6EFC-5111-8992-EEEC417D7CAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q184594"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q184594"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Grafschaft in der Republik Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "county in Ireland"
+    }
+  },
+  "id": "Q948",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "County Waterford"
+    },
+    "en": {
+      "language": "en",
+      "value": "County Waterford"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

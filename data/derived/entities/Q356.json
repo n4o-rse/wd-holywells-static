@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Carrigan III"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q356$77FC5958-6922-59D7-BE59-525AB0156E3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126454465"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126454465"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "third volume of a history book"
+    }
+  },
+  "id": "Q356",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The History and Antiquities of the Diocese of Ossory III"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

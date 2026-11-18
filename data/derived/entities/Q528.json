@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "eyes"
+      },
+      {
+        "language": "en",
+        "value": "eyeball"
+      },
+      {
+        "language": "en",
+        "value": "👀"
+      },
+      {
+        "language": "en",
+        "value": "👁👁"
+      },
+      {
+        "language": "en",
+        "value": "eyeballs"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q528$841F967D-D8AC-5BC6-85C8-6520F62CC9E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7364"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q7364"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sehorgan"
+    },
+    "en": {
+      "language": "en",
+      "value": "organ that detects light and converts it into electro-chemical impulses in neurons"
+    }
+  },
+  "id": "Q528",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Auge"
+    },
+    "en": {
+      "language": "en",
+      "value": "eye"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

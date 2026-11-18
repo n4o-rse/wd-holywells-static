@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "15.9."
+      },
+      {
+        "language": "de",
+        "value": "15.09."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "September 15th"
+      },
+      {
+        "language": "en",
+        "value": "15th of September"
+      },
+      {
+        "language": "en",
+        "value": "15 September"
+      },
+      {
+        "language": "en",
+        "value": "Sep 15"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q647$48B13DDE-BE2E-59D1-93AC-34A3B442BF9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2846"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2846"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q647",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "15. September"
+    },
+    "en": {
+      "language": "en",
+      "value": "September 15"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

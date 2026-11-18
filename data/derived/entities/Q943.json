@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Fr"
+      },
+      {
+        "language": "de",
+        "value": "Tag des Frigg"
+      },
+      {
+        "language": "de",
+        "value": "Tag der Venus"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Fri"
+      },
+      {
+        "language": "en",
+        "value": "Fr"
+      },
+      {
+        "language": "en",
+        "value": "F"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q943$BD59C454-0338-5458-B7DA-007D24DCA5B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Wochentag"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the week"
+    }
+  },
+  "id": "Q943",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Freitag"
+    },
+    "en": {
+      "language": "en",
+      "value": "Friday"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

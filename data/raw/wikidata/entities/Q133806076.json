@@ -1,0 +1,538 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Longory's Well"
+      },
+      {
+        "language": "en",
+        "value": "St Longory's Holy Well"
+      },
+      {
+        "language": "en",
+        "value": "St. Longory's Well"
+      }
+    ]
+  },
+  "claims": {
+    "P11693": [
+      {
+        "id": "Q133806076$7181bd09-4a9e-58bc-e3ac-2c0939efc07b",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11973547846"
+          },
+          "hash": "42605138ea262588e3819cc065a6c27f16af8b97",
+          "property": "P11693",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q133806076$d0bb9adc-4d23-1baf-68f7-0ec09689a5f6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55299",
+              "numeric-id": 55299
+            }
+          },
+          "hash": "b457fa63a47fe97699b5497644c8d8dd5dadea9c",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q133806076$a88846b4-423a-d486-1ded-906dc4bbdbee",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120966194",
+              "numeric-id": 120966194
+            }
+          },
+          "hash": "726fc103b071acc3cddebd2ebc6679bb23575e3e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133806076$92a3a678-473f-f332-17f7-75c6a010c3c8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393245",
+              "numeric-id": 126393245
+            }
+          },
+          "hash": "afc487e05cd68f3b3afa3e98ef57ca86f66a53d4",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "035a2d3fd67e4a5906de9224f902b8a0d083dc93",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4770056/4769848/5017512"
+                  },
+                  "hash": "d39688305815605912e7af4f6937162be4858055",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "5f005c081c432cf3983acdb6da5aed92a541992a",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4770054/4769681/5015621"
+                  },
+                  "hash": "0c164631be10a1e611aeb742e0826747228cb922",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "913b27e98a54974c602b85b067fa94e0c5b7715c",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4770054/4769695/5016878"
+                  },
+                  "hash": "288f4ada4a086c063b63d34312c6c8a43f5c9c4c",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "83337901ac276910439d45f2b5f5f89cb0b230ac",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4770054/4769698/5016892"
+                  },
+                  "hash": "a04f76f0662f8b66aae4d0ae07c1a7d9b4231220",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "1f985f03bea7c1791e5ad169ebeca49e517f513b",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4770054/4769726/5016942"
+                  },
+                  "hash": "30d71e08f4a06c45bb5fa5e822ad34e42e674b4f",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "2b7dfd5b2016669fb47014a38a896ff3e54db212",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4770054/4769759/5017053"
+                  },
+                  "hash": "eb52bf6b385adb50378fc4ac58711a863ea696fc",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "8ce7671a5551b15700c5ae5402ade3bd337bddb6",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044682/5031622/5144990"
+                  },
+                  "hash": "ac0a6b8bd9a30475338de657487094d48c0bf9dd",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q133806076$dfcea1d4-46db-9bef-433c-34d1c812a001",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q133806076$120c5d8b-4092-398c-5b5c-8b0a04a80dfc",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "St Longory's Well ensemble.jpg"
+          },
+          "hash": "3edc0745bc2e8f45a2fa2f389a576d1d3cfd86e7",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q133806076$d8f4b4e3-4949-ef33-7fdb-707ee34c4583",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5817": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29415466",
+                  "numeric-id": 29415466
+                }
+              },
+              "hash": "639b2a54164bc9b730216770c35b9e6bb93d7f2a",
+              "property": "P5817",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5817"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133806076$fcc402fb-4f6e-5100-fe6e-37161857ef20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q133806076$fa40a285-4771-e964-7dd7-bc850efea090",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "St. Longory's Well"
+          },
+          "hash": "c7231c4852ed2f4070a505e382936e6199403cbb",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q133806076$b30fec52-48ab-a49a-5d9e-d04daeca8adc",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LA036-002003-"
+          },
+          "hash": "91c9d339e5a94677e7434665a609b7b1c24c18dd",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f104470c86fb044a1632a5495204b1c82ceac50f",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CLA036-002003-"
+                  },
+                  "hash": "22d139796ee4c1d850d3a8f92a833d68af5f3259",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q133806076$8103efac-44da-1759-bd79-bfeb5a63a2a7",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.8285683,
+              "longitude": -7.1190579,
+              "precision": 1e-07
+            }
+          },
+          "hash": "7c1e86cb64ee3677576da4cfafa3d3c7ef4d4ffd",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8ece5ca44e176c0cd32cb8dc238d7eedd6286bbc",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P708": [
+      {
+        "id": "Q133806076$654e6c6e-4bb6-3d08-fcc2-9d49fcca3b97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q873607",
+              "numeric-id": 873607
+            }
+          },
+          "hash": "efeff9f87d449cb40dff681967cdf5d27387c166",
+          "property": "P708",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P841": [
+      {
+        "id": "Q133806076$9c75c898-406a-cd3e-539b-dd7000ee127d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2665",
+              "numeric-id": 2665
+            }
+          },
+          "hash": "dfc3681d58736c2e0c226f94d72f39eb486f9eef",
+          "property": "P841",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d4ed8a9acfd9238f85d275ca0c08de29a9e7412a",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q120966194",
+                      "numeric-id": 120966194
+                    }
+                  },
+                  "hash": "2e916a9aca4df18add030dee9cb8aab2de219d07",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "holy well in Kilgorey, Co. Laois, with a rag tree beside it"
+    }
+  },
+  "id": "Q133806076",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St Longory's Well"
+    }
+  },
+  "lastrevid": 2508939440,
+  "modified": "2026-06-21T22:16:31Z",
+  "ns": 0,
+  "pageid": 127653461,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:St. Longory's Well"
+    }
+  },
+  "title": "Q133806076",
+  "type": "item"
+}

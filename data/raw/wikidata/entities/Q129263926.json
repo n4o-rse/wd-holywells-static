@@ -1,0 +1,782 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Nicholas' Well"
+      },
+      {
+        "language": "en",
+        "value": "St. Nicholas' Well"
+      },
+      {
+        "language": "en",
+        "value": "Saint Nicholas's Well"
+      },
+      {
+        "language": "en",
+        "value": "St. Nicholas's Well"
+      }
+    ]
+  },
+  "claims": {
+    "P10": [
+      {
+        "id": "Q129263926$4786805f-4895-d0cf-aea8-cdedc228aec0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Newtown Jerpoint St Nicholas' Well.webm"
+          },
+          "hash": "da3b37112cf466c4ba3970214fb68f23c59f5499",
+          "property": "P10",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P11693": [
+      {
+        "id": "Q129263926$24b7b133-4327-fe01-92f1-d2d17668361f",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "7673751375"
+          },
+          "hash": "484d2c503e46165ab56f03d7c536be9b21517af5",
+          "property": "P11693",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q129263926$d67b08d0-4d17-50bb-ee0b-2907a37685e9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q180231",
+              "numeric-id": 180231
+            }
+          },
+          "hash": "a39489d010d0aade2bfc1a651156d2c4c7f38db8",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129263926$73a25b50-48e1-6788-a2d3-179a4632b807",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60554519",
+              "numeric-id": 60554519
+            }
+          },
+          "hash": "231734af3a4980f888adacafa4424f3e156e9d45",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129263926$d2664b00-463a-e492-0d31-17281ad46f20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104265826",
+              "numeric-id": 104265826
+            }
+          },
+          "hash": "dae90afe983587e1329c40272a21943ab06ae0f0",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1325": [
+      {
+        "id": "Q129263926$31c90d2c-45a8-7d81-ee9f-b16be44a7331",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://sketchfab.com/3d-models/newtown-jerpoint-st-nicholas-well-62521654a1ec4c0ca7430ccbfb448869"
+          },
+          "hash": "ef967d2a0515fb75b970a8a12db91ca9be29ac32",
+          "property": "P1325",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2701": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q2119595",
+                  "numeric-id": 2119595
+                }
+              },
+              "hash": "b631ea58c56fae3b8a4ec286d5d59208243f8bc7",
+              "property": "P2701",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2701"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q129263926$80517626-4e07-7fe7-3489-1d91c8b203fd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129263929",
+              "numeric-id": 129263929
+            }
+          },
+          "hash": "d08a1f62dd6ed577a1eff109f70261cf83e9675f",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Holy Well"
+              },
+              "hash": "d1713d245be0d0b7624021e6799a3ca7736a48f3",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129263926$41f23091-445c-4d45-667b-76ac50cb3cee",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130323815",
+              "numeric-id": 130323815
+            }
+          },
+          "hash": "04094d3630616f96568093a5c4834d7143301df9",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Spring Well"
+              },
+              "hash": "4a0587c6da57f008574e64d804c9112105f12bed",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129263926$c0b045d9-4717-4616-b8d9-1f2393c2a218",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130323783",
+              "numeric-id": 130323783
+            }
+          },
+          "hash": "3d40b537626dbc93303eca704b80e9adc852687a",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "spring well"
+              },
+              "hash": "a2434f44de4dc0657c966572ae2b083fa5ca0993",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "37"
+              },
+              "hash": "0ea4eac35322666eed1739536e8e602fd089a811",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129263926$2858d6fc-44d4-89e9-8a8d-77f5bebf512b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "495282d5451d8dd830414c5fd5ddddcfbf3f7571",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St. Nicholas' Well"
+              },
+              "hash": "cc9645cb505127614fec5e2833f6e9b9fa96b84b",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "25"
+              },
+              "hash": "75f8f83e40f64734b99642ed661dcf58225c1dd0",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q129263926$f594a912-4548-7c2e-fcad-741f30949088",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44269",
+              "numeric-id": 44269
+            }
+          },
+          "hash": "e9c57d5a315626e479334423283a5551e54c9a91",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1651": [
+      {
+        "id": "Q129263926$fc788bb7-41a6-340e-5e77-7edac7d821b4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "tv1vrJexSd4"
+          },
+          "hash": "932d81daafa81152525925330de8051ddf5e425c",
+          "property": "P1651",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Newtown Jerpoint: St Nicholas' Well"
+              },
+              "hash": "d1785732efc7defde104dcf5eb394336d05cf3e8",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2047": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+229.0",
+                  "unit": "http://www.wikidata.org/entity/Q11574"
+                }
+              },
+              "hash": "e47b0566520322feeee281e2fe28f5a5579f0bf6",
+              "property": "P2047",
+              "snaktype": "value"
+            }
+          ],
+          "P2397": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "UCBdGNv-5nSm7--9WCaQStdw"
+              },
+              "hash": "b5a7558c412bf89a27782ad8fe97813a1f2c2c73",
+              "property": "P2397",
+              "snaktype": "value"
+            }
+          ],
+          "P5436": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+2",
+                  "unit": "1"
+                }
+              },
+              "hash": "a57c453609b54240385adb3c9436edcacb166209",
+              "property": "P5436",
+              "snaktype": "value"
+            }
+          ],
+          "P577": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-09-02T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "eba1eb50474eb5824fc83a56def2889b729557a2",
+              "property": "P577",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-09-04T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "821856607098f892aa5db2b850c52955e4ef0125",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P5436",
+          "P577",
+          "P2047",
+          "P2397",
+          "P585"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q129263926$5ae67878-424e-9022-6a59-78aabeaeae37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q129263926$3abee794-4a36-f1e8-d6a5-b7e159d30342",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Nicholas' Well in Newtown Jerpoint.jpg"
+          },
+          "hash": "d0f758e340b5f1a40d0b03690008e61334fd7e1b",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P195": [
+      {
+        "id": "Q129263926$70a99b3f-4003-77e7-e688-f73c7b234f51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132817615",
+              "numeric-id": 132817615
+            }
+          },
+          "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+          "property": "P195",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P217": [
+      {
+        "id": "Q129263926$638de0ae-4956-a288-0f75-4e120085775c",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "KHW2-27"
+          },
+          "hash": "cc0f0d1db311b24fa67976680de9ab087d2483d5",
+          "property": "P217",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P195": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q132817615",
+                  "numeric-id": 132817615
+                }
+              },
+              "hash": "5e2ce6d3c0605ff7e0c1fc2f0428bbd91ef2d1e9",
+              "property": "P195",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P195"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2186": [
+      {
+        "id": "Q129263926$5970fe52-4c4c-0661-0c2e-8a3b76c786b1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "IE-KK-0345"
+          },
+          "hash": "83fcb28fa88b894be5b1a2f8a808d6a3d4f85807",
+          "property": "P2186",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q129263926$32405bb2-4782-a367-3dc1-69909d5cec23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129263926$6fa899b0-4a6e-12fb-275c-bd80bea744cc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q129263926$6d8fef92-4397-d730-28bb-b3bd8fcacc4b",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Nicholas' Well, Newtown Jerpoint"
+          },
+          "hash": "accc975a61cb07fadf63248831b17ed8afc29993",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q129263926$81c86dba-4653-e694-800a-c3a014a6dc7b",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.5134682,
+              "longitude": -7.1637296,
+              "precision": 1e-07
+            }
+          },
+          "hash": "26555ca19405435f30a052c952c0f2023c73684f",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4a7e2da7c676dc417aebdcb0951b7b0dacadb6b2",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ],
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2024-08-18T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "04d303a70bff6a3b5694e49ea3b4179f5a388003",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248",
+              "P813"
+            ]
+          },
+          {
+            "hash": "5e996536439d66adca0197631c4f888bf9b436e5",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q25469578",
+                      "numeric-id": 25469578
+                    }
+                  },
+                  "hash": "580891e40f9b839ff8a5c36971b9765550cbf210",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P708": [
+      {
+        "id": "Q129263926$50a86a4e-414e-4808-7ebf-00a1471cbe2a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q873607",
+              "numeric-id": 873607
+            }
+          },
+          "hash": "efeff9f87d449cb40dff681967cdf5d27387c166",
+          "property": "P708",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "former holy well in Jerpointchurch, Co. Kilkenny"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "tobar beannaithe"
+    }
+  },
+  "id": "Q129263926",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Holy Well"
+    }
+  },
+  "lastrevid": 2329857780,
+  "modified": "2025-03-24T17:07:57Z",
+  "ns": 0,
+  "pageid": 123235640,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:Saint Nicholas' Well, Newtown Jerpoint"
+    }
+  },
+  "title": "Q129263926",
+  "type": "item"
+}

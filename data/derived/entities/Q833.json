@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Meagher: Conahy"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q833$5D87DD54-ACCE-54E7-909A-F5DB9BE373EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130129244"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130129244"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "book about the history of Conahy in Co. Kilkenny"
+    }
+  },
+  "id": "Q833",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Meagher: Conahy, 1998"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "P. D. Vigors: The antiquities of Ullard, County Kilkenny"
+      },
+      {
+        "language": "en",
+        "value": "The antiquities of Ullard, County Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q461$3DE9DE22-CB31-5D02-8AE0-53F6F9D4E32D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126490531"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126490531"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "scholarly article by P.D. Vigors"
+    }
+  },
+  "id": "Q461",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "P. D. Vigors: The antiquities of Ullard, County Kilkenny, in: Journal of the Royal Society of Antiquaries of Ireland 1892"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

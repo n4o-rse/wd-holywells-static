@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "W. Healy: Antiquities from Kilkenny City to Kilcooley Abbey"
+      },
+      {
+        "language": "en",
+        "value": "Antiquities from Kilkenny City to Kilcooley Abbey"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q403$0823D9B9-A25E-5C0B-870D-F7B997107FB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131192961"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q131192961"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the antiquities of Northwest Co Kilkenny by Rev. Healy"
+    }
+  },
+  "id": "Q403",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "W. Healy: Antiquities from Kilkenny City to Kilcooley Abbey, in: Journal of the Waterford and South-East of Ireland Archaeological Society 7, 1901, pp 21-31"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,274 @@
+{
+  "aliases": {},
+  "claims": {
+    "P131": [
+      {
+        "id": "Q122309515$1374ce38-49de-2ff6-853d-f89d7d7efe99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q169923",
+              "numeric-id": 169923
+            }
+          },
+          "hash": "cd2a7f2272a27f4bc1ffb16ecf2a126612b72e37",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P138": [
+      {
+        "id": "Q122309515$825d09ca-4f1f-1e3c-3818-47aa4b17be9b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7665324",
+              "numeric-id": 7665324
+            }
+          },
+          "hash": "58dd9eccbb7cf49c32213d8885a5033d19906b3e",
+          "property": "P138",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q122309515$fc713078-4c5f-bbfe-2d12-1e6586cf71b9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2186": [
+      {
+        "id": "Q122309515$2113b278-4c26-48b9-4c9b-3bfef19fce13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "IE-G-0419"
+          },
+          "hash": "fef74fc69753b2667c34de112e2ed84bd8162ff7",
+          "property": "P2186",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q122309515$abdaf6f3-4098-daac-d74a-9d1de8992514",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1371047",
+              "numeric-id": 1371047
+            }
+          },
+          "hash": "fbc0074a4fc2e874a7b16a3487c337a1fb7b04e8",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "378f4f1f30fb5a5e5e8ac0ee9ad3d050caba0844",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CGA110-082001-"
+                  },
+                  "hash": "080b0b5b84d945fe91142d237a89be6700e7ce46",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q122309515$8d0f41aa-4fe2-e65c-08fd-e0c8496144be",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1004210",
+              "numeric-id": 1004210
+            }
+          },
+          "hash": "394be6bf93919c252af0ada7c56b9b6e6c567279",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "378f4f1f30fb5a5e5e8ac0ee9ad3d050caba0844",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CGA110-082001-"
+                  },
+                  "hash": "080b0b5b84d945fe91142d237a89be6700e7ce46",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q122309515$050a4606-4212-d54c-387b-16b7acbebb48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126443332",
+              "numeric-id": 126443332
+            }
+          },
+          "hash": "9bf1a476fdca410715c35a2f42e8b87f78556083",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q122309515$6E6A1462-2C44-44A0-AC47-D40E70CC722A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "GA110-082001-"
+          },
+          "hash": "cac2643a68b8858a7efc78cce14aaf28cac49357",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "378f4f1f30fb5a5e5e8ac0ee9ad3d050caba0844",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CGA110-082001-"
+                  },
+                  "hash": "080b0b5b84d945fe91142d237a89be6700e7ce46",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q122309515$c514fa4e-433d-cc9a-92c6-e7fe20273a63",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 53.1342029,
+              "longitude": -9.6965396,
+              "precision": 1e-07
+            }
+          },
+          "hash": "4bf86492414babaec2dca35cd27bc71cdd953820",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "holy well on Aran Island in Co. Galway"
+    }
+  },
+  "id": "Q122309515",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Soorney's Well"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tobar Asurnaí"
+    }
+  },
+  "lastrevid": 2487057911,
+  "modified": "2026-05-03T23:00:39Z",
+  "ns": 0,
+  "pageid": 116640121,
+  "sitelinks": {},
+  "title": "Q122309515",
+  "type": "item"
+}

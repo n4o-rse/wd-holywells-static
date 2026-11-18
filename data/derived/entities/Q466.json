@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John O'Leary: Ullard"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q466$7C5D9137-BFDD-5B62-A71F-E01B14BC577D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130140226"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130140226"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the monastic site at Ullard, including St. Fiacre's Well"
+    }
+  },
+  "id": "Q466",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John O'Leary: Ullard, in: Old Kilkenny Review 1948, pp. 20-25"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

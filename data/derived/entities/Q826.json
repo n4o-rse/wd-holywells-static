@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kyteler's Inn"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q826$807700B7-E5CB-5C88-AC7C-D59D1A605D1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128034982"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q128034982"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet about the restoration and history of Kyteler's Inn in Kilkenny"
+    }
+  },
+  "id": "Q826",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Colm O Cochlain: Kyteler's Inn (1987)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

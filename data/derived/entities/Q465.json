@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Edward Hughes: Ullard"
+      },
+      {
+        "language": "en",
+        "value": "E. Hughes: Ullard"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q465$5135FF45-84A6-5787-AAED-E93D2AAFD520",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129839662"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129839662"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the monastic site at Ullard and St. Fiacre"
+    }
+  },
+  "id": "Q465",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Edward Hughes: Ullard, in: Old Kilkenny Review 1970, p. 58-61"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

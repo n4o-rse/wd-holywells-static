@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "child (male)"
+      },
+      {
+        "language": "en",
+        "value": "man-child"
+      },
+      {
+        "language": "en",
+        "value": "male child"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q915$5EEE2EF4-3302-5DAB-B658-0CDCE63D8525",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q177232"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q177232"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "männliches Kind"
+    },
+    "en": {
+      "language": "en",
+      "value": "male offspring; a boy or man in relation to his parents"
+    }
+  },
+  "id": "Q915",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sohn"
+    },
+    "en": {
+      "language": "en",
+      "value": "son"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

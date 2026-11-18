@@ -1,0 +1,117 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Wasserquellen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "water sources"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q388$BAA89FF3-3B0A-5CBA-8866-CAADF4BA2545",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q388$BA22E77E-0032-5A26-9B73-78451B21A7C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q388$8EB28595-F79B-5F6A-B770-EF1DFEAB912E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10713454"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q10713454"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "natürliches Gewässer, das als Trinkwasser genutzt werden kann"
+    },
+    "en": {
+      "language": "en",
+      "value": "natural body of water that can be used as drinking water"
+    }
+  },
+  "id": "Q388",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wasserquelle"
+    },
+    "en": {
+      "language": "en",
+      "value": "water source"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

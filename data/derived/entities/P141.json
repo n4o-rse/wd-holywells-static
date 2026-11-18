@@ -1,0 +1,189 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Einschaltquote"
+      },
+      {
+        "language": "de",
+        "value": "Traffic"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "TV ratings"
+      },
+      {
+        "language": "en",
+        "value": "viewing figures"
+      },
+      {
+        "language": "en",
+        "value": "number of views"
+      },
+      {
+        "language": "en",
+        "value": "views"
+      },
+      {
+        "language": "en",
+        "value": "viewer number"
+      },
+      {
+        "language": "en",
+        "value": "view number"
+      },
+      {
+        "language": "en",
+        "value": "listener number"
+      },
+      {
+        "language": "en",
+        "value": "viewers"
+      },
+      {
+        "language": "en",
+        "value": "listeners"
+      },
+      {
+        "language": "en",
+        "value": "number of plays"
+      },
+      {
+        "language": "en",
+        "value": "plays"
+      },
+      {
+        "language": "en",
+        "value": "play count"
+      },
+      {
+        "language": "en",
+        "value": "number of watches"
+      },
+      {
+        "language": "en",
+        "value": "watches"
+      },
+      {
+        "language": "en",
+        "value": "watch count"
+      },
+      {
+        "language": "en",
+        "value": "viewer count"
+      },
+      {
+        "language": "en",
+        "value": "view count"
+      },
+      {
+        "language": "en",
+        "value": "listener count"
+      },
+      {
+        "language": "en",
+        "value": "listens"
+      },
+      {
+        "language": "en",
+        "value": "number of listens"
+      },
+      {
+        "language": "en",
+        "value": "listen count"
+      },
+      {
+        "language": "en",
+        "value": "number of viewers"
+      },
+      {
+        "language": "en",
+        "value": "number of listeners"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P141$F7D42731-C801-562B-98C2-392197C15F84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P141$9B96BF9F-3679-53B7-96DF-0DD9BE12A20F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P5436"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P5436"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Anzahl von Aufrufen oder Zuschaueranteil von einem Stream- oder Fernsehprogramm; Webtraffic von Websites"
+    },
+    "en": {
+      "language": "en",
+      "value": "number of viewers of a television or broadcasting program; web traffic on websites"
+    }
+  },
+  "id": "P141",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Anzahl von Zuschauern/Zuhörern"
+    },
+    "en": {
+      "language": "en",
+      "value": "number of viewers/listeners"
+    }
+  },
+  "type": "property"
+}

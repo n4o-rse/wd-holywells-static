@@ -1,0 +1,115 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Schutzheiliger"
+      },
+      {
+        "language": "de",
+        "value": "Kirchenpatron"
+      },
+      {
+        "language": "de",
+        "value": "Patronin"
+      },
+      {
+        "language": "de",
+        "value": "Schutzpatronin"
+      },
+      {
+        "language": "de",
+        "value": "Kirchenpatronin"
+      },
+      {
+        "language": "de",
+        "value": "Patronat"
+      },
+      {
+        "language": "de",
+        "value": "Patron"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P151$56405D42-14DC-551D-A0E9-ABF11708E8AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P151$23E41D9F-0786-5610-903F-88F4CDF6C57D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P417"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P417"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Patron eines Ortes, eines Gebäudes oder einer Berufsgruppe"
+    },
+    "en": {
+      "language": "en",
+      "value": "patron saint adopted by the subject"
+    }
+  },
+  "id": "P151",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schutzpatron"
+    },
+    "en": {
+      "language": "en",
+      "value": "patron saint"
+    }
+  },
+  "type": "property"
+}

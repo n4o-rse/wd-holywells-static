@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Gedenktafel"
+      },
+      {
+        "language": "de",
+        "value": "Erinnerungstafel"
+      },
+      {
+        "language": "de",
+        "value": "Inschrift"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "memorial plaque image"
+      },
+      {
+        "language": "en",
+        "value": "inscription image"
+      },
+      {
+        "language": "en",
+        "value": "image of plaque"
+      },
+      {
+        "language": "en",
+        "value": "image of inscription"
+      },
+      {
+        "language": "en",
+        "value": "blue plaque image"
+      },
+      {
+        "language": "en",
+        "value": "commemorative plaque image"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P157$843E99A0-D1A1-5781-A8C2-4EC82C4A3F5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P157$82168B06-1A99-516E-B51A-984184581BA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1801"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1801"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "commonsMedia",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bild einer Gedenktafel oder Inschrift, die an diese Entität erinnert oder sie erwähnt. Für Grabsteine P1442 benutzen"
+    },
+    "en": {
+      "language": "en",
+      "value": "image of plaque or inscription commemorating or mentioning the subject. For graves, use grave picture (P1442)"
+    }
+  },
+  "id": "P157",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bild einer Gedenktafel"
+    },
+    "en": {
+      "language": "en",
+      "value": "plaque image"
+    }
+  },
+  "type": "property"
+}

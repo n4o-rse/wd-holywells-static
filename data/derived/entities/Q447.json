@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margaret M. Phelan: Kilree"
+      },
+      {
+        "language": "en",
+        "value": "Kilree"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q447$B8718479-25A0-5FC2-B2FD-BAB036063C3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130223869"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130223869"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the monastic site at Kilree and some nearby sites and houses"
+    }
+  },
+  "id": "Q447",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Margaret M. Phelan: Kilree, in: Old Kilkenny Review 1973, pp. 16-28"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

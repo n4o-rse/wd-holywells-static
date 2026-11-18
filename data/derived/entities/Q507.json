@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Welcome to Inistioge"
+      },
+      {
+        "language": "en",
+        "value": "R. Tighe: Welcome to Inistioge"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q507$9E6734D9-F457-5658-9BED-BE20DC48374D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130536711"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130536711"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet about the history of Inistioge"
+    }
+  },
+  "id": "Q507",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "R. Tighe: Welcome to Inistioge, Kilkenny 1978"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

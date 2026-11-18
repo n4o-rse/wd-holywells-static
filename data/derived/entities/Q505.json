@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St. Moling - Patron Saint of Tullogher-Rosbercon"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q505$A04973E6-3B9C-555A-A4E6-CCFF4CC70C93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130294561"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130294561"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet about the life of St Moling and associated sites in South Kilkenny"
+    }
+  },
+  "id": "Q505",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kathleen Holohan: St. Moling - Patron Saint of Tullogher-Rosbercon"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sunday after feast of St Peter"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q848$FDBC8C8E-3964-5EBC-ACDC-83CC514015E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q133454946"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q133454946"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Sunday in the month of August"
+    }
+  },
+  "id": "Q848",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sunday after August 13th"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

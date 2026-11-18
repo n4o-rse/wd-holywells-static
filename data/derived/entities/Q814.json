@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "St. Andreas"
+      },
+      {
+        "language": "de",
+        "value": "Sankt Andreas"
+      },
+      {
+        "language": "de",
+        "value": "Apostel Andreas"
+      },
+      {
+        "language": "de",
+        "value": "Hl. Andreas"
+      },
+      {
+        "language": "de",
+        "value": "Heiliger Andreas"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Andreas"
+      },
+      {
+        "language": "en",
+        "value": "St Andrew the Apostle"
+      },
+      {
+        "language": "en",
+        "value": "Saint Andrew"
+      },
+      {
+        "language": "en",
+        "value": "Andrew"
+      },
+      {
+        "language": "en",
+        "value": "St Andrew"
+      },
+      {
+        "language": "en",
+        "value": "Saint Andrew the Apostle"
+      },
+      {
+        "language": "en",
+        "value": "St. Andrew the Apostle"
+      },
+      {
+        "language": "en",
+        "value": "St. Andrew"
+      },
+      {
+        "language": "en",
+        "value": "Anders"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q814$F387EF8D-37D7-5D41-B67B-196F99C4D4C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q43399"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q43399"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "urchristlicher Apostel"
+    },
+    "en": {
+      "language": "en",
+      "value": "religious figure of the Christian faith"
+    }
+  },
+  "id": "Q814",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Andreas"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andrew the Apostle"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

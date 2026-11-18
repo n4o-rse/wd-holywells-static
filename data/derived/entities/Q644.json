@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Sankt Hans"
+      },
+      {
+        "language": "de",
+        "value": "Jochanan ben Sacharja"
+      },
+      {
+        "language": "de",
+        "value": "Johannes d. Täufer"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "St. John the Baptist"
+      },
+      {
+        "language": "en",
+        "value": "Saint John the Baptist"
+      },
+      {
+        "language": "en",
+        "value": "Ioannes Baptista"
+      },
+      {
+        "language": "en",
+        "value": "St John the Baptist"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q644$1059B806-C7F0-56D1-9EA6-6E225EFADA88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q40662"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q40662"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "christlicher Heiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st-century Jewish itinerant preacher (Bible)"
+    }
+  },
+  "id": "Q644",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Johannes der Täufer"
+    },
+    "en": {
+      "language": "en",
+      "value": "John the Baptist"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

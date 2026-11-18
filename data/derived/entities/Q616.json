@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Schlangen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "serpent"
+      },
+      {
+        "language": "en",
+        "value": "🐍"
+      },
+      {
+        "language": "en",
+        "value": "snakes"
+      },
+      {
+        "language": "en",
+        "value": "serpents"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q616$149B920B-3B09-541F-8CEC-4642F9956D90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2102"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2102"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Unterordnung der Schuppenkriechtiere; Reptilien ohne Gliedmaßen"
+    },
+    "en": {
+      "language": "en",
+      "value": "limbless, scaly, elongate reptile"
+    }
+  },
+  "id": "Q616",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schlange"
+    },
+    "en": {
+      "language": "en",
+      "value": "snake"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

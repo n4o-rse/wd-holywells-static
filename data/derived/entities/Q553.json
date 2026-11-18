@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael Delaney: Ladywell"
+      },
+      {
+        "language": "en",
+        "value": "Ladywell"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q553$4123B90F-13BE-533A-BCAC-B7E07E644B37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130266854"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130266854"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "one-paragraph news article about a visit to Ladywell (Castlemarket) by people from North Kilkenny and Laois"
+    }
+  },
+  "id": "Q553",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Michael Delaney: Ladywell, in: Deenside, July-August 1966, p. 16"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

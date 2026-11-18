@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Mattenpilz"
+      },
+      {
+        "language": "de",
+        "value": "Tinea"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "ringworm"
+      },
+      {
+        "language": "en",
+        "value": "tinea"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q617$4BF5A940-DA0C-5CFD-BA62-1992405E416E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1909343"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1909343"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Pilzerkrankung der Keratingebilde"
+    },
+    "en": {
+      "language": "en",
+      "value": "fungal infection of the skin"
+    }
+  },
+  "id": "Q617",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Dermatophytose"
+    },
+    "en": {
+      "language": "en",
+      "value": "dermatophytosis"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

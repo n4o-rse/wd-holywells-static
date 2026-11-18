@@ -1,0 +1,12 @@
+# The holy wells of the Wikidata WikiProject HolyWells (Q126443484): every item that is an instance of the "Holy Well Semantic
+# Concept" (Q126443332), which the WikiProject page names as the statement that always defines a holy well. Items that are
+# "part of" the WikiProject (P361) come in as well; the WikiProject item itself (a WikiProject, Q16695773) does not.
+# If the answer finds too much or too little, look at data/raw/wikidata-seeds/holywells.json; compare with w.wiki/AM5G.
+# The verb seeds-from-sparql runs this query at query.wikidata.org; ?kind becomes the column "kind" of the seed list.
+SELECT DISTINCT ?item ?kind WHERE {
+  { ?item wdt:P31 wd:Q126443332 . }
+  UNION
+  { ?item wdt:P361 wd:Q126443484 . }
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q16695773 }
+  BIND("well" AS ?kind)
+} ORDER BY ?item

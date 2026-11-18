@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Bruchschrift"
+      },
+      {
+        "language": "de",
+        "value": "gebrochene Schriften"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "black letter"
+      },
+      {
+        "language": "en",
+        "value": "Gothic type"
+      },
+      {
+        "language": "en",
+        "value": "Gothic script"
+      },
+      {
+        "language": "en",
+        "value": "Gothic minuscule"
+      },
+      {
+        "language": "en",
+        "value": "Old English"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q385$4F6E09F5-3F39-515A-A594-EC7E21DA3149",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q213686"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q213686"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Schreibstil"
+    },
+    "en": {
+      "language": "en",
+      "value": "old script typeface used throughout Western Europe"
+    }
+  },
+  "id": "Q385",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "gebrochene Schrift"
+    },
+    "en": {
+      "language": "en",
+      "value": "blackletter"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

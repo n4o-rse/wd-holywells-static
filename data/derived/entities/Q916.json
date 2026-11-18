@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Herrschertitel"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q916$4109DFCD-441D-5011-AFF1-47CB6731933A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q116"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herrscher/Staatsoberhaupt in einer Monarchie"
+    },
+    "en": {
+      "language": "en",
+      "value": "person at the head of a monarchy"
+    }
+  },
+  "id": "Q916",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Monarch"
+    },
+    "en": {
+      "language": "en",
+      "value": "monarch"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

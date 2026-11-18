@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Farntemple"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q865$0CBBF8CC-B0C8-55B7-BC2C-01DAB2E25C4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104266487"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104266487"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in The Rower, County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q865",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Farrantemple"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

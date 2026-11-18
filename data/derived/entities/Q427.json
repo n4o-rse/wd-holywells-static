@@ -1,0 +1,153 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Hebewerk"
+      },
+      {
+        "language": "de",
+        "value": "Pumpstation"
+      },
+      {
+        "language": "de",
+        "value": "Pumpenstation"
+      },
+      {
+        "language": "de",
+        "value": "Pumphaus"
+      },
+      {
+        "language": "de",
+        "value": "Pumpenhaus"
+      },
+      {
+        "language": "de",
+        "value": "PumpwerkPumpenwerk"
+      },
+      {
+        "language": "de",
+        "value": "Wasserwerk"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "pumphouse"
+      },
+      {
+        "language": "en",
+        "value": "pump house"
+      },
+      {
+        "language": "en",
+        "value": "pumping house"
+      },
+      {
+        "language": "en",
+        "value": "pump station"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q427$490E476A-0B57-5B30-ADE3-E0746C0EE63A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q427$318056FF-A6C2-5E51-962C-FDB143E5C1AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q427$D390CEE5-7388-5F29-855C-C93B102CB8D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q446013"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q446013"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Anlage, mit der Wasser aus einem niedriger gelegenen Gewässer in ein höher gelegenes gepumpt wird"
+    },
+    "en": {
+      "language": "en",
+      "value": "facilities including pumps and equipment for pumping fluids from one place to another"
+    }
+  },
+  "id": "Q427",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Pumpwerk"
+    },
+    "en": {
+      "language": "en",
+      "value": "pumping station"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

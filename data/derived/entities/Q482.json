@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Scolan"
+      },
+      {
+        "language": "en",
+        "value": "Scoithín of Tiscoffin"
+      },
+      {
+        "language": "en",
+        "value": "Scutinus"
+      },
+      {
+        "language": "en",
+        "value": "Scolanus"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q482$DF6A06FA-10A4-5E94-80CC-72AF1111A82F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16933730"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q16933730"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish saint"
+    }
+  },
+  "id": "Q482",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Scuithin"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

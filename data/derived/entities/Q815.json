@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "oral history interview"
+      },
+      {
+        "language": "en",
+        "value": "oral history transcript"
+      },
+      {
+        "language": "en",
+        "value": "oral history recording"
+      },
+      {
+        "language": "en",
+        "value": "oral history sound recording"
+      },
+      {
+        "language": "en",
+        "value": "oral history audio recording"
+      },
+      {
+        "language": "en",
+        "value": "oral history video recording"
+      },
+      {
+        "language": "en",
+        "value": "oral history videorecording"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q815$799D5D3B-8BE7-5EA4-93CB-D7219794F2DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106813818"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q106813818"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "interview that records an individual's personal recollections of the past and historical events; the audio or video recordings, transcripts, and other materials that capture and are associated with such an interview"
+    }
+  },
+  "id": "Q815",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "oral history"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

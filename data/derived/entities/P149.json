@@ -1,0 +1,169 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Zeitraum"
+      },
+      {
+        "language": "de",
+        "value": "gültig während Zeitraum"
+      },
+      {
+        "language": "de",
+        "value": "betroffene Zeitspanne"
+      },
+      {
+        "language": "de",
+        "value": "Zeitspanne"
+      },
+      {
+        "language": "de",
+        "value": "gültig während Zeitspanne"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "applies to period"
+      },
+      {
+        "language": "en",
+        "value": "time period"
+      },
+      {
+        "language": "en",
+        "value": "period of validity"
+      },
+      {
+        "language": "en",
+        "value": "period of time"
+      },
+      {
+        "language": "en",
+        "value": "period of applicability"
+      },
+      {
+        "language": "en",
+        "value": "valid for"
+      },
+      {
+        "language": "en",
+        "value": "valid for period"
+      },
+      {
+        "language": "en",
+        "value": "valid in season"
+      },
+      {
+        "language": "en",
+        "value": "valid for season"
+      },
+      {
+        "language": "en",
+        "value": "applies to time"
+      },
+      {
+        "language": "en",
+        "value": "applies to era"
+      },
+      {
+        "language": "en",
+        "value": "applies to season"
+      },
+      {
+        "language": "en",
+        "value": "valid during"
+      },
+      {
+        "language": "en",
+        "value": "valid in time period"
+      },
+      {
+        "language": "en",
+        "value": "applies to time period"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P149$169EAAF1-0765-5B08-82CD-A226857C2907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P149$9E9F001D-F611-5685-B8AA-B04180A41AB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1264"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1264"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zeitraum, in dem die Behauptung gültig ist"
+    },
+    "en": {
+      "language": "en",
+      "value": "time period when a statement is valid"
+    }
+  },
+  "id": "P149",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "betroffener Zeitraum"
+    },
+    "en": {
+      "language": "en",
+      "value": "valid in period"
+    }
+  },
+  "type": "property"
+}

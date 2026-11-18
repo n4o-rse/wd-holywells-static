@@ -1,0 +1,91 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "ring fort"
+      },
+      {
+        "language": "en",
+        "value": "ring fortress"
+      },
+      {
+        "language": "en",
+        "value": "rath"
+      },
+      {
+        "language": "en",
+        "value": "cashel"
+      },
+      {
+        "language": "en",
+        "value": "round"
+      },
+      {
+        "language": "en",
+        "value": "fairy fort"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q779$CD3833E0-5CC9-5499-A975-7796B7D1A961",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q92383"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q92383"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ein eine kleine Siedlung umgebendes frühmittelalterliches, kreisrundes Erdwerk"
+    },
+    "en": {
+      "language": "en",
+      "value": "circular fortified settlements that were mostly built during the Early Middle Ages in Northern Europe"
+    }
+  },
+  "id": "Q779",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ráth"
+    },
+    "en": {
+      "language": "en",
+      "value": "ringfort"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

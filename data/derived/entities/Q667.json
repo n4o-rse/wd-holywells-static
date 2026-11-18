@@ -1,0 +1,135 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "place of devotion"
+      },
+      {
+        "language": "en",
+        "value": "worship place"
+      },
+      {
+        "language": "en",
+        "value": "devotion place"
+      },
+      {
+        "language": "en",
+        "value": "significant place of worship"
+      },
+      {
+        "language": "en",
+        "value": "significant place of devotion"
+      },
+      {
+        "language": "en",
+        "value": "places of worship"
+      },
+      {
+        "language": "en",
+        "value": "location of worship"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q667$EE500E45-856B-5128-8722-FAA6717B29AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q667$56B6596F-2EED-5496-981B-D89CB11F4D3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q667$4DFFAB8C-3AB1-50DF-A5A9-2235879ECC87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111286333"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q111286333"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "bedeutender Ort oder Ort, an dem eine Gottheit verehrt wird"
+    },
+    "en": {
+      "language": "en",
+      "value": "significant location or place where a deity is worshipped"
+    }
+  },
+  "id": "Q667",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gebetsplatz"
+    },
+    "en": {
+      "language": "en",
+      "value": "place of worship"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

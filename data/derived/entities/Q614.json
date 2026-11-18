@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Reibstein"
+      },
+      {
+        "language": "de",
+        "value": "Handmühle"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "quern"
+      },
+      {
+        "language": "en",
+        "value": "milling-stone"
+      },
+      {
+        "language": "en",
+        "value": "grinding stone"
+      },
+      {
+        "language": "en",
+        "value": "milling stone"
+      },
+      {
+        "language": "en",
+        "value": "milling stones"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q614$CF79DFC1-892E-5256-91BF-A89E008BD560",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1543947"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1543947"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gerät zur Umwandlung von Körnern"
+    },
+    "en": {
+      "language": "en",
+      "value": "stone tool for hand-grinding various materials, especially foodstuffs"
+    }
+  },
+  "id": "Q614",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Mahlstein"
+    },
+    "en": {
+      "language": "en",
+      "value": "quern-stone"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

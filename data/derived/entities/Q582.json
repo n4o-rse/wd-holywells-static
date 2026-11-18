@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Finan"
+      },
+      {
+        "language": "de",
+        "value": "Finnian"
+      },
+      {
+        "language": "de",
+        "value": "Finán mac Rímedo"
+      },
+      {
+        "language": "de",
+        "value": "Finan mac Rimedo"
+      },
+      {
+        "language": "de",
+        "value": "Finanus"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Finan"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q582$31459264-0133-5EDC-8C9F-8D3B6278FED4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q622223"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q622223"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Mönch, Bischof von Lindisfarne"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Lindisfarne; Saint"
+    }
+  },
+  "id": "Q582",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Finan von Lindisfarne"
+    },
+    "en": {
+      "language": "en",
+      "value": "Finan of Lindisfarne"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

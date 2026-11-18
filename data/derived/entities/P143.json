@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Seite(n) im Digitalisat"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "pdf page"
+      },
+      {
+        "language": "en",
+        "value": "djvu page"
+      },
+      {
+        "language": "en",
+        "value": "page of pdf file"
+      },
+      {
+        "language": "en",
+        "value": "file page number"
+      },
+      {
+        "language": "en",
+        "value": "scan frame"
+      },
+      {
+        "language": "en",
+        "value": "page scan sequence"
+      },
+      {
+        "language": "en",
+        "value": "frame"
+      },
+      {
+        "language": "en",
+        "value": "page in pdf file"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P143$84904C2C-8841-50F7-A5D8-18AA4FD66019",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P143$34B41BB8-8D25-5F44-BD3C-30D04EC8F9E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P7668"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P7668"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Seitenangabe für eine pdf- oder ähnliche Datei. Diese kann von der Seitenzählung des in der Datei reproduzierten Dokumentes abweichen. Mit dieser Eigenschaft kann auf die relevante Seite innerhalb der Datei verlinkt werden."
+    },
+    "en": {
+      "language": "en",
+      "value": "property to indicate a page number of a pdf file or similar. The page number is sometimes different from the numbering of the text reproduced in the document. Should allow to link the page when combined with the file URL"
+    }
+  },
+  "id": "P143",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Seite(n) in Datei"
+    },
+    "en": {
+      "language": "en",
+      "value": "file page"
+    }
+  },
+  "type": "property"
+}

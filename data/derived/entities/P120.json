@@ -1,0 +1,137 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Namensgeber"
+      },
+      {
+        "language": "de",
+        "value": "Namengeber"
+      },
+      {
+        "language": "de",
+        "value": "Eponym"
+      },
+      {
+        "language": "de",
+        "value": "Patrozinium"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "eponym"
+      },
+      {
+        "language": "en",
+        "value": "named for"
+      },
+      {
+        "language": "en",
+        "value": "namesake"
+      },
+      {
+        "language": "en",
+        "value": "etymology"
+      },
+      {
+        "language": "en",
+        "value": "toponym"
+      },
+      {
+        "language": "en",
+        "value": "name after"
+      },
+      {
+        "language": "en",
+        "value": "named in honor of"
+      },
+      {
+        "language": "en",
+        "value": "name origin"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P120$895C34DA-1092-51A3-8908-24A2069DDF35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P120$82D0A1B9-BD22-54C0-AC28-BCDBBE1787FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P138"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P138"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Person oder anderes Objekt als Namensgeber dieses Objekts"
+    },
+    "en": {
+      "language": "en",
+      "value": "entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier \"applies to name\" (P5168) can be used to indicate which one"
+    }
+  },
+  "id": "P120",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "benannt nach"
+    },
+    "en": {
+      "language": "en",
+      "value": "named after"
+    }
+  },
+  "type": "property"
+}

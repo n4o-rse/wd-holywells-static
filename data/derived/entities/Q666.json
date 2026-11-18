@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Senán"
+      },
+      {
+        "language": "en",
+        "value": "Saint Senán"
+      },
+      {
+        "language": "en",
+        "value": "St Senán"
+      },
+      {
+        "language": "en",
+        "value": "Seanán of Laraghbryan"
+      },
+      {
+        "language": "en",
+        "value": "Seanán"
+      },
+      {
+        "language": "en",
+        "value": "Mosheanóg"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q666$59FBCE1D-5257-50FE-A8A4-DB556E241162",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130535684"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130535684"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Heiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irish saint associated with Co. Kildare and Leinster"
+    }
+  },
+  "id": "Q666",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Senán of Laraghbryan"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Afaddy or Silverspring"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q818$315F5D60-0050-54C5-BEF7-D0E4116B027B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104265431"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104265431"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in Pollrone, County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q818",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Afaddy"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

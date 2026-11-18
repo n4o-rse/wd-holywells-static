@@ -1,0 +1,111 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Wasserhebemaschine"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q768$0AC2DAB3-36DE-56CF-8005-CB0BD9D73B89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q768$E63F5D11-0BB5-5008-B218-B07E776B6D98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q768$B2E60B16-5794-51F2-B1FB-766C4E15FE11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2245442"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2245442"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gerät zur Förderung und Bewegung von Wasser"
+    },
+    "en": {
+      "language": "en",
+      "value": "machine for pumping water"
+    }
+  },
+  "id": "Q768",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wasserpumpe"
+    },
+    "en": {
+      "language": "en",
+      "value": "water pump"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

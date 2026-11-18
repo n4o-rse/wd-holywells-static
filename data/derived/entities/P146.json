@@ -1,0 +1,153 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Krankheit"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "disability"
+      },
+      {
+        "language": "en",
+        "value": "ailment"
+      },
+      {
+        "language": "en",
+        "value": "health problem"
+      },
+      {
+        "language": "en",
+        "value": "disorder"
+      },
+      {
+        "language": "en",
+        "value": "illness"
+      },
+      {
+        "language": "en",
+        "value": "disease"
+      },
+      {
+        "language": "en",
+        "value": "paralympic disability"
+      },
+      {
+        "language": "en",
+        "value": "health condition"
+      },
+      {
+        "language": "en",
+        "value": "suffers from"
+      },
+      {
+        "language": "en",
+        "value": "health issue"
+      },
+      {
+        "language": "en",
+        "value": "condition"
+      },
+      {
+        "language": "en",
+        "value": "suffer from"
+      },
+      {
+        "language": "en",
+        "value": "sickness"
+      },
+      {
+        "language": "en",
+        "value": "medical state"
+      },
+      {
+        "language": "en",
+        "value": "injury"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P146$5BD19B74-A6C2-5CE1-BD53-42DF2EE51FF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P146$4D4527F6-0F15-56EF-954A-0B862B8CF701",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1050"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1050"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Krankheit oder andere Gesundheitsprobleme eines einzelnen Menschen oder Tieres"
+    },
+    "en": {
+      "language": "en",
+      "value": "any state relevant to the health of an organism, including diseases and positive conditions"
+    }
+  },
+  "id": "P146",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Erkrankung"
+    },
+    "en": {
+      "language": "en",
+      "value": "medical condition"
+    }
+  },
+  "type": "property"
+}

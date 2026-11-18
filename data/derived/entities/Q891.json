@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "25.4."
+      },
+      {
+        "language": "de",
+        "value": "25.04."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "25 April"
+      },
+      {
+        "language": "en",
+        "value": "April 25th"
+      },
+      {
+        "language": "en",
+        "value": "25th of April"
+      },
+      {
+        "language": "en",
+        "value": "Apr 25"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q891$0138565B-47F2-5FF4-B53A-4C8DE2FB277F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2531"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2531"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q891",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "25. April"
+    },
+    "en": {
+      "language": "en",
+      "value": "April 25"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Waldgebiet"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "wood"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q896$ECE837A0-0AC9-5593-AAF2-11C6F4335CCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4421"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q4421"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "aus Bäumen bestehende Pflanzenformation"
+    },
+    "en": {
+      "language": "en",
+      "value": "subjective characterization of an area with trees"
+    }
+  },
+  "id": "Q896",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wald"
+    },
+    "en": {
+      "language": "en",
+      "value": "forest"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

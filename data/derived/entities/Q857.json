@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Abhang"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q857$16BE7664-9DE9-551F-9B2B-4E69D1840B15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q944588"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q944588"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "geneigte, oft leicht bis mäßig steile Fläche eines Geländes, beispielsweise ein Berghang oder an der Seite einer Talsohle"
+    },
+    "en": {
+      "language": "en",
+      "value": "inclined surface or face of a hill, mountain, or other landform feature that connects the pass to the ridge"
+    }
+  },
+  "id": "Q857",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Hang"
+    },
+    "en": {
+      "language": "en",
+      "value": "slope"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

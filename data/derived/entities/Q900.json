@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "1.1."
+      },
+      {
+        "language": "de",
+        "value": "01.01."
+      },
+      {
+        "language": "de",
+        "value": "1. Jänner"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "1 January"
+      },
+      {
+        "language": "en",
+        "value": "January 1st"
+      },
+      {
+        "language": "en",
+        "value": "1st of January"
+      },
+      {
+        "language": "en",
+        "value": "Jan 1"
+      },
+      {
+        "language": "en",
+        "value": "--01-01"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q900$AE4CA19C-3B47-597F-B228-857F62DFEF19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2150"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2150"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q900",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "1. Januar"
+    },
+    "en": {
+      "language": "en",
+      "value": "January 1"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

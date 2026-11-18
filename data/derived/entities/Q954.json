@@ -1,0 +1,99 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NIR"
+      },
+      {
+        "language": "en",
+        "value": "UKN"
+      },
+      {
+        "language": "en",
+        "value": "North Ireland"
+      },
+      {
+        "language": "en",
+        "value": "N. Ireland"
+      },
+      {
+        "language": "en",
+        "value": "NI"
+      },
+      {
+        "language": "en",
+        "value": "The North"
+      },
+      {
+        "language": "en",
+        "value": "Tuaisceart Éireann"
+      },
+      {
+        "language": "en",
+        "value": "The Six Counties"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q954$68B033EE-C9A0-52CD-AA33-05BA8D0668B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q26"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Landesteil des Vereinigten Königreiches und Nordteil der Insel Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "part of the United Kingdom situated on the island of Ireland"
+    }
+  },
+  "id": "Q954",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Nordirland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Northern Ireland"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "lodge"
+      },
+      {
+        "language": "en",
+        "value": "lodge house"
+      },
+      {
+        "language": "en",
+        "value": "gate house"
+      },
+      {
+        "language": "en",
+        "value": "entrance lodge"
+      },
+      {
+        "language": "en",
+        "value": "gate lodge"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q945$1F5694DE-91EE-570A-AB1D-44DB76AA9C6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q277760"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q277760"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gebäude, das baulich mit einem Tor verbunden ist"
+    },
+    "en": {
+      "language": "en",
+      "value": "building enclosing or accompanying a gateway"
+    }
+  },
+  "id": "Q945",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Torhaus"
+    },
+    "en": {
+      "language": "en",
+      "value": "gatehouse"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

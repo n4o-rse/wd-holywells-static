@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "likely"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q641$B1A85CFC-DD98-5BFC-B33F-019F17EA2DAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q56644435"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q56644435"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "die Behauptung ist unsicher, aber sehr wahrscheinlich (zu benutzen mit Qualifikator, etwa P1480)"
+    },
+    "en": {
+      "language": "en",
+      "value": "the source specified value and explicitly stated that value is probable. For use with qualifier P1480 or P5102."
+    }
+  },
+  "id": "Q641",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "wahrscheinlich"
+    },
+    "en": {
+      "language": "en",
+      "value": "probably"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

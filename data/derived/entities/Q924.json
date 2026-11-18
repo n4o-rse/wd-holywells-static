@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Mittsommer"
+      },
+      {
+        "language": "de",
+        "value": "Sommersonnenwendfeier"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Midsummer Festival"
+      },
+      {
+        "language": "en",
+        "value": "Saint John's Day"
+      },
+      {
+        "language": "en",
+        "value": "Saint John's Feast"
+      },
+      {
+        "language": "en",
+        "value": "Saint John's Festival"
+      },
+      {
+        "language": "en",
+        "value": "Feast of Saint John the Baptist"
+      },
+      {
+        "language": "en",
+        "value": "Summer Solstice Festival"
+      },
+      {
+        "language": "en",
+        "value": "Midsommar"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q924$A8827639-8C2D-5EC0-AF9E-3FC1053D6C9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q154502"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q154502"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Feier in der kürzesten Nacht des Jahres auf der Nordhemisphäre"
+    },
+    "en": {
+      "language": "en",
+      "value": "festival associated with the summer solstice in the Northern hemisphere"
+    }
+  },
+  "id": "Q924",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Mittsommerfest"
+    },
+    "en": {
+      "language": "en",
+      "value": "Midsummer"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

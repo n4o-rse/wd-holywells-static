@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Paternosterschnur"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Holy Rosary"
+      },
+      {
+        "language": "en",
+        "value": "Rosary"
+      },
+      {
+        "language": "en",
+        "value": "Rosarium"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q845$4FDFD8AB-05E4-570C-B23E-1DE7BD8BCEA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q132539"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q132539"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gebet in der katholischen Kirche, auch die genutzte Gebetskette"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic sacramental and Marian devotion to prayer"
+    }
+  },
+  "id": "Q845",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Rosenkranz"
+    },
+    "en": {
+      "language": "en",
+      "value": "rosary"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

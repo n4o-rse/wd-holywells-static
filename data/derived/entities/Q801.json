@@ -1,0 +1,115 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "water source"
+      },
+      {
+        "language": "en",
+        "value": "water resources"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q801$08D02CA7-CCB5-5892-83CB-1DB4F082B1BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q801$97A02C1F-FA1B-503A-8457-7940A454EC70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q801$5B7DF72D-3024-5583-8F8C-707D4FE5DE9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1049799"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1049799"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Nützliche oder potentiell nützliche Bezugsquellen für Wasser"
+    },
+    "en": {
+      "language": "en",
+      "value": "sources of water that are useful or potentially useful"
+    }
+  },
+  "id": "Q801",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wasserressourcen"
+    },
+    "en": {
+      "language": "en",
+      "value": "water resource"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

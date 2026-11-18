@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The Holy Well"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q543$797E2513-6981-58E1-AD22-57B48C705DF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130266736"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130266736"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "news article about Cruckny Well in Castlecomer"
+    }
+  },
+  "id": "Q543",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The Holy Well, in: Deenside, June 1964, p. 10"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

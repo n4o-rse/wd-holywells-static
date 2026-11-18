@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Sankt Martin"
+      },
+      {
+        "language": "de",
+        "value": "St. Martin von Tours"
+      },
+      {
+        "language": "de",
+        "value": "St. Martin"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Sanctus Martinus Turonensis"
+      },
+      {
+        "language": "en",
+        "value": "Martinus Turonensis"
+      },
+      {
+        "language": "en",
+        "value": "Saint Martin"
+      },
+      {
+        "language": "en",
+        "value": "St. Martin"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q732$D0C836B3-0BEA-5F3F-82F3-EFFCD65DC913",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q133704"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q133704"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Heiliger, dritter Bischof von Tours"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian saint (c.316/336 - 397)"
+    }
+  },
+  "id": "Q732",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Martin von Tours"
+    },
+    "en": {
+      "language": "en",
+      "value": "Martin of Tours"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

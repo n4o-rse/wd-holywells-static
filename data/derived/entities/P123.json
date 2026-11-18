@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Zustand"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "use status"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P123$09B7FC0C-E24E-5EB3-8821-48170D965369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P123$4AEC898B-FBB7-5CD3-BA2C-8E02C752D316",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P5817"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P5817"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Angabe des Nutzungszustands eines Gebäudes, Denkmals; Projekts usw. Steht nicht im Zusammenhang mit dem Schutz des Kulturerbes (P1435), sondern bezieht sich auf die gegenwärtige Nutzung. Z. B.: aufgegeben, in Gebrauch, vorübergehend geschlossen, usw."
+    },
+    "en": {
+      "language": "en",
+      "value": "to indicate state of use of a building, monument, etc. It is not related with its heritage protection (P1435), but to its present state of use. Ex.: abandoned, in use, temporarily closed, etc."
+    }
+  },
+  "id": "P123",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Nutzungszustand"
+    },
+    "en": {
+      "language": "en",
+      "value": "state of use"
+    }
+  },
+  "type": "property"
+}

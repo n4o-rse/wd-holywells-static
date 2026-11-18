@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "21. Jänner"
+      },
+      {
+        "language": "de",
+        "value": "21.1."
+      },
+      {
+        "language": "de",
+        "value": "21.01."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "21 January"
+      },
+      {
+        "language": "en",
+        "value": "January 21st"
+      },
+      {
+        "language": "en",
+        "value": "21st of January"
+      },
+      {
+        "language": "en",
+        "value": "Jan 21"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q784$FDECD965-7F03-509A-BB17-785977EC6DC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2273"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2273"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q784",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "21. Januar"
+    },
+    "en": {
+      "language": "en",
+      "value": "January 21"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "An Historical Survey of St. John's, Kilkenny - History, People and Antiquities"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q537$76374CCB-CB69-5A7F-8E62-AD133CA63CE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128033900"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q128033900"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "history book about the parish of St. John's, Kilkenny, Ireland"
+    }
+  },
+  "id": "Q537",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "An Historical Survey of St. John's, Kilkenny"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

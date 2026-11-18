@@ -1,0 +1,117 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Máedóg"
+      },
+      {
+        "language": "de",
+        "value": "Edan"
+      },
+      {
+        "language": "de",
+        "value": "Máedóc"
+      },
+      {
+        "language": "de",
+        "value": "Madoc"
+      },
+      {
+        "language": "de",
+        "value": "Maodhóg"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Maedoc of Ferns"
+      },
+      {
+        "language": "en",
+        "value": "Madoc of Ferns"
+      },
+      {
+        "language": "en",
+        "value": "St. Aedan of Ferns"
+      },
+      {
+        "language": "en",
+        "value": "Aedan of Ferns"
+      },
+      {
+        "language": "en",
+        "value": "Saint Aedan"
+      },
+      {
+        "language": "en",
+        "value": "Saint Mogue"
+      },
+      {
+        "language": "en",
+        "value": "Maodhóg of Ferns"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q604$B64AFF67-373C-51FE-96C0-3C5AAC64361E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q404099"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q404099"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Bischof und Heiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irish bishop and saint"
+    }
+  },
+  "id": "Q604",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aidán von Ferns"
+    },
+    "en": {
+      "language": "en",
+      "value": "Máedóc of Ferns"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

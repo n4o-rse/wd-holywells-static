@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q420$1FB08789-E9B2-5A8C-9F02-6B2CF53324A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q25393089"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q25393089"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "examination and recording of a set of individuals, a geographical or astronomical area, or other scientific field so as to obtain data to construct a map, plan, or description"
+    }
+  },
+  "id": "Q420",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "survey"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

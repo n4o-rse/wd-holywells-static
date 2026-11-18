@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Halfway Between Dublin and Cork"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q763$0514CC4D-AC3A-5768-A2F2-C9A28D77B025",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129410186"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129410186"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "book about the history of Urlingford and surrounds"
+    }
+  },
+  "id": "Q763",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Margaret Hayes: Halfway Between Dublin and Cork"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ballymakeera"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q971$F24E5C6F-DBB8-5683-B7A0-65EB1CE7322F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104300142"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104300142"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in Ullanes, County Cork, Ireland"
+    }
+  },
+  "id": "Q971",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ballymakeery"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

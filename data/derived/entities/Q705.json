@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "24.6."
+      },
+      {
+        "language": "de",
+        "value": "24.06."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "June 24th"
+      },
+      {
+        "language": "en",
+        "value": "24th of June"
+      },
+      {
+        "language": "en",
+        "value": "24 June"
+      },
+      {
+        "language": "en",
+        "value": "Jun 24"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q705$1C73D601-9914-59D7-8C4D-13992861B64F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2665"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2665"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q705",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "24. Juni"
+    },
+    "en": {
+      "language": "en",
+      "value": "June 24"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

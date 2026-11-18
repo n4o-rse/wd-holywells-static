@@ -1,0 +1,131 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "cancelled identifier"
+      },
+      {
+        "language": "en",
+        "value": "canceled identifier"
+      },
+      {
+        "language": "en",
+        "value": "deprecated identifier"
+      },
+      {
+        "language": "en",
+        "value": "former identifier"
+      },
+      {
+        "language": "en",
+        "value": "cancelled identifier value"
+      },
+      {
+        "language": "en",
+        "value": "canceled identifier value"
+      },
+      {
+        "language": "en",
+        "value": "former identifier value"
+      },
+      {
+        "language": "en",
+        "value": "deprecated ID"
+      },
+      {
+        "language": "en",
+        "value": "cancelled ID"
+      },
+      {
+        "language": "en",
+        "value": "canceled ID"
+      },
+      {
+        "language": "en",
+        "value": "former ID"
+      },
+      {
+        "language": "en",
+        "value": "deprecated ID value"
+      },
+      {
+        "language": "en",
+        "value": "cancelled ID value"
+      },
+      {
+        "language": "en",
+        "value": "canceled ID value"
+      },
+      {
+        "language": "en",
+        "value": "former ID value"
+      },
+      {
+        "language": "en",
+        "value": "old ID"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q747$C284A337-9F53-5C37-B0A2-B2EB5892B723",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q67125514"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q67125514"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Identifikatorwert, der beibehalten wird, aber von seiner Quelle als veraltet markiert wurde (verwende stattdessen Q21441764, wenn die ID nicht mehr gültig ist)"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier value that is retained but deprecated by its source (use Q21441764 instead if the ID is no longer operative)"
+    }
+  },
+  "id": "Q747",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "veralteter Identifikatorwert"
+    },
+    "en": {
+      "language": "en",
+      "value": "deprecated identifier value"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

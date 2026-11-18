@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mary Kenealy, LL.B.: St. Kieran Street (East Side)"
+      },
+      {
+        "language": "en",
+        "value": "Mary Kenealy: St. Kieran Street (East Side)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q729$9D187C90-FCEF-5079-BB0F-EEAB4DDA1B2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129994261"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129994261"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the history and architecture of Kieran Street in Kilkenny"
+    }
+  },
+  "id": "Q729",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mary Kenealy, LL.B.: St. Kieran Street (East Side), in: Old Kilkenny Review 1965, pp. 22-31"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

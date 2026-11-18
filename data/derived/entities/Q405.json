@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "blind"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "blind"
+      },
+      {
+        "language": "en",
+        "value": "being blind"
+      },
+      {
+        "language": "en",
+        "value": "sightlessness"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q405$90AC706E-5F8D-59FB-8516-622B46759E92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10874"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q10874"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sehbehinderung mit gänzlich fehlendem oder nur äußerst gering vorhandenem visuellen Wahrnehmungsvermögen eines oder beider Augen"
+    },
+    "en": {
+      "language": "en",
+      "value": "complete or nearly complete lack of vision; visual acuity worse than 3/60"
+    }
+  },
+  "id": "Q405",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Blindheit"
+    },
+    "en": {
+      "language": "en",
+      "value": "blindness"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

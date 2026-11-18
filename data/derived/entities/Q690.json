@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ballgory"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q690$5E71E798-8562-553B-884A-E44D397F53AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104265537"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104265537"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in Portnascully, County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q690",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ballygorey"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

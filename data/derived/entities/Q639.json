@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "3.5."
+      },
+      {
+        "language": "de",
+        "value": "03.05."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "3 May"
+      },
+      {
+        "language": "en",
+        "value": "May 3rd"
+      },
+      {
+        "language": "en",
+        "value": "3rd of May"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q639$5BD48CEB-2ACB-5B14-9347-678FDE4202ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2547"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2547"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "date"
+    }
+  },
+  "id": "Q639",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "3. Mai"
+    },
+    "en": {
+      "language": "en",
+      "value": "May 3"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

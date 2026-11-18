@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "TOAS"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q720$EA8C2A6C-773D-5EE1-8C7A-7E6E24F181A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126473089"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126473089"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "historical journal"
+    }
+  },
+  "id": "Q720",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Transactions of the Ossory Archaeological Society"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,115 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "retired"
+      },
+      {
+        "language": "en",
+        "value": "deprecated"
+      },
+      {
+        "language": "en",
+        "value": "obsoleted"
+      },
+      {
+        "language": "en",
+        "value": "obsolete value"
+      },
+      {
+        "language": "en",
+        "value": "outdated value"
+      },
+      {
+        "language": "en",
+        "value": "obsolete information"
+      },
+      {
+        "language": "en",
+        "value": "outdated information"
+      },
+      {
+        "language": "en",
+        "value": "disused"
+      },
+      {
+        "language": "en",
+        "value": "retracted"
+      },
+      {
+        "language": "en",
+        "value": "not currently valid value"
+      },
+      {
+        "language": "en",
+        "value": "!cvv"
+      },
+      {
+        "language": "en",
+        "value": "out of use"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q733$417EA424-0673-59A0-BBF7-5B0BFC541B0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q107356532"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q107356532"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "der Wert galt in der Vergangenheit, gilt aber nicht mehr"
+    },
+    "en": {
+      "language": "en",
+      "value": "the value was applicable in the past, but is no longer applicable (changed or removed)"
+    }
+  },
+  "id": "Q733",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "veraltet"
+    },
+    "en": {
+      "language": "en",
+      "value": "obsolete"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

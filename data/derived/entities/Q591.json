@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "6.11."
+      },
+      {
+        "language": "de",
+        "value": "06.11."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "November 6th"
+      },
+      {
+        "language": "en",
+        "value": "6th of November"
+      },
+      {
+        "language": "en",
+        "value": "6 November"
+      },
+      {
+        "language": "en",
+        "value": "Nov 6"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q591$BB7300AD-1292-5365-829B-3077582BABAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2992"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2992"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "day of the year"
+    }
+  },
+  "id": "Q591",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "6. November"
+    },
+    "en": {
+      "language": "en",
+      "value": "November 6"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "24.5."
+      },
+      {
+        "language": "de",
+        "value": "24.05."
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "24 May"
+      },
+      {
+        "language": "en",
+        "value": "May 24th"
+      },
+      {
+        "language": "en",
+        "value": "24th of May"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q674$22000271-EDD4-574B-867A-448B90613036",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2584"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2584"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Datum"
+    },
+    "en": {
+      "language": "en",
+      "value": "date"
+    }
+  },
+  "id": "Q674",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "24. Mai"
+    },
+    "en": {
+      "language": "en",
+      "value": "May 24"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

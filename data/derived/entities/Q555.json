@@ -1,0 +1,83 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Brendan mac Nemainn"
+      },
+      {
+        "language": "en",
+        "value": "Brendan"
+      },
+      {
+        "language": "en",
+        "value": "Bréannainn of Birr"
+      },
+      {
+        "language": "en",
+        "value": "Seanbhréannainn"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q555$44965431-97AE-536D-9859-13CB3AA37850",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q250370"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q250370"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Abt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irish abbot and monastic saint"
+    }
+  },
+  "id": "Q555",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Brendan von Birr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Brendan of Birr"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

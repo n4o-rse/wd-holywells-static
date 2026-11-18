@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "local geographic knowledge"
+      },
+      {
+        "language": "en",
+        "value": "knowledge of locality"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q434$406C7348-23B8-51A1-A02B-C2E93A2C82FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q94928901"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q94928901"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "knowledge of your native or home district or region"
+    }
+  },
+  "id": "Q434",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "local knowledge"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

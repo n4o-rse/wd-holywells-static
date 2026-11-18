@@ -1,0 +1,129 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Mineralquellen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "natural spring"
+      },
+      {
+        "language": "en",
+        "value": "thermal spring"
+      },
+      {
+        "language": "en",
+        "value": "thermal source"
+      },
+      {
+        "language": "en",
+        "value": "Mineral spring"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q931$85677DBE-5BB8-5041-9F4A-0DD11B035FCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q931$29C59E16-F83C-5FFC-9FB6-C4214FBB17BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q931$BE56CDFE-0512-5325-BD0B-5392EF4DA283",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1365924"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1365924"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Quelle, die mineralhaltiges Wasser liefert"
+    },
+    "en": {
+      "language": "en",
+      "value": "natural springs that produce water containing minerals"
+    }
+  },
+  "id": "Q931",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Mineralquelle"
+    },
+    "en": {
+      "language": "en",
+      "value": "mineral spring"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

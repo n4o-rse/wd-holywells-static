@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Johnswell"
+      },
+      {
+        "language": "en",
+        "value": "Johnswell Millennium Reunion"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q707$634D7A41-965D-50A0-8B63-7C65B295BA22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129177110"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129177110"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "booklet about the history and social life of Johnswell, Co. Kilkenny"
+    }
+  },
+  "id": "Q707",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joan Manning: Johnswell Millennium Reunion"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

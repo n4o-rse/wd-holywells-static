@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St. Canice's Muckalee"
+      },
+      {
+        "language": "en",
+        "value": "Mary O'Shea: St. Canice's Muckalee: An Early Christian Site"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q685$BCF7E4CC-24DB-5E59-A388-CC0451125CF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130223793"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130223793"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the church site at Muckalee, RC parish of Mullinavat, Co. Kilkenny"
+    }
+  },
+  "id": "Q685",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mary O'Shea: St. Canice's Muckalee: An Early Christian Site, in: Old Kilkenny Review 1995, pp. 41-43"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

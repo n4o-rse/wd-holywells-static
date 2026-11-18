@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Priesterin"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "reverend"
+      },
+      {
+        "language": "en",
+        "value": "priestess"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q608$5015C53A-0D85-5430-9505-9707500129B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q42603"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q42603"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Amtsperson, die in ihrer Eigenschaft als Vorsteher kultischer Handlungen eine Mittlerrolle zwischen jeweiliger Gottheit und den Menschen einnimmt"
+    },
+    "en": {
+      "language": "en",
+      "value": "person who consecrates his life to some divinity and whose main functions are to direct religious rites and offer sacrifices to the divinity (for a minister use Q1423891)"
+    }
+  },
+  "id": "Q608",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Priester"
+    },
+    "en": {
+      "language": "en",
+      "value": "priest"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tullamaine, Co. Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q782$7752913E-1B06-5034-8B2A-D1C943904CE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q134720375"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q134720375"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about archaeological excavations at the former monastic site of Tullamaine, Co. Kilkenny"
+    }
+  },
+  "id": "Q782",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "M. G. O'Donnell: Tullamaine, Co. Kilkenny, in: Archaeological excavations on the Cork-Dublin gas pipeline (1981-2), pp. 59-60"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

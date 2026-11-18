@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Hl. Anna"
+      },
+      {
+        "language": "de",
+        "value": "Sankt Anna"
+      },
+      {
+        "language": "de",
+        "value": "Mutter Anna"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "St. Anne"
+      },
+      {
+        "language": "en",
+        "value": "St. Anna"
+      },
+      {
+        "language": "en",
+        "value": "St Anne"
+      },
+      {
+        "language": "en",
+        "value": "St Anna"
+      },
+      {
+        "language": "en",
+        "value": "Anne"
+      },
+      {
+        "language": "en",
+        "value": "Saint Anna"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q889$10129F84-9109-5245-9D73-89AAFD3C65B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q164294"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q164294"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Mutter Marias"
+    },
+    "en": {
+      "language": "en",
+      "value": "mother of Virgin Mary in Christian and Islamic traditions; unnamed in the New Testament or Quran"
+    }
+  },
+  "id": "Q889",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Heilige Anna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Anne"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}
